@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Panzoom for jQuery</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <style type="text/css">
+      .parent { text-align: center; position:fixed; top:0; left:0; height:100%; width:100%;}
+    </style>
+    <script src="zoomer/jquery.js"></script>
+    <script src="zoomer/jquery.panzoom.min.js"></script>
+  </head>
+  <body>
+    <section>
+      <div class="parent">
+        <div class="panzoom">
+          <img src="../mockup.png">
+        </div>
+      </div>
+      <script>
+        (function() {
+          var $section = $('section').first();
+          $section.find('.panzoom').panzoom();
+        })();
+      </script>
+    </section>
+  </body>
+</html>
