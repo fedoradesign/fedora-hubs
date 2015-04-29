@@ -227,12 +227,12 @@
     <text
        sodipodi:linespacing="521%"
        id="text9870"
-       y="62.579205"
+       y="78.983368"
        x="86.518669"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#abb400;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:521.00000381%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#abb400;stroke-width:0.26458332px"
-         y="62.579205"
+         y="78.983368"
          x="86.518669"
          id="tspan9872"
          sodipodi:role="line">MAILING LIST POSTS</tspan></text>
@@ -240,22 +240,22 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="92.868668"
-       y="74.220871"
+       y="90.625031"
        id="text9874"
        sodipodi:linespacing="120%"><tspan
          sodipodi:role="line"
          id="tspan9876"
          x="92.868668"
-         y="74.220871"
+         y="90.625031"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">ability to read full content of *first*</tspan><tspan
          id="tspan9878"
          sodipodi:role="line"
          x="92.868668"
-         y="81.417542"
+         y="97.821701"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">post in thread inline on hub page</tspan></text>
     <circle
        r="1.190625"
-       cy="72.76564"
+       cy="89.1698"
        cx="88.503136"
        id="circle9880"
        style="opacity:1;fill:#abb400;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
@@ -263,28 +263,28 @@
        style="opacity:1;fill:#abb400;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle9882"
        cx="88.503136"
-       cy="89.698975"
+       cy="106.10313"
        r="1.190625" />
     <text
        sodipodi:linespacing="120%"
        id="text9884"
-       y="92.212524"
+       y="108.61668"
        x="92.868668"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan9888"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
-         y="92.212524"
+         y="108.61668"
          x="92.868668"
          sodipodi:role="line">ability to view reply posts in thread</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
-         y="99.409195"
+         y="115.81335"
          x="92.868668"
          sodipodi:role="line"
          id="tspan9904">inline on hub page (hyperkitty style)</tspan></text>
     <circle
        r="1.190625"
-       cy="107.69062"
+       cy="124.09477"
        cx="88.503136"
        id="circle9890"
        style="opacity:1;fill:#abb400;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
@@ -292,17 +292,17 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="92.868668"
-       y="110.20419"
+       y="126.60835"
        id="text9892"
        sodipodi:linespacing="120%"><tspan
          id="tspan9896"
          sodipodi:role="line"
          x="92.868668"
-         y="110.20419"
+         y="126.60835"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">ability to post replies inline on hub </tspan><tspan
          sodipodi:role="line"
          x="92.868668"
-         y="117.40086"
+         y="133.80502"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
          id="tspan9908">page (hyperkitty style)</tspan></text>
     <text
@@ -764,23 +764,23 @@
        style="opacity:1;fill:#abb400;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle10260"
        cx="88.503136"
-       cy="125.15314"
+       cy="141.55731"
        r="1.190625" />
     <text
        sodipodi:linespacing="120%"
        id="text10262"
-       y="127.66669"
+       y="144.07086"
        x="92.868668"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
-         y="127.66669"
+         y="144.07086"
          x="92.868668"
          sodipodi:role="line"
          id="tspan10264">notification if mentioned in post or</tspan><tspan
          id="tspan10266"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
-         y="134.86336"
+         y="151.26753"
          x="92.868668"
          sodipodi:role="line">replies (or if your post liked)</tspan></text>
     <text
@@ -1176,5 +1176,41 @@
        cx="10.186476"
        cy="264.3241"
        r="1.190625" />
+    <circle
+       style="opacity:1;fill:#abb400;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle10462"
+       cx="88.503136"
+       cy="57.419762"
+       r="1.190625" />
+    <text
+       sodipodi:linespacing="120%"
+       id="text10464"
+       y="59.933315"
+       x="92.868668"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan10468"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="59.933315"
+         x="92.868668"
+         sodipodi:role="line">notification your post receives reply</tspan></text>
+    <circle
+       r="1.190625"
+       cy="157.43233"
+       cx="88.503136"
+       id="circle10472"
+       style="opacity:1;fill:#abb400;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="92.868668"
+       y="159.94588"
+       id="text10474"
+       sodipodi:linespacing="120%"><tspan
+         sodipodi:role="line"
+         x="92.868668"
+         y="159.94588"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan10478">notification your post receives reply</tspan></text>
   </g>
 </svg>
