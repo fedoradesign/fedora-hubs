@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="14in"
+   height="8.5in"
+   viewBox="0 0 355.6 215.9"
+   id="svg9251"
+   version="1.1"
+   inkscape:version="0.91+devel r13893"
+   sodipodi:docname="diagram-1.svg">
+  <defs
+     id="defs9253" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="727.78571"
+     inkscape:cy="325.14286"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="2560"
+     inkscape:window-height="1397"
+     inkscape:window-x="2560"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata9256">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-81.1)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="280.19376"
+       y="102.79586"
+       id="text9802"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         id="tspan9804"
+         x="280.19376"
+         y="102.79586"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:521.00000381%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">FAS integration</tspan></text>
+    <text
+       sodipodi:linespacing="521%"
+       id="text9806"
+       y="102.79586"
+       x="20.902018"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:521.00000381%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="102.79586"
+         x="20.902018"
+         id="tspan9808"
+         sodipodi:role="line">fedmsg data</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="190.23538"
+       y="102.79586"
+       id="text9810"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         id="tspan9812"
+         x="190.23538"
+         y="102.79586"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:521.00000381%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">custom apps</tspan></text>
+    <text
+       sodipodi:linespacing="521%"
+       id="text9814"
+       y="102.79586"
+       x="94.985329"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:521.00000381%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="102.79586"
+         x="94.985329"
+         id="tspan9816"
+         sodipodi:role="line">special content</tspan></text>
+    <rect
+       style="opacity:1;fill:#cc0000;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9818"
+       width="30.956249"
+       height="2.3812499"
+       x="19.579166"
+       y="94.32917" />
+    <rect
+       y="94.32917"
+       x="94.191658"
+       height="2.3812499"
+       width="34.660416"
+       id="rect9820"
+       style="opacity:1;fill:#abb400;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#a07cbc;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9822"
+       width="30.427082"
+       height="2.3812499"
+       x="189.97086"
+       y="94.32917" />
+    <rect
+       y="94.32917"
+       x="279.40002"
+       height="2.3812499"
+       width="38.893749"
+       id="rect9824"
+       style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#abb400;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="93.926994"
+       y="119.72918"
+       id="text9830"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         id="tspan9832"
+         x="93.926994"
+         y="119.72918"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:521.00000381%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#abb400;stroke-width:0.26458332px">BLOG POSTS</tspan></text>
+    <text
+       sodipodi:linespacing="120%"
+       id="text9834"
+       y="129.78333"
+       x="100.27699"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="129.78333"
+         x="100.27699"
+         id="tspan9836"
+         sodipodi:role="line">ability to read full content of post </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="136.98"
+         x="100.27699"
+         sodipodi:role="line"
+         id="tspan9846">inline on hub page</tspan></text>
+    <circle
+       style="opacity:1;fill:#abb400;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path9838"
+       cx="95.911461"
+       cy="128.32809"
+       r="1.190625" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="106.62698"
+       y="156.24168"
+       id="text9840"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         id="tspan9842"
+         x="106.62698"
+         y="156.24168"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:521.00000381%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px" /></text>
+    <circle
+       r="1.190625"
+       cy="145.26143"
+       cx="95.911461"
+       id="circle9844"
+       style="opacity:1;fill:#abb400;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="100.27699"
+       y="147.77498"
+       id="text9848"
+       sodipodi:linespacing="120%"><tspan
+         id="tspan9852"
+         sodipodi:role="line"
+         x="100.27699"
+         y="147.77498"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">ability to view comments on post </tspan><tspan
+         sodipodi:role="line"
+         x="100.27699"
+         y="154.97165"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan9856">inline on hub page</tspan></text>
+    <circle
+       style="opacity:1;fill:#abb400;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle9858"
+       cx="95.911461"
+       cy="163.25308"
+       r="1.190625" />
+    <text
+       sodipodi:linespacing="120%"
+       id="text9860"
+       y="165.76663"
+       x="100.27699"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan9864"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="165.76663"
+         x="100.27699"
+         sodipodi:role="line">ability to post comments inline on </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="172.9633"
+         x="100.27699"
+         sodipodi:role="line"
+         id="tspan9868">hub page</tspan></text>
+    <text
+       sodipodi:linespacing="521%"
+       id="text9870"
+       y="188.52087"
+       x="93.926994"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#abb400;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:521.00000381%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#abb400;stroke-width:0.26458332px"
+         y="188.52087"
+         x="93.926994"
+         id="tspan9872"
+         sodipodi:role="line">MAILING LIST POSTS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="100.27699"
+       y="200.16254"
+       id="text9874"
+       sodipodi:linespacing="120%"><tspan
+         sodipodi:role="line"
+         id="tspan9876"
+         x="100.27699"
+         y="200.16254"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">ability to read full content of *first*</tspan><tspan
+         id="tspan9878"
+         sodipodi:role="line"
+         x="100.27699"
+         y="207.35921"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">post in thread inline on hub page</tspan></text>
+    <circle
+       r="1.190625"
+       cy="198.70731"
+       cx="95.911461"
+       id="circle9880"
+       style="opacity:1;fill:#abb400;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#abb400;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle9882"
+       cx="95.911461"
+       cy="215.64064"
+       r="1.190625" />
+    <text
+       sodipodi:linespacing="120%"
+       id="text9884"
+       y="218.15419"
+       x="100.27699"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan9888"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="218.15419"
+         x="100.27699"
+         sodipodi:role="line">ability to view reply posts in thread</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="225.35086"
+         x="100.27699"
+         sodipodi:role="line"
+         id="tspan9904">inline on hub page (hyperkitty style)</tspan></text>
+    <circle
+       r="1.190625"
+       cy="233.63229"
+       cx="95.911461"
+       id="circle9890"
+       style="opacity:1;fill:#abb400;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="100.27699"
+       y="236.14584"
+       id="text9892"
+       sodipodi:linespacing="120%"><tspan
+         id="tspan9896"
+         sodipodi:role="line"
+         x="100.27699"
+         y="236.14584"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">ability to post replies inline on hub </tspan><tspan
+         sodipodi:role="line"
+         x="100.27699"
+         y="243.34251"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan9908">page (hyperkitty style)</tspan></text>
+    <text
+       sodipodi:linespacing="521%"
+       id="text9910"
+       y="119.20001"
+       x="190.23538"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a07cbc;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:521.00000381%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#a07cbc;stroke-width:0.26458332px"
+         y="119.20001"
+         x="190.23538"
+         id="tspan9912"
+         sodipodi:role="line">HUB MANAGEMENT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="196.58537"
+       y="129.25417"
+       id="text9914"
+       sodipodi:linespacing="120%"><tspan
+         sodipodi:role="line"
+         x="196.58537"
+         y="129.25417"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan9940">configuration for hub page (what </tspan><tspan
+         sodipodi:role="line"
+         x="196.58537"
+         y="136.45084"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan9946">widgets appear? what channels / </tspan><tspan
+         sodipodi:role="line"
+         x="196.58537"
+         y="143.64751"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan9950">mailing lists / blogs should be</tspan><tspan
+         sodipodi:role="line"
+         x="196.58537"
+         y="150.84416"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan9952">linked to it?)</tspan></text>
+    <circle
+       r="1.190625"
+       cy="127.79893"
+       cx="192.21985"
+       id="circle9920"
+       style="opacity:1;fill:#a07cbc;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#a07cbc;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle9922"
+       cx="192.21985"
+       cy="203.99898"
+       r="1.190625" />
+    <text
+       sodipodi:linespacing="120%"
+       id="text9924"
+       y="206.51253"
+       x="196.58537"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="206.51253"
+         x="196.58537"
+         sodipodi:role="line"
+         id="tspan9960">ability to view a single IRC</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="213.7092"
+         x="196.58537"
+         sodipodi:role="line"
+         id="tspan9964">channel in hub sidebar</tspan></text>
+    <circle
+       r="1.190625"
+       cy="220.93231"
+       cx="192.21985"
+       id="circle9930"
+       style="opacity:1;fill:#a07cbc;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="196.58537"
+       y="223.44586"
+       id="text9932"
+       sodipodi:linespacing="120%"><tspan
+         id="tspan9936"
+         sodipodi:role="line"
+         x="196.58537"
+         y="223.44586"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">ability to post message to IRC</tspan><tspan
+         sodipodi:role="line"
+         x="196.58537"
+         y="230.64253"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan9968">channel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a07cbc;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="190.23538"
+       y="198.04591"
+       id="text9954"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         id="tspan9956"
+         x="190.23538"
+         y="198.04591"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:521.00000381%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#a07cbc;stroke-width:0.26458332px">IRC</tspan></text>
+    <circle
+       style="opacity:1;fill:#a07cbc;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle9970"
+       cx="192.21985"
+       cy="237.86572"
+       r="1.190625" />
+    <text
+       sodipodi:linespacing="120%"
+       id="text9972"
+       y="240.37927"
+       x="196.58537"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan9976"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="240.37927"
+         x="196.58537"
+         sodipodi:role="line">ability to view current channel</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="247.57594"
+         x="196.58537"
+         sodipodi:role="line"
+         id="tspan9980">members</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a07cbc;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="190.23538"
+       y="262.0752"
+       id="text9982"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         id="tspan9984"
+         x="190.23538"
+         y="262.0752"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:521.00000381%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#a07cbc;stroke-width:0.26458332px">AVATARS</tspan></text>
+    <text
+       sodipodi:linespacing="120%"
+       id="text9986"
+       y="272.12915"
+       x="196.58537"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan9994"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="272.12915"
+         x="196.58537"
+         sodipodi:role="line">link FAS accounts to IRC nicks /</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="279.32581"
+         x="196.58537"
+         sodipodi:role="line"
+         id="tspan10007">blog posts / mailing list posts so</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="286.52249"
+         x="196.58537"
+         sodipodi:role="line"
+         id="tspan10009">FAS avatar can be displayed</tspan></text>
+    <circle
+       style="opacity:1;fill:#a07cbc;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle9996"
+       cx="192.21985"
+       cy="270.67395"
+       r="1.190625" />
+    <text
+       sodipodi:linespacing="120%"
+       id="text10015"
+       y="118.67082"
+       x="286.5437"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan10023"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="118.67082"
+         x="286.5437"
+         sodipodi:role="line">avatar display (could be</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="125.86749"
+         x="286.5437"
+         sodipodi:role="line"
+         id="tspan10036">via gravatar)</tspan></text>
+    <circle
+       style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle10025"
+       cx="282.17819"
+       cy="117.2156"
+       r="1.190625" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="286.5437"
+       y="136.66254"
+       id="text10038"
+       sodipodi:linespacing="120%"><tspan
+         id="tspan10042"
+         sodipodi:role="line"
+         x="286.5437"
+         y="136.66254"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">custom login flow for hubs</tspan></text>
+    <circle
+       r="1.190625"
+       cy="135.20731"
+       cx="282.17819"
+       id="circle10044"
+       style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="120%"
+       id="text10048"
+       y="147.77512"
+       x="286.5437"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="147.77512"
+         x="286.5437"
+         sodipodi:role="line"
+         id="tspan10050">custom fas account creation</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="154.97179"
+         x="286.5437"
+         sodipodi:role="line"
+         id="tspan10054">flow for hubs</tspan></text>
+    <circle
+       style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle10052"
+       cx="282.17819"
+       cy="146.31989"
+       r="1.190625" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="286.5437"
+       y="165.23769"
+       id="text10056"
+       sodipodi:linespacing="120%"><tspan
+         id="tspan10060"
+         sodipodi:role="line"
+         x="286.5437"
+         y="165.23769"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">team hub creation based</tspan><tspan
+         sodipodi:role="line"
+         x="286.5437"
+         y="172.43436"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan10066">on active , non-git (?)</tspan><tspan
+         sodipodi:role="line"
+         x="286.5437"
+         y="179.63103"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan10068">FAS groups</tspan></text>
+    <circle
+       r="1.190625"
+       cy="179.65747"
+       cx="282.17819"
+       id="circle10062"
+       style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="120%"
+       id="text10070"
+       y="191.69604"
+       x="286.5437"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan10076"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="191.69604"
+         x="286.5437"
+         sodipodi:role="line">user team hub enrollment</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="198.89272"
+         x="286.5437"
+         sodipodi:role="line"
+         id="tspan10085">based on FAS group </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="206.08939"
+         x="286.5437"
+         sodipodi:role="line"
+         id="tspan10087">membership</tspan></text>
+    <circle
+       style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle10078"
+       cx="282.17819"
+       cy="206.11583"
+       r="1.190625" />
+    <text
+       sodipodi:linespacing="120%"
+       id="text10089"
+       y="159.41672"
+       x="196.58537"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="159.41672"
+         x="196.58537"
+         sodipodi:role="line"
+         id="tspan10129">create new non-FAS hubs</tspan></text>
+    <circle
+       style="opacity:1;fill:#a07cbc;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle10099"
+       cx="192.21985"
+       cy="157.96149"
+       r="1.190625" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="196.58537"
+       y="168.94174"
+       id="text10133"
+       sodipodi:linespacing="120%"><tspan
+         id="tspan10135"
+         sodipodi:role="line"
+         x="196.58537"
+         y="168.94174"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">retire / archive old hubs</tspan></text>
+    <circle
+       r="1.190625"
+       cy="167.48651"
+       cx="192.21985"
+       id="circle10137"
+       style="opacity:1;fill:#a07cbc;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       r="1.190625"
+       cy="185.47809"
+       cx="192.21985"
+       id="circle10139"
+       style="opacity:1;fill:#a07cbc;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="196.58537"
+       y="187.99164"
+       id="text10141"
+       sodipodi:linespacing="120%"><tspan
+         id="tspan10145"
+         sodipodi:role="line"
+         x="196.58537"
+         y="187.99164"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">search (content / users / hubs)</tspan></text>
+    <text
+       sodipodi:linespacing="521%"
+       id="text10147"
+       y="179.52502"
+       x="190.23538"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a07cbc;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:521.00000381%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#a07cbc;stroke-width:0.26458332px"
+         y="179.52502"
+         x="190.23538"
+         id="tspan10149"
+         sodipodi:role="line">SEARCH</tspan></text>
+  </g>
+</svg>
