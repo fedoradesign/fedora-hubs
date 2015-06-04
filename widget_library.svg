@@ -731,48 +731,44 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9609375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#60605b;stroke-width:0.9375">+</tspan></text>
       </g>
     </g>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.72070312px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       x="249.35902"
+       y="155.35466"
+       id="text8416"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan8418"
+         sodipodi:role="line"
+         x="249.35902"
+         y="155.35466"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.47265625px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;stroke-width:0.9375">remove widget</tspan></text>
     <g
-       transform="matrix(0.9375,0,0,0.9375,-158.36227,-380.64866)"
-       id="g8414">
-      <text
-         sodipodi:linespacing="125%"
-         id="text8416"
-         y="571.73688"
-         x="434.90271"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#58595b;fill-opacity:1;stroke:none"
+       transform="matrix(0.57128905,0,0,0.57128905,94.713333,-202.67901)"
+       id="g8420">
+      <ellipse
+         style="fill:#a22500;fill-opacity:1;stroke:#db3279;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path8422"
+         transform="matrix(0.15706281,0,0,0.15051852,116.94583,329.76707)"
+         cx="952.34375"
+         cy="1960.8212"
+         rx="17.96875"
+         ry="18.75" />
+      <flowRoot
          xml:space="preserve"
-         inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b"
-           y="571.73688"
-           x="434.90271"
-           sodipodi:role="line"
-           id="tspan8418">remove widget</tspan></text>
-      <g
-         id="g8420"
-         transform="matrix(0.60937499,0,0,0.60937499,269.94731,189.83429)">
-        <ellipse
-           ry="18.75"
-           rx="17.96875"
-           cy="1960.8212"
-           cx="952.34375"
-           transform="matrix(0.15706281,0,0,0.15051852,116.94583,329.76707)"
-           id="path8422"
-           style="fill:#a22500;fill-opacity:1;stroke:#db3279;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <flowRoot
-           transform="matrix(0.28222223,0,0,0.28222223,4.2818404,63.736492)"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:6.15999985px;fill:#000000;fill-opacity:1;stroke:none"
-           id="flowRoot8424-7"
-           xml:space="preserve"><flowRegion
-             id="flowRegion8426-6"><rect
-               y="1959.2587"
-               x="921.875"
-               height="50.78125"
-               width="82.03125"
-               id="rect8428-7" /></flowRegion><flowPara
-             style="fill:#ffffff"
-             id="flowPara8430-6">-</flowPara></flowRoot>      </g>
-    </g>
+         id="flowRoot8424-7"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:6.15999985px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.28222223,0,0,0.28222223,4.2818404,63.736492)"><flowRegion
+           id="flowRegion8426-6"><rect
+             id="rect8428-7"
+             width="82.03125"
+             height="50.78125"
+             x="921.875"
+             y="1959.2587" /></flowRegion><flowPara
+           id="flowPara8430-6"
+           style="fill:#ffffff">-</flowPara></flowRoot>    </g>
   </g>
 </svg>
