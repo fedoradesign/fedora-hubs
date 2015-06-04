@@ -50,9 +50,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
      inkscape:cx="488.43351"
-     inkscape:cy="311.74996"
+     inkscape:cy="279.94443"
      inkscape:document-units="mm"
-     inkscape:current-layer="g11767"
+     inkscape:current-layer="layer1"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -409,9 +409,9 @@
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375"
        transform="scale(-1,1)" />
     <rect
-       y="28.119465"
+       y="47.682522"
        x="-223.79523"
-       height="149.87457"
+       height="140.25287"
        width="80.793526"
        id="rect11617"
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458335"
@@ -449,7 +449,7 @@
          y="513.62134"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.91637063px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">Library</tspan></text>
     <flowRoot
-       transform="translate(139.818,27.465065)"
+       transform="translate(139.818,41.223401)"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0084c8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot11625"
        xml:space="preserve"><flowRegion
@@ -463,7 +463,7 @@
            id="rect11629" /></flowRegion><flowPara
          id="flowPara11631"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777791px;line-height:110.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#0084c8;fill-opacity:1;stroke-width:1px">Fedora Logo Usage Guidelines</flowPara></flowRoot>    <flowRoot
-       transform="translate(140.34717,32.756729)"
+       transform="translate(140.34717,46.515065)"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot11633"
        xml:space="preserve"><flowRegion
@@ -484,7 +484,7 @@
        xml:space="preserve"
        id="flowRoot11645"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0084c8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(139.818,53.394236)"><flowRegion
+       transform="translate(139.818,67.152572)"><flowRegion
          style="fill:#0084c8;stroke-width:1px"
          id="flowRegion11647"><rect
            id="rect11649"
@@ -498,7 +498,7 @@
        xml:space="preserve"
        id="flowRoot11653"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(140.34717,62.919236)"><flowRegion
+       transform="translate(140.34717,76.677572)"><flowRegion
          style="stroke-width:1px"
          id="flowRegion11655"><rect
            id="rect11657"
@@ -513,7 +513,7 @@
          id="flowPara11661">creating and working with UI mockups created in Inkscape. It's a 30-minute long</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777791px;line-height:110.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4d4d4d;fill-opacity:1;stroke-width:1px"
          id="flowPara11663">video well worth the watch.</flowPara></flowRoot>    <flowRoot
-       transform="translate(139.818,85.144238)"
+       transform="translate(139.818,98.902575)"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0084c8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot11665"
        xml:space="preserve"><flowRegion
@@ -527,7 +527,7 @@
            id="rect11669" /></flowRegion><flowPara
          id="flowPara11671"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777791px;line-height:110.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#0084c8;fill-opacity:1;stroke-width:1px">Fedora Design Team Schedule for Fedora 23</flowPara></flowRoot>    <flowRoot
-       transform="translate(140.34717,94.669233)"
+       transform="translate(140.34717,108.42759)"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot11673"
        xml:space="preserve"><flowRegion
@@ -544,7 +544,7 @@
        xml:space="preserve"
        id="flowRoot11681"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0084c8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(139.818,113.19009)"><flowRegion
+       transform="translate(139.818,126.94845)"><flowRegion
          style="fill:#0084c8;stroke-width:1px"
          id="flowRegion11683"><rect
            id="rect11685"
@@ -558,7 +558,7 @@
        xml:space="preserve"
        id="flowRoot11689"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(140.34717,122.7151)"><flowRegion
+       transform="translate(140.34717,136.47346)"><flowRegion
          style="stroke-width:1px"
          id="flowRegion11691"><rect
            id="rect11693"
@@ -569,7 +569,7 @@
            style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.99999994px" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777791px;line-height:110.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4d4d4d;fill-opacity:1;stroke-width:1px"
          id="flowPara11695">Explanation of CMYK colorspace - essential reading for any designers creating print materials.</flowPara></flowRoot>    <flowRoot
-       transform="translate(139.818,147.05679)"
+       transform="translate(139.818,155.52345)"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0084c8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot11697"
        xml:space="preserve"><flowRegion
@@ -583,7 +583,7 @@
            id="rect11701" /></flowRegion><flowPara
          id="flowPara11703"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777791px;line-height:110.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#0084c8;fill-opacity:1;stroke-width:1px">How to set CMYK color on a design for printing</flowPara></flowRoot>    <flowRoot
-       transform="translate(140.34717,156.5818)"
+       transform="translate(140.34717,165.04846)"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot11705"
        xml:space="preserve"><flowRegion
@@ -599,21 +599,21 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777791px;line-height:110.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4d4d4d;fill-opacity:1;stroke-width:1px">Tutorial on how to convert a design to CMYK for printing.</flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path11717"
-       d="m 142.68478,60.900355 81.78452,0"
+       d="m 142.68478,74.658691 81.78452,0"
        style="fill:none;fill-rule:evenodd;stroke:#d1d3d4;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#d1d3d4;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 142.68478,91.592023 81.78452,0"
+       d="m 142.68478,105.35038 81.78452,0"
        id="path11719"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path11721"
-       d="m 142.68478,119.63788 81.78452,0"
+       d="m 142.68478,133.39624 81.78452,0"
        style="fill:none;fill-rule:evenodd;stroke:#d1d3d4;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#d1d3d4;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 142.68478,148.21291 81.78452,0"
+       d="m 142.68478,161.97127 81.78452,0"
        id="path11723"
        inkscape:connector-curvature="0" />
     <text
@@ -633,57 +633,102 @@
          x="-26.42345"
          id="tspan8631"
          sodipodi:role="line">Save</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       transform="scale(-1)"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="rect11725"
+       width="80.793526"
+       height="11.823496"
+       x="-223.79523"
+       y="-200.0854" />
     <g
-       id="g11767"
-       transform="translate(0,5.0243974)">
-      <rect
-         y="-185.00667"
-         x="-223.79523"
-         height="11.823496"
-         width="80.793526"
-         id="rect11725"
-         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         transform="scale(-1)"
-         inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
+       id="g11761"
+       transform="translate(3.1938725,17.528628)">
       <g
-         transform="translate(3.1938725,2.4500704)"
-         id="g11761">
-        <g
-           id="g11775"
-           transform="translate(-6.5633107)">
-          <text
-             inkscape:export-ydpi="90"
-             inkscape:export-xdpi="90"
-             inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.72070312px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         transform="translate(-6.5633107)"
+         id="g11775">
+        <text
+           sodipodi:linespacing="125%"
+           id="text16612"
+           y="178.06717"
+           x="165.87105"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.72070312px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:0.9375"
+           xml:space="preserve"
+           inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9609375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#60605b;stroke-width:0.9375"
+             y="178.06717"
+             x="165.87105"
+             sodipodi:role="line"
+             id="tspan16755">Add a Library Item</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text16612-5"
+           y="177.84859"
+           x="161.87782"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.72070312px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:0.9375"
+           xml:space="preserve"
+           inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9609375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#60605b;stroke-width:0.9375"
+             y="177.84859"
+             x="161.87782"
+             sodipodi:role="line"
+             id="tspan16755-6">+</tspan></text>
+      </g>
+    </g>
+    <rect
+       y="-47.417931"
+       x="-223.79523"
+       height="11.823496"
+       width="80.793526"
+       id="rect11800"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       transform="scale(-1)"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="translate(3.1938725,-135.13866)"
+       id="g11802">
+      <g
+         id="g11804"
+         transform="translate(-6.5633107)">
+        <text
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.72070312px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:0.9375"
+           x="165.87105"
+           y="178.06717"
+           id="text11806"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan11808"
+             sodipodi:role="line"
              x="165.87105"
              y="178.06717"
-             id="text16612"
-             sodipodi:linespacing="125%"><tspan
-               id="tspan16755"
-               sodipodi:role="line"
-               x="165.87105"
-               y="178.06717"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9609375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#60605b;stroke-width:0.9375">Add a Library Item</tspan></text>
-          <text
-             inkscape:export-ydpi="90"
-             inkscape:export-xdpi="90"
-             inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.72070312px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:0.9375"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9609375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#60605b;stroke-width:0.9375">Add a Library Item</tspan></text>
+        <text
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.72070312px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:0.9375"
+           x="161.87782"
+           y="177.84859"
+           id="text11810"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan11812"
+             sodipodi:role="line"
              x="161.87782"
              y="177.84859"
-             id="text16612-5"
-             sodipodi:linespacing="125%"><tspan
-               id="tspan16755-6"
-               sodipodi:role="line"
-               x="161.87782"
-               y="177.84859"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9609375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#60605b;stroke-width:0.9375">+</tspan></text>
-        </g>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9609375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#60605b;stroke-width:0.9375">+</tspan></text>
       </g>
     </g>
     <g
