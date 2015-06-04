@@ -83,7 +83,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
+     inkscape:zoom="0.7"
      inkscape:cx="488.43351"
      inkscape:cy="279.94443"
      inkscape:document-units="mm"
@@ -136,9 +136,9 @@
        width="80.793526"
        height="153.34906"
        x="-108.43678"
-       y="28.119463" />
+       y="23.886126" />
     <rect
-       transform="matrix(0.91952771,0,0,1,53.710071,-480.31355)"
+       transform="matrix(0.91952771,0,0,1,53.710071,-484.54691)"
        y="508.30774"
        x="-28.35741"
        height="7.9375"
@@ -150,7 +150,7 @@
        inkscape:export-ydpi="90"
        clip-path="url(#clipPath5414-4-7)" />
     <text
-       transform="translate(56.092274,-480.31355)"
+       transform="translate(56.092274,-484.54691)"
        sodipodi:linespacing="125%"
        id="text47533-0-0"
        y="513.62134"
@@ -170,7 +170,7 @@
        xml:space="preserve"
        id="flowRoot19490-2-8"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0084c8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(24.459644,31.698398)"><flowRegion
+       transform="translate(24.459644,27.465062)"><flowRegion
          style="fill:#0084c8;stroke-width:1px"
          id="flowRegion19492-8-8"><rect
            id="rect19494-3-0"
@@ -198,7 +198,7 @@
        xml:space="preserve"
        id="flowRoot8385"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(24.988811,36.990062)"><flowRegion
+       transform="translate(24.988811,32.756726)"><flowRegion
          style="stroke-width:1px"
          id="flowRegion8387"><rect
            id="rect8389"
@@ -213,7 +213,7 @@
          id="flowPara8445">with the Fedora logo needs to read. Also</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777791px;line-height:110.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4d4d4d;fill-opacity:1;stroke-width:1px"
          id="flowPara8474">includes the fonts and color palettes Fedora designers should use. </flowPara></flowRoot>    <flowRoot
-       transform="translate(24.459644,57.627569)"
+       transform="translate(24.459644,53.394233)"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0084c8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot8416"
        xml:space="preserve"><flowRegion
@@ -227,7 +227,7 @@
            id="rect8420" /></flowRegion><flowPara
          id="flowPara8422"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777791px;line-height:110.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#0084c8;fill-opacity:1;stroke-width:1px">Creating UI Mockups in Inkscape Video Tutorial</flowPara></flowRoot>    <flowRoot
-       transform="translate(24.988811,67.152569)"
+       transform="translate(24.988811,62.919233)"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot8424"
        xml:space="preserve"><flowRegion
@@ -255,7 +255,7 @@
        xml:space="preserve"
        id="flowRoot8449"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0084c8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(24.459644,89.377571)"><flowRegion
+       transform="translate(24.459644,85.144235)"><flowRegion
          style="fill:#0084c8;stroke-width:1px"
          id="flowRegion8451"><rect
            id="rect8453"
@@ -269,7 +269,7 @@
        xml:space="preserve"
        id="flowRoot8457"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(24.988811,98.902566)"><flowRegion
+       transform="translate(24.988811,94.66923)"><flowRegion
          style="stroke-width:1px"
          id="flowRegion8459"><rect
            id="rect8461"
@@ -287,7 +287,7 @@
        rx="0.70555556"
        ry="0.70555562" />
     <flowRoot
-       transform="translate(24.459644,116.36508)"
+       transform="translate(24.459644,112.13172)"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0084c8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot8483"
        xml:space="preserve"><flowRegion
@@ -301,7 +301,7 @@
            id="rect8487" /></flowRegion><flowPara
          id="flowPara8489"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777791px;line-height:110.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#0084c8;fill-opacity:1;stroke-width:1px">Why is my Fedora purple? A primer to CMYK</flowPara></flowRoot>    <flowRoot
-       transform="translate(24.988811,125.89009)"
+       transform="translate(24.988811,121.65673)"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot8491"
        xml:space="preserve"><flowRegion
@@ -325,7 +325,7 @@
        xml:space="preserve"
        id="flowRoot8501"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0084c8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(24.459644,144.41094)"><flowRegion
+       transform="translate(24.459644,140.17758)"><flowRegion
          style="fill:#0084c8;stroke-width:1px"
          id="flowRegion8503"><rect
            id="rect8505"
@@ -339,7 +339,7 @@
        xml:space="preserve"
        id="flowRoot8509"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(24.988811,153.93595)"><flowRegion
+       transform="translate(24.988811,149.70259)"><flowRegion
          style="stroke-width:1px"
          id="flowRegion8511"><rect
            id="rect8513"
@@ -406,7 +406,7 @@
        y="513.62134"
        id="text8625"
        sodipodi:linespacing="125%"
-       transform="translate(124.88396,-480.31355)"><tspan
+       transform="translate(124.88396,-484.54691)"><tspan
          sodipodi:role="line"
          id="tspan8627"
          x="-26.42345"
@@ -444,7 +444,7 @@
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.9375"
        transform="scale(-1,1)" />
     <rect
-       y="47.682522"
+       y="43.449184"
        x="-223.79523"
        height="140.25287"
        width="80.793526"
@@ -465,7 +465,7 @@
        height="7.9375"
        x="-28.35741"
        y="508.30774"
-       transform="matrix(0.91952771,0,0,1,169.06844,-480.31355)" />
+       transform="matrix(0.91952771,0,0,1,169.06844,-484.54691)" />
     <text
        clip-path="url(#clipPath5374-5-4)"
        inkscape:export-ydpi="90"
@@ -477,14 +477,14 @@
        y="513.62134"
        id="text11621"
        sodipodi:linespacing="125%"
-       transform="translate(171.45065,-480.31355)"><tspan
+       transform="translate(171.45065,-484.54691)"><tspan
          sodipodi:role="line"
          id="tspan11623"
          x="-26.42345"
          y="513.62134"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.91637063px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">Library</tspan></text>
     <flowRoot
-       transform="translate(139.818,41.223401)"
+       transform="translate(139.818,36.990065)"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0084c8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot11625"
        xml:space="preserve"><flowRegion
@@ -498,7 +498,7 @@
            id="rect11629" /></flowRegion><flowPara
          id="flowPara11631"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777791px;line-height:110.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#0084c8;fill-opacity:1;stroke-width:1px">Fedora Logo Usage Guidelines</flowPara></flowRoot>    <flowRoot
-       transform="translate(140.34717,46.515065)"
+       transform="translate(140.34717,42.281729)"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot11633"
        xml:space="preserve"><flowRegion
@@ -519,7 +519,7 @@
        xml:space="preserve"
        id="flowRoot11645"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0084c8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(139.818,67.152572)"><flowRegion
+       transform="translate(139.818,62.919236)"><flowRegion
          style="fill:#0084c8;stroke-width:1px"
          id="flowRegion11647"><rect
            id="rect11649"
@@ -533,7 +533,7 @@
        xml:space="preserve"
        id="flowRoot11653"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(140.34717,76.677572)"><flowRegion
+       transform="translate(140.34717,72.444236)"><flowRegion
          style="stroke-width:1px"
          id="flowRegion11655"><rect
            id="rect11657"
@@ -548,7 +548,7 @@
          id="flowPara11661">creating and working with UI mockups created in Inkscape. It's a 30-minute long</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777791px;line-height:110.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4d4d4d;fill-opacity:1;stroke-width:1px"
          id="flowPara11663">video well worth the watch.</flowPara></flowRoot>    <flowRoot
-       transform="translate(139.818,98.902575)"
+       transform="translate(139.818,94.669239)"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0084c8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot11665"
        xml:space="preserve"><flowRegion
@@ -562,7 +562,7 @@
            id="rect11669" /></flowRegion><flowPara
          id="flowPara11671"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777791px;line-height:110.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#0084c8;fill-opacity:1;stroke-width:1px">Fedora Design Team Schedule for Fedora 23</flowPara></flowRoot>    <flowRoot
-       transform="translate(140.34717,108.42759)"
+       transform="translate(140.34717,104.19423)"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot11673"
        xml:space="preserve"><flowRegion
@@ -579,7 +579,7 @@
        xml:space="preserve"
        id="flowRoot11681"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0084c8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(139.818,126.94845)"><flowRegion
+       transform="translate(139.818,122.71509)"><flowRegion
          style="fill:#0084c8;stroke-width:1px"
          id="flowRegion11683"><rect
            id="rect11685"
@@ -593,7 +593,7 @@
        xml:space="preserve"
        id="flowRoot11689"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(140.34717,136.47346)"><flowRegion
+       transform="translate(140.34717,132.2401)"><flowRegion
          style="stroke-width:1px"
          id="flowRegion11691"><rect
            id="rect11693"
@@ -604,7 +604,7 @@
            style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.99999994px" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777791px;line-height:110.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4d4d4d;fill-opacity:1;stroke-width:1px"
          id="flowPara11695">Explanation of CMYK colorspace - essential reading for any designers creating print materials.</flowPara></flowRoot>    <flowRoot
-       transform="translate(139.818,155.52345)"
+       transform="translate(139.818,151.29009)"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0084c8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot11697"
        xml:space="preserve"><flowRegion
@@ -618,7 +618,7 @@
            id="rect11701" /></flowRegion><flowPara
          id="flowPara11703"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777791px;line-height:110.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#0084c8;fill-opacity:1;stroke-width:1px">How to set CMYK color on a design for printing</flowPara></flowRoot>    <flowRoot
-       transform="translate(140.34717,165.04846)"
+       transform="translate(140.34717,160.8151)"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot11705"
        xml:space="preserve"><flowRegion
@@ -634,25 +634,25 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777791px;line-height:110.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4d4d4d;fill-opacity:1;stroke-width:1px">Tutorial on how to convert a design to CMYK for printing.</flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path11717"
-       d="m 142.68478,74.658691 81.78452,0"
+       d="m 142.68478,70.425355 81.78452,0"
        style="fill:none;fill-rule:evenodd;stroke:#d1d3d4;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#d1d3d4;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 142.68478,105.35038 81.78452,0"
+       d="m 142.68478,101.11702 81.78452,0"
        id="path11719"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path11721"
-       d="m 142.68478,133.39624 81.78452,0"
+       d="m 142.68478,129.16288 81.78452,0"
        style="fill:none;fill-rule:evenodd;stroke:#d1d3d4;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#d1d3d4;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 142.68478,161.97127 81.78452,0"
+       d="m 142.68478,157.73791 81.78452,0"
        id="path11723"
        inkscape:connector-curvature="0" />
     <text
-       transform="translate(239.18402,-480.84266)"
+       transform="translate(239.18402,-485.07602)"
        sodipodi:linespacing="125%"
        id="text8629"
        y="513.62134"
@@ -678,10 +678,10 @@
        width="80.793526"
        height="11.823496"
        x="-223.79523"
-       y="-200.0854" />
+       y="-195.85213" />
     <g
        id="g11761"
-       transform="translate(3.1938725,17.528628)">
+       transform="translate(3.1938725,13.295292)">
       <g
          transform="translate(-6.5633107)"
          id="g11775">
@@ -718,7 +718,7 @@
       </g>
     </g>
     <rect
-       y="-47.417931"
+       y="-43.184593"
        x="-223.79523"
        height="11.823496"
        width="80.793526"
@@ -729,7 +729,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <g
-       transform="translate(3.1938725,-135.13866)"
+       transform="translate(3.1938725,-139.37202)"
        id="g11802">
       <g
          id="g11804"
@@ -822,7 +822,7 @@
          id="tspan11850">remove widget</tspan></text>
     <g
        id="g11856"
-       transform="translate(2.6458334)">
+       transform="translate(2.6458334,-4.2333335)">
       <path
          inkscape:connector-curvature="0"
          id="path11852"
@@ -835,7 +835,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(-3.6666666e-8,25.929167)"
+       transform="translate(-3.6666666e-8,21.695831)"
        id="g11860">
       <path
          style="fill:none;fill-rule:evenodd;stroke:#d1d3d4;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -850,7 +850,7 @@
     </g>
     <g
        id="g11866"
-       transform="translate(2.6458334,58.737503)">
+       transform="translate(2.6458334,54.504167)">
       <path
          inkscape:connector-curvature="0"
          id="path11868"
@@ -863,7 +863,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(2.6458334,86.783339)"
+       transform="translate(2.6458334,82.550003)"
        id="g11872">
       <path
          style="fill:none;fill-rule:evenodd;stroke:#d1d3d4;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -878,7 +878,7 @@
     </g>
     <g
        id="g11878"
-       transform="translate(2.6458334,115.35836)">
+       transform="translate(2.6458334,111.125)">
       <path
          inkscape:connector-curvature="0"
          id="path11880"
@@ -903,7 +903,7 @@
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#999999;stroke-width:0.26458332"
        clip-path="url(#clipPath8934-6-4)" />
     <text
-       transform="translate(-247.37433,-16.770309)"
+       transform="translate(-247.37433,-21.003645)"
        sodipodi:linespacing="125%"
        id="text10797-0-5"
        y="87.780594"
@@ -926,7 +926,7 @@
        width="33.754089"
        id="rect19995"
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#999999;stroke-width:0.48968807;filter:url(#filter20017)"
-       transform="matrix(-1,0,0,0.29193485,-3.1803722,37.970402)"
+       transform="matrix(-1,0,0,0.29193485,-3.1803722,33.737066)"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -940,7 +940,7 @@
        width="33.754089"
        height="15.438"
        x="-221.14943"
-       y="54.032513" />
+       y="49.799175" />
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -948,18 +948,18 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.72070312px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:0.9375"
        x="188.68884"
-       y="59.672165"
+       y="55.438828"
        id="text20021"
        sodipodi:linespacing="125%"><tspan
          id="tspan20023"
          sodipodi:role="line"
          x="188.68884"
-         y="59.672165"
+         y="55.438828"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.47265625px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;stroke-width:0.9375">Edit item</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text20025"
-       y="65.492996"
+       y="61.259659"
        x="188.68884"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.72070312px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:0.9375"
        xml:space="preserve"
@@ -967,7 +967,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.47265625px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;stroke-width:0.9375"
-         y="65.492996"
+         y="61.259659"
          x="188.68884"
          sodipodi:role="line"
          id="tspan20027">Delete</tspan></text>
