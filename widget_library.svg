@@ -40,6 +40,41 @@
          x="-224.70595"
          y="346.09207" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8934-6-4">
+      <rect
+         style="fill:#000000;fill-opacity:0.21468925;stroke:#3c6eb4;stroke-width:0.56444448;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect8936-3-7"
+         width="270.60504"
+         height="111.35518"
+         x="356.01727"
+         y="66.706314" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9326-8-70">
+      <rect
+         style="fill:#000000;fill-opacity:0.21468925;stroke:#3c6eb4;stroke-width:0.56444448;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect9328-3-9"
+         width="270.60504"
+         height="111.35518"
+         x="356.01727"
+         y="66.706314" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter20017"
+       x="-0.045616203"
+       width="1.0912324"
+       y="-0.029732243"
+       height="1.0594645">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.64155559"
+         id="feGaussianBlur20019" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -99,7 +134,7 @@
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        id="rect13256-3-1-5-5"
        width="80.793526"
-       height="144.79645"
+       height="153.34906"
        x="-108.43678"
        y="28.119463" />
     <rect
@@ -135,7 +170,7 @@
        xml:space="preserve"
        id="flowRoot19490-2-8"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0084c8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(24.459644,27.465065)"><flowRegion
+       transform="translate(24.459644,31.698398)"><flowRegion
          style="fill:#0084c8;stroke-width:1px"
          id="flowRegion19492-8-8"><rect
            id="rect19494-3-0"
@@ -163,7 +198,7 @@
        xml:space="preserve"
        id="flowRoot8385"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(24.988811,32.756729)"><flowRegion
+       transform="translate(24.988811,36.990062)"><flowRegion
          style="stroke-width:1px"
          id="flowRegion8387"><rect
            id="rect8389"
@@ -178,7 +213,7 @@
          id="flowPara8445">with the Fedora logo needs to read. Also</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777791px;line-height:110.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4d4d4d;fill-opacity:1;stroke-width:1px"
          id="flowPara8474">includes the fonts and color palettes Fedora designers should use. </flowPara></flowRoot>    <flowRoot
-       transform="translate(24.459644,53.394236)"
+       transform="translate(24.459644,57.627569)"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0084c8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot8416"
        xml:space="preserve"><flowRegion
@@ -192,7 +227,7 @@
            id="rect8420" /></flowRegion><flowPara
          id="flowPara8422"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777791px;line-height:110.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#0084c8;fill-opacity:1;stroke-width:1px">Creating UI Mockups in Inkscape Video Tutorial</flowPara></flowRoot>    <flowRoot
-       transform="translate(24.988811,62.919236)"
+       transform="translate(24.988811,67.152569)"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot8424"
        xml:space="preserve"><flowRegion
@@ -220,7 +255,7 @@
        xml:space="preserve"
        id="flowRoot8449"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0084c8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(24.459644,85.144238)"><flowRegion
+       transform="translate(24.459644,89.377571)"><flowRegion
          style="fill:#0084c8;stroke-width:1px"
          id="flowRegion8451"><rect
            id="rect8453"
@@ -234,7 +269,7 @@
        xml:space="preserve"
        id="flowRoot8457"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(24.988811,94.669233)"><flowRegion
+       transform="translate(24.988811,98.902566)"><flowRegion
          style="stroke-width:1px"
          id="flowRegion8459"><rect
            id="rect8461"
@@ -252,7 +287,7 @@
        rx="0.70555556"
        ry="0.70555562" />
     <flowRoot
-       transform="translate(24.459644,112.13175)"
+       transform="translate(24.459644,116.36508)"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0084c8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot8483"
        xml:space="preserve"><flowRegion
@@ -266,7 +301,7 @@
            id="rect8487" /></flowRegion><flowPara
          id="flowPara8489"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777791px;line-height:110.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#0084c8;fill-opacity:1;stroke-width:1px">Why is my Fedora purple? A primer to CMYK</flowPara></flowRoot>    <flowRoot
-       transform="translate(24.988811,121.65676)"
+       transform="translate(24.988811,125.89009)"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot8491"
        xml:space="preserve"><flowRegion
@@ -290,7 +325,7 @@
        xml:space="preserve"
        id="flowRoot8501"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0084c8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(24.459644,140.17761)"><flowRegion
+       transform="translate(24.459644,144.41094)"><flowRegion
          style="fill:#0084c8;stroke-width:1px"
          id="flowRegion8503"><rect
            id="rect8505"
@@ -304,7 +339,7 @@
        xml:space="preserve"
        id="flowRoot8509"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(24.988811,149.70262)"><flowRegion
+       transform="translate(24.988811,153.93595)"><flowRegion
          style="stroke-width:1px"
          id="flowRegion8511"><rect
            id="rect8513"
@@ -379,23 +414,23 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.91637063px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">Edit</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#d1d3d4;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 27.326424,60.900355 81.784476,0"
+       d="m -83.798581,60.900355 81.7844719,0"
        id="path11582"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path11584"
-       d="m 27.326424,91.592023 81.784476,0"
+       d="m -83.798581,91.592023 81.7844719,0"
        style="fill:none;fill-rule:evenodd;stroke:#d1d3d4;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#d1d3d4;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 27.326424,119.10871 81.784476,0"
+       d="m -83.798581,119.10871 81.7844719,0"
        id="path11586"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path11588"
-       d="m 27.326424,146.6254 81.784476,0"
+       d="m -83.798581,146.6254 81.7844719,0"
        style="fill:none;fill-rule:evenodd;stroke:#d1d3d4;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <rect
        inkscape:export-ydpi="90"
@@ -770,5 +805,171 @@
              y="1959.2587" /></flowRegion><flowPara
            id="flowPara8430-6"
            style="fill:#ffffff">-</flowPara></flowRoot>    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text11848"
+       y="147.87111"
+       x="250.96265"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.72070312px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.47265625px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;stroke-width:0.9375"
+         y="147.87111"
+         x="250.96265"
+         sodipodi:role="line"
+         id="tspan11850">remove widget</tspan></text>
+    <g
+       id="g11856"
+       transform="translate(2.6458334)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path11852"
+         d="m 217.62233,52.582778 -1.87089,-2.138156"
+         style="fill:none;fill-rule:evenodd;stroke:#d1d3d4;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#d1d3d4;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 217.33895,52.582778 1.87089,-2.138156"
+         id="path11854"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="translate(-3.6666666e-8,25.929167)"
+       id="g11860">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#d1d3d4;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 217.62233,52.582778 -1.87089,-2.138156"
+         id="path11862"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path11864"
+         d="m 217.33895,52.582778 1.87089,-2.138156"
+         style="fill:none;fill-rule:evenodd;stroke:#d1d3d4;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g11866"
+       transform="translate(2.6458334,58.737503)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path11868"
+         d="m 217.62233,52.582778 -1.87089,-2.138156"
+         style="fill:none;fill-rule:evenodd;stroke:#d1d3d4;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#d1d3d4;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 217.33895,52.582778 1.87089,-2.138156"
+         id="path11870"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="translate(2.6458334,86.783339)"
+       id="g11872">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#d1d3d4;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 217.62233,52.582778 -1.87089,-2.138156"
+         id="path11874"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path11876"
+         d="m 217.33895,52.582778 1.87089,-2.138156"
+         style="fill:none;fill-rule:evenodd;stroke:#d1d3d4;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g11878"
+       transform="translate(2.6458334,115.35836)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path11880"
+         d="m 217.62233,52.582778 -1.87089,-2.138156"
+         style="fill:none;fill-rule:evenodd;stroke:#d1d3d4;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#d1d3d4;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 217.33895,52.582778 1.87089,-2.138156"
+         id="path11882"
+         inkscape:connector-curvature="0" />
+    </g>
+    <rect
+       transform="matrix(0.40921027,0,0,2.2200915,26.333042,-215.73224)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       y="121.80406"
+       x="543.23083"
+       height="19.314583"
+       width="80.697914"
+       id="rect194443-3-2"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#999999;stroke-width:0.26458332"
+       clip-path="url(#clipPath8934-6-4)" />
+    <text
+       transform="translate(-247.37433,-16.770309)"
+       sodipodi:linespacing="125%"
+       id="text10797-0-5"
+       y="87.780594"
+       x="436.88702"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       clip-path="url(#clipPath9326-8-70)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#60605b;fill-opacity:1;stroke-width:0.26458332"
+         y="87.780594"
+         x="436.88702"
+         id="tspan10799-7-3"
+         sodipodi:role="line">example hub 2</tspan></text>
+    <rect
+       y="55.090851"
+       x="-223.79523"
+       height="51.786655"
+       width="33.754089"
+       id="rect19995"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#999999;stroke-width:0.48968807;filter:url(#filter20017)"
+       transform="matrix(-1,0,0,0.29193485,-3.1803722,37.970402)"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       transform="scale(-1,1)"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#999999;stroke-width:0.26458335"
+       id="rect19993"
+       width="33.754089"
+       height="15.438"
+       x="-221.14943"
+       y="54.032513" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.72070312px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       x="188.68884"
+       y="59.672165"
+       id="text20021"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan20023"
+         sodipodi:role="line"
+         x="188.68884"
+         y="59.672165"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.47265625px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;stroke-width:0.9375">Edit item</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text20025"
+       y="65.492996"
+       x="188.68884"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.72070312px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.47265625px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;stroke-width:0.9375"
+         y="65.492996"
+         x="188.68884"
+         sodipodi:role="line"
+         id="tspan20027">Delete</tspan></text>
   </g>
 </svg>
