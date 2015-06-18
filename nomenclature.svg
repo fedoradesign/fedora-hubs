@@ -596,8 +596,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="680.35681"
-     inkscape:cy="742.71906"
+     inkscape:cx="276.29579"
+     inkscape:cy="459.87635"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3667,5 +3667,69 @@
          id="circle90614"
          style="fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#db3279;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -14.572228,-41.66238 c -40.983062,-1.8802 -82.118005,17.66534 -103.035562,52.52793 -57.24094,95.40158 34.250846,134.58615 4.04061,210.11173 -5.94077,14.85194 -56.56854,41.93842 -56.56854,50.50763 0,10.03855 23.54842,15.91296 18.18274,37.37564 -5.69285,22.77142 -19.99993,42.01745 -25.25381,65.65992 -32.58567,146.63554 -27.39825,336.67614 135.360443,390.929"
+       id="path90616"
+       inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="110%"
+       id="text90618"
+       y="277.1337"
+       x="-246.92839"
+       style="font-style:normal;font-weight:normal;font-size:22.36839867px;line-height:110.00000238%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#db3279;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(1.0522161,0.95037511)"><tspan
+         id="tspan90622"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.26458332px"
+         y="277.1337"
+         x="-246.92839"
+         sodipodi:role="line">Personal</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.26458332px"
+         y="301.73892"
+         x="-246.92839"
+         sodipodi:role="line"
+         id="tspan90626">Stream</tspan></text>
+    <text
+       sodipodi:linespacing="110%"
+       id="text90628"
+       y="61.36525"
+       x="-91.404526"
+       style="font-style:normal;font-weight:normal;font-size:22.36839867px;line-height:110.00000238%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#db3279;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(1.0522161,0.95037511)"><tspan
+         id="tspan90632"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.26458332px"
+         y="61.36525"
+         x="-91.404526"
+         sodipodi:role="line">Summary</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.26458332px"
+         y="85.97049"
+         x="-91.404526"
+         sodipodi:role="line"
+         id="tspan90636">Card</tspan></text>
+    <text
+       transform="scale(1.0522161,0.95037511)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.36839867px;line-height:110.00000238%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#db3279;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-57.803692"
+       y="516.28595"
+       id="text90638"
+       sodipodi:linespacing="110%"><tspan
+         id="tspan90642"
+         sodipodi:role="line"
+         x="-57.803692"
+         y="516.28595"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.26458332px">Preview</tspan><tspan
+         sodipodi:role="line"
+         x="-57.803692"
+         y="540.89117"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.26458332px"
+         id="tspan90646">Card</tspan><tspan
+         sodipodi:role="line"
+         x="-57.803692"
+         y="565.4964"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.26458332px"
+         id="tspan90648">(fuller)</tspan></text>
   </g>
 </svg>
