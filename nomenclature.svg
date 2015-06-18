@@ -352,8 +352,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="882.38732"
-     inkscape:cy="540.68855"
+     inkscape:cx="680.35681"
+     inkscape:cy="621.50076"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -365,7 +365,8 @@
      inkscape:window-height="1403"
      inkscape:window-x="2560"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="false" />
   <metadata
      id="metadata83665">
     <rdf:RDF>
@@ -2968,5 +2969,111 @@
          y="553.1192"
          x="198.02995"
          sodipodi:role="line">Full Meeting Details</tspan></text>
+    <text
+       transform="scale(1.0522161,0.95037511)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.36839867px;line-height:110.00000238%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#db3279;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="968.46179"
+       y="-7.723177"
+       id="text83179"
+       sodipodi:linespacing="110%"><tspan
+         sodipodi:role="line"
+         x="968.46179"
+         y="-7.723177"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.26458332px"
+         id="tspan83183">Hub details box</tspan></text>
+    <text
+       sodipodi:linespacing="110%"
+       id="text85106"
+       y="324.96414"
+       x="966.54175"
+       style="font-style:normal;font-weight:normal;font-size:22.36839867px;line-height:110.00000238%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#db3279;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(1.0522161,0.95037511)"><tspan
+         id="tspan85108"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.26458332px"
+         y="324.96414"
+         x="966.54175"
+         sodipodi:role="line">Library</tspan></text>
+    <text
+       transform="scale(1.0522161,0.95037511)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.36839867px;line-height:110.00000238%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#db3279;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-145.16586"
+       y="448.26041"
+       id="text85110"
+       sodipodi:linespacing="110%"><tspan
+         sodipodi:role="line"
+         x="-145.16586"
+         y="448.26041"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.26458332px"
+         id="tspan85112">Notification</tspan><tspan
+         sodipodi:role="line"
+         x="-145.16586"
+         y="472.86563"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.26458332px"
+         id="tspan85114">Cards</tspan></text>
+    <text
+       sodipodi:linespacing="110%"
+       id="text85116"
+       y="-114.07715"
+       x="-136.42918"
+       style="font-style:normal;font-weight:normal;font-size:22.36839867px;line-height:110.00000238%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#db3279;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(1.0522161,0.95037511)"><tspan
+         id="tspan85120"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.26458332px"
+         y="-114.07715"
+         x="-136.42918"
+         sodipodi:role="line">Hub splash area</tspan></text>
+    <text
+       transform="scale(1.0522161,0.95037511)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.36839867px;line-height:110.00000238%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#db3279;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-106.66845"
+       y="-172.53659"
+       id="text85124"
+       sodipodi:linespacing="110%"><tspan
+         sodipodi:role="line"
+         x="-106.66845"
+         y="-172.53659"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.26458332px"
+         id="tspan85126">Bookmarks</tspan></text>
+    <text
+       sodipodi:linespacing="110%"
+       id="text85128"
+       y="-253.31689"
+       x="48.855412"
+       style="font-style:normal;font-weight:normal;font-size:22.36839867px;line-height:110.00000238%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#db3279;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(1.0522161,0.95037511)"><tspan
+         id="tspan85130"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.26458332px"
+         y="-253.31689"
+         x="48.855412"
+         sodipodi:role="line">Click to view Master list</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#db3279;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 147.05218,-234.60151 c 0.0552,13.78593 8.0379,17.78695 -3.03046,27.27411"
+       id="path85132"
+       inkscape:connector-curvature="0" />
+    <text
+       transform="scale(1.0522161,0.95037511)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.36839867px;line-height:110.00000238%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#db3279;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="972.39838"
+       y="-224.61862"
+       id="text85136"
+       sodipodi:linespacing="110%"><tspan
+         sodipodi:role="line"
+         x="972.39838"
+         y="-224.61862"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.26458332px"
+         id="tspan85138">Personal Menu</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#db3279;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1019.824,-221.46953 c -24.44859,-2.43371 -42.49659,7.10613 -62.62948,17.17259"
+       id="path85140"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
