@@ -607,9 +607,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="2026.9132"
-     inkscape:cy="-1382.6637"
+     inkscape:zoom="1.4"
+     inkscape:cx="2476.31"
+     inkscape:cy="-1340.79"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -622,7 +622,7 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true" />
   <metadata
      id="metadata16671">
@@ -7107,21 +7107,6 @@
          y="-879.13367"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.06249905px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:0.26458332">replied to your post.</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.06249905px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-1804.9832"
-       y="1224.0039"
-       id="text10195"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         id="tspan10197"
-         x="-1804.9832"
-         y="1224.0039"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.06249905px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:0.26458332">replied to your post.</tspan></text>
-    <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
@@ -10324,13 +10309,6 @@
        x="-673.29181"
        y="966.50507" />
     <rect
-       style="fill:#cccccc;fill-opacity:0.27230051;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect11785-5-4-6-1-8-8-3-4"
-       width="507.52728"
-       height="21.268398"
-       x="-657.50763"
-       y="1204.7251" />
-    <rect
        y="954.33185"
        x="-673.77203"
        height="28.125"
@@ -10361,28 +10339,28 @@
        width="508.23441"
        height="31.875"
        x="-657.8609"
-       y="998.18878" />
+       y="1034.1887" />
     <rect
        style="fill:#cccccc;fill-opacity:0.27058824;stroke:none;stroke-width:2.00000024;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect11785-5-4-6-1-9"
        width="508.9415"
        height="31.875"
        x="-658.56818"
-       y="1050.1887" />
+       y="1086.1887" />
     <rect
        style="fill:#cccccc;fill-opacity:0.27230051;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect11785-5-4-6-1-8-9"
        width="510.35577"
        height="31.875"
        x="-660.56793"
-       y="1101.6029" />
+       y="1137.6029" />
     <rect
        style="fill:#cccccc;fill-opacity:0.27230051;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect11785-5-4-6-1-8-8-6"
        width="508.23441"
        height="31.875"
        x="-657.8609"
-       y="1154.3553" />
+       y="1190.3553" />
     <rect
        style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect11112-3"
@@ -10392,5 +10370,274 @@
        y="998.32721"
        ry="3.1819806"
        rx="3.1819806" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.06249905px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-1813.0179"
+       y="1224.0568"
+       id="text10195-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan10197-0"
+         x="-1813.0179"
+         y="1224.0568"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.06249905px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:0.26458332">replied to your post.</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       sodipodi:linespacing="125%"
+       id="text5638"
+       y="1002.5753"
+       x="-657.84033"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.06249905px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.06249905px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:0.26458332"
+         y="1002.5753"
+         x="-657.84033"
+         id="tspan5640"
+         sodipodi:role="line">You are currently flitering out the following types of notifications from your</tspan><tspan
+         id="tspan5642"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.06249905px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:0.26458332"
+         y="1020.1534"
+         x="-657.84033"
+         sodipodi:role="line">main stream. Remove a filter to see these notifications again:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.06249905px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-651.41174"
+       y="1054.0039"
+       id="text5682"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="-651.41174"
+         y="1054.0039"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.06249905px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:0.26458332"
+         id="tspan5684">Meeting reminders for design-team </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.06249905px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-245.41174"
+       y="1054.0039"
+       id="text5686"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="-245.41174"
+         y="1054.0039"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.06249905px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:0.26458332"
+         id="tspan5688">stop filtering</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.06249905px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-245.41174"
+       y="1106.0039"
+       id="text5702"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="-245.41174"
+         y="1106.0039"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.06249905px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:0.26458332"
+         id="tspan5704">stop filtering</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.06249905px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-245.41174"
+       y="1158.0039"
+       id="text5718"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="-245.41174"
+         y="1158.0039"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.06249905px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:0.26458332"
+         id="tspan5720">stop filtering</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       sodipodi:linespacing="125%"
+       id="text5646"
+       y="1212.0039"
+       x="-245.41174"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.06249905px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan5648"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.06249905px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:0.26458332"
+         y="1212.0039"
+         x="-245.41174"
+         sodipodi:role="line">stop filtering</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       sodipodi:linespacing="125%"
+       id="text5650"
+       y="1105.2897"
+       x="-651.41174"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.06249905px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan5652"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.06249905px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:0.26458332"
+         y="1105.2897"
+         x="-651.41174"
+         sodipodi:role="line">All meeting requests</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       sodipodi:linespacing="125%"
+       id="text5662"
+       y="1157.2897"
+       x="-651.41174"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.06249905px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan5664"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.06249905px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:0.26458332"
+         y="1157.2897"
+         x="-651.41174"
+         sodipodi:role="line">All likes on blog posts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.06249905px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-651.41174"
+       y="1211.2897"
+       id="text10195"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="-651.41174"
+         y="1211.2897"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.06249905px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:0.26458332"
+         id="tspan5636">New posts for marketing</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5654"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion5656"><rect
+           id="rect5658"
+           width="621.42859"
+           height="178.57143"
+           x="2200"
+           y="2101.7976" /></flowRegion><flowPara
+         id="flowPara5660"></flowPara></flowRoot>    <g
+       inkscape:transform-center-y="27.142857"
+       inkscape:transform-center-x="97.142855"
+       id="g5690"
+       transform="matrix(2.1592025,0,0,2.1592025,-831.74,-300.3255)">
+      <ellipse
+         ry="18.75"
+         rx="17.96875"
+         cy="1960.8212"
+         cx="952.34375"
+         transform="matrix(0.15706281,0,0,0.15051852,116.94583,329.76707)"
+         id="ellipse5692"
+         style="fill:#a22500;fill-opacity:1;stroke:#db3279;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <flowRoot
+         transform="matrix(0.28222223,0,0,0.28222223,4.2818404,63.736492)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:6.15999985px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot5694"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5696"><rect
+             y="1959.2587"
+             x="921.875"
+             height="50.78125"
+             width="82.03125"
+             id="rect5698" /></flowRegion><flowPara
+           style="fill:#ffffff"
+           id="flowPara5700">-</flowPara></flowRoot>    </g>
+    <g
+       inkscape:transform-center-y="27.142857"
+       inkscape:transform-center-x="97.142855"
+       id="g5706"
+       transform="matrix(2.1592025,0,0,2.1592025,-831.74,-248.3255)">
+      <ellipse
+         ry="18.75"
+         rx="17.96875"
+         cy="1960.8212"
+         cx="952.34375"
+         transform="matrix(0.15706281,0,0,0.15051852,116.94583,329.76707)"
+         id="ellipse5708"
+         style="fill:#a22500;fill-opacity:1;stroke:#db3279;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <flowRoot
+         transform="matrix(0.28222223,0,0,0.28222223,4.2818404,63.736492)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:6.15999985px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot5710"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5712"><rect
+             y="1959.2587"
+             x="921.875"
+             height="50.78125"
+             width="82.03125"
+             id="rect5714" /></flowRegion><flowPara
+           style="fill:#ffffff"
+           id="flowPara5716">-</flowPara></flowRoot>    </g>
+    <g
+       inkscape:transform-center-y="27.142857"
+       inkscape:transform-center-x="97.142855"
+       id="g5722"
+       transform="matrix(2.1592025,0,0,2.1592025,-831.74,-196.3255)">
+      <ellipse
+         ry="18.75"
+         rx="17.96875"
+         cy="1960.8212"
+         cx="952.34375"
+         transform="matrix(0.15706281,0,0,0.15051852,116.94583,329.76707)"
+         id="ellipse5724"
+         style="fill:#a22500;fill-opacity:1;stroke:#db3279;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <flowRoot
+         transform="matrix(0.28222223,0,0,0.28222223,4.2818404,63.736492)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:6.15999985px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot5726"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5728"><rect
+             y="1959.2587"
+             x="921.875"
+             height="50.78125"
+             width="82.03125"
+             id="rect5730" /></flowRegion><flowPara
+           style="fill:#ffffff"
+           id="flowPara5732">-</flowPara></flowRoot>    </g>
+    <g
+       transform="matrix(2.1592025,0,0,2.1592025,-831.74,-142.3255)"
+       id="g8456"
+       inkscape:transform-center-x="97.142855"
+       inkscape:transform-center-y="27.142857">
+      <ellipse
+         style="fill:#a22500;fill-opacity:1;stroke:#db3279;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path8458"
+         transform="matrix(0.15706281,0,0,0.15051852,116.94583,329.76707)"
+         cx="952.34375"
+         cy="1960.8212"
+         rx="17.96875"
+         ry="18.75" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot8460"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:6.15999985px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.28222223,0,0,0.28222223,4.2818404,63.736492)"><flowRegion
+           id="flowRegion8462"><rect
+             id="rect8464"
+             width="82.03125"
+             height="50.78125"
+             x="921.875"
+             y="1959.2587" /></flowRegion><flowPara
+           id="flowPara8466"
+           style="fill:#ffffff">-</flowPara></flowRoot>    </g>
   </g>
 </svg>
