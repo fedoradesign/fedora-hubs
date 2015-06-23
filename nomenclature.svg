@@ -1064,8 +1064,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="1419.2656"
-     inkscape:cy="625.93874"
+     inkscape:cx="1174.1857"
+     inkscape:cy="-109.21056"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3669,18 +3669,31 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.26458332px"
          id="tspan4689">About</tspan></text>
     <text
+       transform="scale(1.0522161,0.95037511)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.36839867px;line-height:110.00000238%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#db3279;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="962.46875"
+       y="569.98016"
+       id="text5781"
+       sodipodi:linespacing="110%"><tspan
+         sodipodi:role="line"
+         x="962.46875"
+         y="569.98016"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.26458332px"
+         id="tspan5783">Hubs widget</tspan></text>
+    <text
        sodipodi:linespacing="110%"
        id="text85106"
-       y="578.99915"
-       x="977.4032"
+       y="795.45502"
+       x="969.25714"
        style="font-style:normal;font-weight:normal;font-size:22.36839867px;line-height:110.00000238%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#db3279;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        transform="scale(1.0522161,0.95037511)"><tspan
          id="tspan85108"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.26458332px"
-         y="578.99915"
-         x="977.4032"
-         sodipodi:role="line">Library</tspan></text>
+         y="795.45502"
+         x="969.25714"
+         sodipodi:role="line">Badges widget</tspan></text>
     <text
        transform="scale(1.0522161,0.95037511)"
        xml:space="preserve"
@@ -4267,18 +4280,31 @@
          y="428.95346"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.26458332px">meeting widget</tspan></text>
     <text
+       sodipodi:linespacing="110%"
+       id="text5221"
+       y="660.00067"
+       x="2207.3569"
+       style="font-style:normal;font-weight:normal;font-size:22.36839867px;line-height:110.00000238%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#db3279;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(1.0522161,0.95037511)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.26458332px"
+         y="660.00067"
+         x="2207.3569"
+         sodipodi:role="line"
+         id="tspan5223">irc widget</tspan></text>
+    <text
        transform="scale(1.0522161,0.95037511)"
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.36839867px;line-height:110.00000238%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#db3279;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="2206.397"
-       y="658.93781"
+       x="2204.4768"
+       y="808.80652"
        id="text5918"
        sodipodi:linespacing="110%"><tspan
          id="tspan5920"
          sodipodi:role="line"
-         x="2206.397"
-         y="658.93781"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.26458332px">irc widget</tspan></text>
+         x="2204.4768"
+         y="808.80652"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.26458332px">voting widget?</tspan></text>
     <text
        transform="scale(1.0522161,0.95037511)"
        xml:space="preserve"
@@ -7633,7 +7659,7 @@
            height="25.714285"
            x="1252.8572"
            y="188.94046" /></flowRegion><flowPara
-         id="flowPara5934"></flowPara></flowRoot>    <rect
+         id="flowPara5934" /></flowRoot>    <rect
        transform="scale(-1,-1)"
        style="display:inline;fill:#a07cbc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        id="rect10427"
