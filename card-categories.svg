@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="456.8638mm"
-   height="320.62796mm"
-   viewBox="0 0 1618.8087 1136.0833"
+   width="305.65482mm"
+   height="222.12416mm"
+   viewBox="0 0 1083.0288 787.0541"
    id="svg16666"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -459,7 +459,7 @@
        x="-0.22550681"
        width="1.4510136"
        y="-0.13524471"
-       height="1.2704894">
+       height="1.2704895">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="21.450816"
@@ -607,9 +607,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="2648.3345"
-     inkscape:cy="-1354.2942"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="484.18872"
+     inkscape:cy="346.77414"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -632,7 +632,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -640,7 +640,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(2963.6901,1295.6795)">
+     transform="translate(1964.2168,-737.85172)">
     <circle
        r="20.277281"
        cy="-705.61304"
@@ -3446,7 +3446,7 @@
          id="tspan5109"
          sodipodi:role="line"
          x="-2708.0339"
-         y="69.608086"
+         y="69.608078"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.12499905px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;stroke-width:0.26458332">effort's infrastructure to make it easier for folks to follow the design process </tspan><tspan
          id="tspan5111"
          sodipodi:role="line"
@@ -9800,7 +9800,7 @@
          id="tspan83181">Documenting how to</tspan><tspan
          sodipodi:role="line"
          x="-1205.511"
-         y="-1023.6851"
+         y="-1023.6852"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.26458332px"
          id="tspan83183">display actions</tspan></text>
     <rect
@@ -10037,7 +10037,7 @@
        inkscape:transform-center-y="-40.714285"
        inkscape:transform-center-x="-1.4285714"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.06249905px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.06249905px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="-2412.3665"
        y="888.521"
        id="text6478"
@@ -10049,12 +10049,12 @@
          id="tspan6480"
          x="-2412.3665"
          y="888.521"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;stroke-width:0.26458332;fill-opacity:1;">You will no longer see meeting </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;fill-opacity:1;stroke-width:0.26458332">You will no longer see meeting </tspan><tspan
          id="tspan6482"
          sodipodi:role="line"
          x="-2412.3665"
          y="902.5835"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;stroke-width:0.26458332;fill-opacity:1;">reminders from the design-team hub.</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;fill-opacity:1;stroke-width:0.26458332">reminders from the design-team hub.</tspan></text>
     <g
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -10113,16 +10113,16 @@
        id="text22764-0-4"
        y="946.69958"
        x="-2412.1877"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.06249905px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.06249905px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"
        inkscape:transform-center-x="-1.4285714"
        inkscape:transform-center-y="-40.714285"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;stroke-width:0.26458332;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;fill-opacity:1;stroke-width:0.26458332"
          y="946.69958"
          x="-2412.1877"
          sodipodi:role="line"
          id="tspan6472">You will no longer see any content</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;stroke-width:0.26458332;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;fill-opacity:1;stroke-width:0.26458332"
          y="960.76208"
          x="-2412.1877"
          sodipodi:role="line"
@@ -10283,7 +10283,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <rect
-       style="fill:#000000;fill-opacity:0.39204547;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:0.3920455;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect10411"
        width="998.57141"
        height="704.28571"
@@ -10528,7 +10528,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot5654"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion5656"><rect
            id="rect5658"
            width="621.42859"
