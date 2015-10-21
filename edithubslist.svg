@@ -11923,6 +11923,17 @@
          x="356.01727"
          y="66.706314" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9286-47-4-6">
+      <rect
+         style="fill:#000000;fill-opacity:0.21468925;stroke:#3c6eb4;stroke-width:0.56444448;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect9288-3-7-1"
+         width="1022.7592"
+         height="420.86996"
+         x="-11.578987"
+         y="-147.25639" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -11931,14 +11942,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="-250.16987"
-     inkscape:cy="312.11942"
+     inkscape:zoom="1"
+     inkscape:cx="-677.41987"
+     inkscape:cy="388.11942"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -11957,7 +11968,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -20618,8 +20629,11 @@
        inkscape:connector-curvature="0"
        id="path15432-1-2"
        d="m 356.43505,89.905799 0,16.933341 0,2.11667 0,7.40833 270.93333,0 0,-7.40833 0,-2.11667 0,-16.933341 -270.93333,0 z"
-       style="display:inline;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       clip-path="url(#clipPath9398-4-9)" />
+       style="display:inline;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.26458332;marker-start:"
+       clip-path="url(#clipPath9398-4-9)"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="display:inline;fill:#d1d3d4;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        id="rect3683-7-3-3"
@@ -20634,18 +20648,24 @@
        clip-path="url(#clipPath9394-44-5)" />
     <path
        transform="translate(284.07803,-118.65833)"
-       style="display:inline;fill:#7e7f83;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="display:inline;fill:#7e7f83;fill-opacity:1;stroke:none;stroke-width:0.26458332;marker-start:"
        d="m 356.43505,89.905799 0,16.933341 0,2.11667 0,7.40833 270.93333,0 0,-7.40833 0,-2.11667 0,-16.933341 -270.93333,0 z"
        id="rect46897-9-6-6"
        inkscape:connector-curvature="0"
-       clip-path="url(#clipPath9390-7-4)" />
+       clip-path="url(#clipPath9390-7-4)"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        transform="translate(284.07803,-118.65833)"
        inkscape:connector-curvature="0"
        id="path15452-0-9"
        d="m 356.43505,89.905799 0,16.933341 0,2.11667 0,7.40833 270.93333,0 0,-7.40833 0,-2.11667 0,-16.933341 -270.93333,0 z"
-       style="display:inline;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       clip-path="url(#clipPath9386-6-9)" />
+       style="display:inline;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.26458332;marker-start:"
+       clip-path="url(#clipPath9386-6-9)"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        transform="translate(284.07803,-118.65833)"
        style="display:inline;fill:url(#linearGradient19429-6);fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -20654,7 +20674,7 @@
        height="15.875001"
        x="356.17044"
        y="66.870026"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        clip-path="url(#clipPath9382-81-0)" />
@@ -20666,7 +20686,7 @@
        x="605.69128"
        style="font-style:normal;font-weight:normal;font-size:5.47883177px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        clip-path="url(#clipPath9378-1-4)"><tspan
@@ -20684,7 +20704,7 @@
        id="image9552-31-2"
        x="597.07367"
        y="72.029381"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        clip-path="url(#clipPath9374-2-4)" />
@@ -20692,7 +20712,7 @@
        style="display:inline;fill:#000000;fill-opacity:0;stroke:#58595b"
        transform="matrix(0.26458333,0,0,0.19231498,858.5297,-23.544368)"
        id="g9554-19-5"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        clip-path="url(#clipPath9370-2-9)">
@@ -20720,7 +20740,7 @@
        y="78.0877"
        id="text9562-2-1"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        clip-path="url(#clipPath9366-4-1)"><tspan
@@ -20737,7 +20757,7 @@
        width="72.961014"
        id="rect9586-8-9"
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#d1d3d4;stroke-width:0.32856825;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        clip-path="url(#clipPath9362-5-4)" />
@@ -20749,7 +20769,7 @@
        height="8.3557949"
        x="517.35712"
        y="70.894188"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        clip-path="url(#clipPath9358-3-4)" />
@@ -20757,7 +20777,7 @@
        id="g9590-6-3"
        transform="matrix(0.26458333,0,0,0.19231498,629.92969,-23.544368)"
        style="display:inline;fill:#000000;fill-opacity:0;stroke:#58595b"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        clip-path="url(#clipPath9354-7-3)">
@@ -20781,7 +20801,7 @@
        style="display:inline"
        transform="matrix(0.57342123,0.18916123,-0.18916123,0.57342123,766.9709,-109.98769)"
        id="g9598-2-9"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        clip-path="url(#clipPath9350-7-7)">
@@ -20795,7 +20815,7 @@
        style="display:inline"
        id="g9602-8-9"
        transform="matrix(0.06881512,0,0,0.06881512,597.51475,-54.854746)"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        clip-path="url(#clipPath9346-1-4)">
@@ -20821,11 +20841,11 @@
          inkscape:connector-curvature="0" />
     </g>
     <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;filter:url(#filter10974-1-1);enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;filter:url(#filter10974-1-1);enable-background:accumulate;marker-start:"
        d="m 6.1560002,86.512695 0,1 1024.9999998,0 0,-1 -1024.9999998,0 z"
        id="rect10917-1-6"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        transform="matrix(0.26458333,0,0,0.26458333,638.61968,-51.788336)"
@@ -20837,7 +20857,7 @@
        height="7.1437497"
        x="356.17044"
        y="82.74501"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        clip-path="url(#clipPath9338-0-9)"
@@ -20850,7 +20870,7 @@
        x="379.73706"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        clip-path="url(#clipPath9334-99-6)"><tspan
@@ -20867,7 +20887,7 @@
        y="87.780594"
        id="text10793-8-4"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        clip-path="url(#clipPath9330-7-0)"><tspan
@@ -20884,7 +20904,7 @@
        x="436.88702"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        clip-path="url(#clipPath9326-7-0)"><tspan
@@ -20901,7 +20921,7 @@
        y="87.780594"
        id="text10801-2-5"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        clip-path="url(#clipPath9322-1-9)"><tspan
@@ -20918,7 +20938,7 @@
        x="477.10376"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        clip-path="url(#clipPath9318-4-7)"><tspan
@@ -20935,7 +20955,7 @@
        y="87.780594"
        id="text10809-3-0"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        clip-path="url(#clipPath9314-1-8)"><tspan
@@ -20952,7 +20972,7 @@
        x="515.20361"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        clip-path="url(#clipPath9310-1-5)"><tspan
@@ -20969,7 +20989,7 @@
        x="362.80371"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        clip-path="url(#clipPath9302-2-7)"><tspan
@@ -20980,11 +21000,11 @@
          sodipodi:role="line">me</tspan></text>
     <path
        transform="translate(284.07803,-118.65833)"
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:"
        d="m 356.69963,90.021039 271.4625,0"
        id="path46498-2-1"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        clip-path="url(#clipPath9298-5-5)" />
@@ -20996,7 +21016,7 @@
        x="361.99127"
        y="-89.888748"
        transform="matrix(1,0,0,-0.99999998,284.07803,-118.65833)"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        clip-path="url(#clipPath9294-6-7)" />
@@ -21008,7 +21028,7 @@
        y="76.668114"
        id="text22846-9-8"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        clip-path="url(#clipPath9290-4-3)"><tspan
@@ -21017,40 +21037,6 @@
          y="76.668114"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#a7a9ac;stroke-width:0.26458332"
          id="tspan22848-08-4">Search across hubs...</tspan></text>
-    <g
-       style="display:inline"
-       id="g13214-1-5"
-       transform="matrix(0.26458333,0,0,0.26458333,643.15886,-12.990425)"
-       clip-path="url(#clipPath9286-47-4)">
-      <rect
-         transform="scale(-1,-1)"
-         style="fill:#3c6eb4;fill-opacity:1;stroke:none"
-         id="rect13204-8-7"
-         width="22.25"
-         height="16"
-         x="-60.25"
-         y="68.637817"
-         ry="8"
-         rx="7.375"
-         inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text13206-6-5"
-         y="-72.789841"
-         x="42.518482"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.59675121px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#60605b;fill-opacity:1;stroke:none"
-         xml:space="preserve"
-         inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.59675121px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
-           y="-72.789841"
-           x="42.518482"
-           id="tspan13208-6-8"
-           sodipodi:role="line">18</tspan></text>
-    </g>
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -21298,7 +21284,10 @@
        style="display:inline"
        id="g23790-43-9"
        transform="matrix(0.26458333,0,0,0.26458333,647.24637,-12.461275)"
-       clip-path="url(#clipPath9166-5-0)">
+       clip-path="url(#clipPath9166-5-0)"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(360,10)"
          id="g23532-5-5">
@@ -21423,7 +21412,7 @@
        transform="translate(289.15806,-118.65833)"
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
        sodipodi:linespacing="125%"
        id="text25850-66-7"
        y="87.780594"
@@ -21444,7 +21433,7 @@
        y="87.780594"
        id="text25858-8-3"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        clip-path="url(#clipPath9010-8-4)"><tspan
@@ -21633,7 +21622,10 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:0.26458332">Ticket #347 - Request for Fedora Swag</tspan></text>
     <g
        id="g9851-3-3"
-       transform="translate(280.36119,-118.73317)">
+       transform="translate(280.36119,-118.73317)"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          inkscape:connector-curvature="0"
          id="path25895-5-7-3"
@@ -21651,7 +21643,7 @@
        clip-path="url(#clipPath9010-5-3-05-4-6)"
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
        sodipodi:linespacing="125%"
        id="text25858-3-6-7-2-2"
        y="87.780594"
@@ -21664,55 +21656,10 @@
          x="560.7121"
          id="tspan25860-7-0-7-7-2"
          sodipodi:role="line">edit...</tspan></text>
-    <g
-       id="g21280-4"
-       transform="translate(133.6582,-119.63297)">
-      <rect
-         transform="scale(-1,-1)"
-         style="fill:#3c6eb4;fill-opacity:1;stroke:none"
-         id="rect13204-8-4-7"
-         width="5.8869791"
-         height="4.2333331"
-         x="-691.86597"
-         y="-86.948509"
-         ry="2.1166666"
-         rx="1.9513021"
-         inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text13206-6-8-1"
-         y="85.849953"
-         x="688.0882"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.80372381px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#60605b;fill-opacity:1;stroke:none"
-         xml:space="preserve"
-         inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.80372381px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
-           y="85.849953"
-           x="688.0882"
-           id="tspan13208-6-0-9"
-           sodipodi:role="line">2</tspan></text>
-    </g>
-    <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-       rx="1.9513021"
-       ry="2.1166666"
-       y="32.439079"
-       x="-910.11957"
-       height="4.2333331"
-       width="5.8869791"
-       id="rect13204-8-4-8-3"
-       style="fill:#3c6eb4;fill-opacity:1;stroke:none"
-       transform="scale(-1,-1)" />
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.80372405px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#60605b;fill-opacity:1;stroke:none"
        x="906.34174"
@@ -21870,5 +21817,65 @@
          x="436.88702"
          id="tspan10799-7-2-5-3"
          sodipodi:role="line">example 4</tspan></text>
+    <g
+       style="display:inline"
+       id="g8750-3"
+       transform="matrix(0.13229166,0,0,0.13229166,644.05368,-28.001832)"
+       clip-path="url(#clipPath9286-47-4-6)"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <circle
+         style="fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle8752-9"
+         cx="75.029297"
+         cy="-39.826534"
+         r="5.3333335" />
+    </g>
+    <g
+       clip-path="url(#clipPath9286-47-4-6)"
+       transform="matrix(0.13229166,0,0,0.13229166,730.97808,-28.001832)"
+       id="g45635"
+       style="display:inline"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <circle
+         r="5.3333335"
+         cy="-39.826534"
+         cx="75.029297"
+         id="circle45637"
+         style="fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       style="display:inline"
+       id="g45639"
+       transform="matrix(0.13229166,0,0,0.13229166,811.69356,-28.001832)"
+       clip-path="url(#clipPath9286-47-4-6)"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <circle
+         style="fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle45641"
+         cx="75.029297"
+         cy="-39.826534"
+         r="5.3333335" />
+    </g>
+    <g
+       clip-path="url(#clipPath9286-47-4-6)"
+       transform="matrix(0.13229166,0,0,0.13229166,845.5602,-28.001832)"
+       id="g45643"
+       style="display:inline"
+       inkscape:export-filename="/home/duffy/Desktop/_delete_/edit-button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <circle
+         r="5.3333335"
+         cy="-39.826534"
+         cx="75.029297"
+         id="circle45645"
+         style="fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
