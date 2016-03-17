@@ -449,6 +449,16 @@
          stdDeviation="5.52"
          id="feGaussianBlur15579" />
     </filter>
+    <symbol
+       id="rss"
+       class="Web-Application-Icons">
+      <title
+         id="title11323">rss</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M384 192q0 -80 -56 -136t-136 -56t-136 56t-56 136t56 136t136 56t136 -56t56 -136zM896 69q2 -28 -17 -48q-18 -21 -47 -21h-135q-25 0 -43 16.5t-20 41.5q-22 229 -184.5 391.5t-391.5 184.5q-25 2 -41.5 20t-16.5 43v135q0 29 21 47q17 17 43 17h5q160 -13 306 -80.5 t259 -181.5q114 -113 181.5 -259t80.5 -306zM1408 67q2 -27 -18 -47q-18 -20 -46 -20h-143q-26 0 -44.5 17.5t-19.5 42.5q-12 215 -101 408.5t-231.5 336t-336 231.5t-408.5 102q-25 1 -42.5 19.5t-17.5 43.5v143q0 28 20 46q18 18 44 18h3q262 -13 501.5 -120t425.5 -294 q187 -186 294 -425.5t120 -501.5z"
+         id="path11325" />
+    </symbol>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -458,8 +468,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="2308.89"
-     inkscape:cy="799.83584"
+     inkscape:cx="2275.89"
+     inkscape:cy="-215.16416"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -7779,25 +7789,7 @@
            y="728.15729"
            style="fill:#0a0a0a;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara15417"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.50609684px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#0a0a0a;fill-opacity:1">Subscribed</flowPara></flowRoot>    <use
-       style="fill:#ffffff"
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       transform="matrix(0.26785714,0,0,0.26785714,2820.5315,2033.244)"
-       xlink:href="#briefcase"
-       id="use15419" />
-    <use
-       id="use15421"
-       xlink:href="#briefcase"
-       transform="matrix(0.26785714,0,0,0.26785714,2820.5315,2113.244)"
-       x="0"
-       y="0"
-       width="100%"
-       height="100%"
-       style="fill:#ffffff" />
-    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.50609684px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#0a0a0a;fill-opacity:1">Subscribed</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot15433"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
@@ -8111,5 +8103,23 @@
          x="-4.7572522"
          id="tspan15731"
          sodipodi:role="line">27</tspan></text>
+    <use
+       id="use15744"
+       xlink:href="#rss"
+       transform="matrix(0.33245972,0,0,0.33245972,2819.1269,2032.004)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       style="fill:#ffffff" />
+    <use
+       style="fill:#ffffff"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       transform="matrix(0.33245972,0,0,0.33245972,2819.1269,2112.004)"
+       xlink:href="#rss"
+       id="use15758" />
   </g>
 </svg>
