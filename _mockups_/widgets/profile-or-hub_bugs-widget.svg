@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1700"
+   width="2900"
    height="850"
-   viewBox="0 0 1700 850"
+   viewBox="0 0 2900 850"
    id="svg26381"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -313,8 +313,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="2333.5"
+     inkscape:zoom="0.5"
+     inkscape:cx="1953.5"
      inkscape:cy="391.33918"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -333,7 +333,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -6144,19 +6144,19 @@
        inkscape:export-ydpi="90" />
     <flowRoot
        transform="translate(1990,68)"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Open Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Open Sans';font-stretch:normal;font-variant:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot12175"
        xml:space="preserve"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion12177"><rect
-           style="text-align:end;text-anchor:end;fill:#8c8c8c;-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#8c8c8c"
            y="477.36221"
            x="90"
            height="22.999969"
            width="125"
            id="rect12179" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.875px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#8c8c8c;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.875px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#8c8c8c"
          id="flowPara12181">38 comments</flowPara></flowRoot>    <use
        id="use12183"
        xlink:href="#user"
@@ -6268,7 +6268,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot12241"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Open Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Open Sans';font-stretch:normal;font-variant:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(1990,188)"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -6278,9 +6278,9 @@
            height="22.999969"
            x="90"
            y="477.36221"
-           style="text-align:end;text-anchor:end;fill:#8c8c8c;-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#8c8c8c" /></flowRegion><flowPara
          id="flowPara12247"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.875px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#8c8c8c;">27 comments</flowPara></flowRoot>    <use
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.875px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#8c8c8c">27 comments</flowPara></flowRoot>    <use
        style="fill:#8c8c8c"
        height="100%"
        width="100%"
@@ -6390,19 +6390,19 @@
        inkscape:export-ydpi="90" />
     <flowRoot
        transform="translate(1988,308)"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Open Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Open Sans';font-stretch:normal;font-variant:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot12307"
        xml:space="preserve"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion12309"><rect
-           style="text-align:end;text-anchor:end;fill:#8c8c8c;-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#8c8c8c"
            y="477.36221"
            x="90"
            height="22.999969"
            width="125"
            id="rect12311" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.875px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#8c8c8c;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.875px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#8c8c8c"
          id="flowPara12313">24 comments</flowPara></flowRoot>    <use
        id="use12315"
        xlink:href="#user"
@@ -6537,7 +6537,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot12381"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Open Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Open Sans';font-stretch:normal;font-variant:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(1990,428)"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -6547,9 +6547,9 @@
            height="22.999969"
            x="90"
            y="477.36221"
-           style="text-align:end;text-anchor:end;fill:#8c8c8c;-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#8c8c8c" /></flowRegion><flowPara
          id="flowPara12387"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.875px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#8c8c8c;">19 comments</flowPara></flowRoot>    <use
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.875px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#8c8c8c">19 comments</flowPara></flowRoot>    <use
        style="fill:#8c8c8c"
        height="100%"
        width="100%"
@@ -6593,7 +6593,7 @@
          id="flowPara12405">View more</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot12109"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Open Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Open Sans';font-stretch:normal;font-variant:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(1990,-56)"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -6603,9 +6603,9 @@
            height="23.999969"
            x="90"
            y="477.36221"
-           style="text-align:end;text-anchor:end;fill:#8c8c8c;-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#8c8c8c" /></flowRegion><flowPara
          id="flowPara12115"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.875px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#8c8c8c;">43 comments</flowPara></flowRoot>    <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.875px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#8c8c8c">43 comments</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="2135"
