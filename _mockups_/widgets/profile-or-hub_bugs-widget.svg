@@ -334,8 +334,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1091.0279"
-     inkscape:cy="-530.6834"
+     inkscape:cx="1413.0279"
+     inkscape:cy="-500.6834"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -7489,5 +7489,30 @@ Evj+PIA7/R8MBb4/HwTBFb9S2Q/AXa3o/4Z/AcGqBQIAaQpvAAAAAElFTkSuQmCC
        width="100%"
        height="100%"
        style="fill:#4c4c4c" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot15010"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(997.7351,942.967)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion15012"><rect
+           id="rect15014"
+           width="118"
+           height="22.999969"
+           x="90"
+           y="477.36221"
+           style="fill:#8c8c8c" /></flowRegion><flowPara
+         id="flowPara15016"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c">Bugzilla Email:</flowPara></flowRoot>    <rect
+       ry="8.3822165"
+       y="1415.9451"
+       x="1206.5829"
+       height="30.834076"
+       width="322.83408"
+       id="rect15018"
+       style="fill:none;fill-opacity:1;stroke:#cecece;stroke-width:1.16592324;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
