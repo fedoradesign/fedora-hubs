@@ -1,7 +1,7 @@
 # fedora-hubs
-Design assets for Fedora Hubs design
+Assets for Fedora Hubs design
 
-* Mockups are in the _mockups_ directory. Keep SVGs in the directory; any PNG exports put in the PNG subfolder.
-* Pencil sketches are in the sketches folder.
-* Icons are in the icons folder.
-* Any sort of diagrams, planning documents, overall maps of the application are put in meta. Please include your sources.
+* Mockups are in [the `_mockups_` folder](_mockups_). Keep SVGs in the folder itself; any PNG exports put in [the `PNG` subfolder](_mockups_/PNG/).
+* Pencil and whiteboard sketches are in [the `sketches` folder](sketches).
+* Icons are in [the `icons` folder](icons).
+* Any sort of diagrams, planning documents, overall maps of the application are put in [the `meta` folder](meta). Please include your sources.
