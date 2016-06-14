@@ -969,6 +969,256 @@
          d="m32 2c-16.542 0-30 13.459-30 30 0 16.543 13.458 30 30 30s30-13.457 30-30c0-16.541-13.458-30-30-30m20.05 46.2c-1.195-1.083-2.464-2.058-3.793-2.923 1.674-3.385 2.703-7.07 3.01-10.859h6.409c-.486 5.191-2.517 9.941-5.628 13.782m-45.722-13.782h6.297c.312 3.803 1.35 7.514 3.039 10.914-1.299.852-2.538 1.809-3.708 2.868-3.111-3.841-5.142-8.591-5.628-13.782m5.627-18.625c1.171 1.061 2.41 2.02 3.709 2.867-1.783 3.588-2.842 7.52-3.084 11.547h-6.304c.375-5.438 2.443-10.418 5.679-14.414m17.943-6.238v9.648c-2.927-.234-5.746-.955-8.368-2.125 2.19-3.07 5.04-5.653 8.368-7.523m0 13.869v6.783h-13.1c.235-3.359 1.127-6.57 2.558-9.488 3.283 1.531 6.839 2.452 10.541 2.705m0 10.994v6.15c-3.714.255-7.282 1.181-10.574 2.723-1.327-2.732-2.182-5.727-2.473-8.873h13.05m0 10.373v9.668c-3.363-1.867-6.226-4.447-8.413-7.523 2.634-1.182 5.469-1.911 8.413-2.145m4.21 9.58v-9.58c2.894.23 5.681.938 8.277 2.084-2.167 3.05-4.988 5.623-8.277 7.496m0-13.803v-6.15h12.934c-.297 3.111-1.157 6.088-2.488 8.812-3.256-1.505-6.78-2.41-10.446-2.662m0-10.361v-6.783c3.666-.25 7.192-1.156 10.45-2.662 1.418 2.906 2.302 6.102 2.536 9.445h-12.986m0-11v-9.584c3.292 1.872 6.113 4.445 8.282 7.496-2.597 1.149-5.386 1.856-8.282 2.088m10.427-6.241c-1.984-2.404-4.327-4.471-6.918-6.138 4.357.971 8.302 3.048 11.524 5.92-.954.857-1.962 1.637-3.02 2.333-.496-.727-1.026-1.433-1.59-2.115m-25.18.001c-.55.666-1.068 1.354-1.556 2.063-1.026-.684-2.01-1.445-2.938-2.281 3.181-2.835 7.06-4.896 11.355-5.883-2.569 1.659-4.891 3.713-6.861 6.101m-1.554 36c.408.594.838 1.174 1.29 1.738 2.02 2.521 4.44 4.689 7.13 6.428-4.292-.986-8.178-3.048-11.359-5.884.931-.837 1.912-1.599 2.939-2.282m26.772 2.01c.548-.666 1.065-1.355 1.551-2.064 1.054.696 2.061 1.476 3.02 2.333-3.223 2.872-7.167 4.948-11.524 5.92 2.61-1.679 4.965-3.763 6.958-6.189m6.738-20.773c-.241-4.01-1.289-7.92-3.057-11.492 1.329-.864 2.598-1.839 3.793-2.922 3.237 3.996 5.305 8.977 5.68 14.414h-6.416"
          id="path117893" />
     </symbol>
+    <symbol
+       viewBox="0 0 64 64"
+       id="emoji-26a0">
+      <title
+         id="title165556">26a0</title>
+      <path
+         fill="#ed4c5c"
+         d="m4.161 64c-3.533 0-5.132-2.54-3.551-5.644l28.518-56.03c1.579-3.104 4.167-3.104 5.746 0l28.516 56.03c1.581 3.104-.018 5.644-3.551 5.644h-55.678"
+         id="path165558" />
+      <path
+         fill="#fff"
+         d="m8.891 57.25l23.11-45.4 23.11 45.4z"
+         id="path165560" />
+      <g
+         fill="#333"
+         id="g165562">
+        <path
+           d="m28.358 29.12l2.386 15.895c.238 1.585 2.273 1.585 2.512 0l2.385-15.895c.438-6.198-7.721-6.198-7.283 0"
+           id="path165564" />
+        <ellipse
+           cx="32"
+           cy="51.52"
+           rx="3.658"
+           ry="3.622"
+           id="ellipse165566" />
+      </g>
+    </symbol>
+    <symbol
+       viewBox="0 0 64 64"
+       id="emoji-2705">
+      <title
+         id="title166993">2705</title>
+      <circle
+         fill="#75a843"
+         cx="32"
+         cy="32"
+         r="30"
+         id="circle166995" />
+      <path
+         fill="#fff"
+         d="m46.01 14l-21 21.619-6.98-7.183-7.03 7.164 13.988 14.4.022-.019.01.019 27.98-28.8z"
+         id="path166997" />
+    </symbol>
+    <symbol
+       id="calendar"
+       inkscape:label="calendar">
+      <desc
+         id="desc36887">Calendar</desc>
+      <title
+         id="title36663">calendar</title>
+      <path
+         style="fill:#888a85;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.37067887px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1172.6443,990.3602 c 10.4531,-0.13155 112.2624,-0.23043 112.2624,-0.23043 l 12.5463,-13.4894 14.0467,13.62052 c 0,0 100.3098,0.0843 110.7633,0.0993 l 0,182.22641 -250,0 c 0.1271,-9.934 0.2541,-172.2924 0.3813,-182.22641 z"
+         id="path25008"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccc" />
+      <g
+         style="fill:#eeeeec"
+         id="g25140">
+        <g
+           id="g25102"
+           style="fill:#eeeeec">
+          <g
+             transform="translate(0,12)"
+             id="g25066"
+             style="fill:#eeeeec">
+            <path
+               id="rect25010"
+               d="m 1180.3871,1034.5555 30,0 0,26.4445 -30,0 z"
+               style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="rect25012"
+               d="m 1214.0537,1034.5555 30,0 0,26.4445 -30,0 z"
+               style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="rect25014"
+               d="m 1247.7205,1034.5555 30,0 0,26.4445 -30,0 z"
+               style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="rect25016"
+               d="m 1281.3871,1034.5555 30,0 0,26.4445 -30,0 z"
+               style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="rect25018"
+               d="m 1315.0537,1034.5555 30,0 0,26.4445 -30,0 z"
+               style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="rect25020"
+               d="m 1348.7205,1034.5555 30,0 0,26.4445 -30,0 z"
+               style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="rect25022"
+               d="m 1382.3871,1034.5555 30,0 0,26.4445 -30,0 z"
+               style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+          </g>
+          <g
+             transform="translate(0,1.3333359)"
+             id="g25093"
+             style="fill:#eeeeec">
+            <path
+               id="rect25024"
+               d="m 1180.3871,1075.5555 30,0 0,26.4445 -30,0 z"
+               style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="rect25026"
+               d="m 1214.0537,1075.5555 30,0 0,26.4445 -30,0 z"
+               style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="rect25028"
+               d="m 1247.7205,1075.5555 30,0 0,26.4445 -30,0 z"
+               style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="rect25030"
+               d="m 1281.3871,1075.5555 30,0 0,26.4445 -30,0 z"
+               style="opacity:1;fill:#555753;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="rect25032"
+               d="m 1315.0537,1075.5555 30,0 0,26.4445 -30,0 z"
+               style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="rect25034"
+               d="m 1348.7205,1075.5555 30,0 0,26.4445 -30,0 z"
+               style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="rect25036"
+               d="m 1382.3871,1075.5555 30,0 0,26.4445 -30,0 z"
+               style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+          </g>
+          <g
+             transform="translate(0,12.666672)"
+             id="g25075"
+             style="fill:#eeeeec">
+            <path
+               id="rect25038"
+               d="m 1180.3871,1094.5555 30,0 0,26.4445 -30,0 z"
+               style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="rect25040"
+               d="m 1214.0537,1094.5555 30,0 0,26.4445 -30,0 z"
+               style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="rect25042"
+               d="m 1247.7205,1094.5555 30,0 0,26.4445 -30,0 z"
+               style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="rect25044"
+               d="m 1281.3871,1094.5555 30,0 0,26.4445 -30,0 z"
+               style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="rect25046"
+               d="m 1315.0537,1094.5555 30,0 0,26.4445 -30,0 z"
+               style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="rect25048"
+               d="m 1348.7205,1094.5555 30,0 0,26.4445 -30,0 z"
+               style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="rect25050"
+               d="m 1382.3871,1094.5555 30,0 0,26.4445 -30,0 z"
+               style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+          </g>
+          <g
+             transform="translate(0,12)"
+             id="g25084"
+             style="fill:#eeeeec">
+            <path
+               id="rect25052"
+               d="m 1180.3871,1125.5555 30,0 0,26.4445 -30,0 z"
+               style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="rect25054"
+               d="m 1214.0537,1125.5555 30,0 0,26.4445 -30,0 z"
+               style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="rect25056"
+               d="m 1247.7205,1125.5555 30,0 0,26.4445 -30,0 z"
+               style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="rect25058"
+               d="m 1281.3871,1125.5555 30,0 0,26.4445 -30,0 z"
+               style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="rect25060"
+               d="m 1315.0537,1125.5555 30,0 0,26.4445 -30,0 z"
+               style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="rect25062"
+               d="m 1348.7205,1125.5555 30,0 0,26.4445 -30,0 z"
+               style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="rect25064"
+               d="m 1382.3871,1125.5555 30,0 0,26.4445 -30,0 z"
+               style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+        <path
+           id="rect25136"
+           d="m 1180.0049,1005 232.7645,0 0,36 -232.7645,0 z"
+           style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+      </g>
+    </symbol>
+    <symbol
+       id="file-o"
+       class="Text-Editor-Icons File-Type-Icons">
+      <title
+         id="title93620">File Outlined</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M1468 1156q28 -28 48 -76t20 -88v-1152q0 -40 -28 -68t-68 -28h-1344q-40 0 -68 28t-28 68v1600q0 40 28 68t68 28h896q40 0 88 -20t76 -48zM1024 1400v-376h376q-10 29 -22 41l-313 313q-12 12 -41 22zM1408 -128v1024h-416q-40 0 -68 28t-28 68v416h-768v-1536h1280z "
+         id="path93622" />
+    </symbol>
+    <symbol
+       id="chevron-down"
+       class="Directional-Icons">
+      <title
+         id="title94080">chevron-down</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M1683 728l-742 -741q-19 -19 -45 -19t-45 19l-742 741q-19 19 -19 45.5t19 45.5l166 165q19 19 45 19t45 -19l531 -531l531 531q19 19 45 19t45 -19l166 -165q19 -19 19 -45.5t-19 -45.5z"
+         id="path94082" />
+    </symbol>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -977,9 +1227,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="624.1497"
-     inkscape:cy="2204.7569"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="549.20814"
+     inkscape:cy="2221.7569"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -7816,7 +8066,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.73823452px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.73823452px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#919497;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="-207.87335"
        y="-1341.2336"
        id="text292133"
@@ -7824,28 +8074,28 @@
          sodipodi:role="line"
          x="-207.87335"
          y="-1341.2336"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71443844px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.71443844px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#919497;fill-opacity:1;stroke-width:0.26458332;"
          id="tspan292135">TOP PRIORITY PROJECTS</tspan></text>
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-207.90222"
-       y="-1316.8513"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#7b7e82;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="360.09778"
+       y="-1308.8513"
        id="text292137"
        sodipodi:linespacing="140%"><tspan
          sodipodi:role="line"
-         x="-207.90222"
-         y="-1316.8513"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1;stroke-width:0.26458332"
+         x="360.09778"
+         y="-1308.8513"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#7b7e82;fill-opacity:1;stroke-width:0.26458332"
          id="tspan292139">Translation complete</tspan></text>
     <text
        sodipodi:linespacing="140%"
        id="text292141"
-       y="-1316.8513"
-       x="-1.9022217"
+       y="-1283.8513"
+       x="336.09778"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
@@ -7853,22 +8103,22 @@
        inkscape:export-ydpi="90"><tspan
          id="tspan292143"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1;stroke-width:0.26458332"
-         y="-1316.8513"
-         x="-1.9022217"
+         y="-1283.8513"
+         x="336.09778"
          sodipodi:role="line">18 languages</tspan></text>
     <text
        sodipodi:linespacing="140%"
        id="text292145"
-       y="-1292.8513"
+       y="-1308.8513"
        x="-207.90222"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#7b7e82;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          id="tspan292147"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1;stroke-width:0.26458332"
-         y="-1292.8513"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#7b7e82;fill-opacity:1;stroke-width:0.26458332"
+         y="-1308.8513"
          x="-207.90222"
          sodipodi:role="line">Translation 80%+ complete</tspan></text>
     <text
@@ -7877,13 +8127,13 @@
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-1.9022217"
-       y="-1292.8513"
+       x="-205.90222"
+       y="-1283.8513"
        id="text292149"
        sodipodi:linespacing="140%"><tspan
          sodipodi:role="line"
-         x="-1.9022217"
-         y="-1292.8513"
+         x="-205.90222"
+         y="-1283.8513"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1;stroke-width:0.26458332"
          id="tspan292151">8 languages</tspan></text>
     <text
@@ -7891,15 +8141,15 @@
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-207.90222"
-       y="-1268.8513"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#7b7e82;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="38.097778"
+       y="-1307.1228"
        id="text292153"
        sodipodi:linespacing="140%"><tspan
          sodipodi:role="line"
-         x="-207.90222"
-         y="-1268.8513"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1;stroke-width:0.26458332"
+         x="38.097778"
+         y="-1307.1228"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#7b7e82;fill-opacity:1;stroke-width:0.26458332"
          id="tspan292155">Less than 10% translated</tspan></text>
     <text
        inkscape:export-ydpi="90"
@@ -7907,14 +8157,767 @@
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-1.9022217"
-       y="-1268.8513"
+       x="38.097778"
+       y="-1283.8513"
        id="text292157"
        sodipodi:linespacing="140%"><tspan
          sodipodi:role="line"
-         x="-1.9022217"
-         y="-1268.8513"
+         x="38.097778"
+         y="-1283.8513"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1;stroke-width:0.26458332"
          id="tspan292159">49 languages</tspan></text>
+    <use
+       id="use295577"
+       xlink:href="#emoji-26a0"
+       transform="matrix(0.5619861,0,0,0.5619861,-845.87713,-2074.7941)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       id="use327801"
+       xlink:href="#file-o"
+       transform="matrix(0.13193958,0,0,0.13193958,-53.830766,-1351.6351)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       style="fill:#0093d9" />
+    <text
+       sodipodi:linespacing="140%"
+       id="text327819"
+       y="-1341.5161"
+       x="-38.817375"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.80747414px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#0093d9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan327821"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.88088131px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0093d9;fill-opacity:1;stroke-width:0.26458332"
+         y="-1341.5161"
+         x="-38.817375"
+         sodipodi:role="line">View List</tspan></text>
+    <use
+       id="use327834"
+       xlink:href="#chevron-down"
+       transform="matrix(0.13151365,0,0,0.13151365,-119.25801,-1294.6556)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       style="fill:#58595b" />
+    <use
+       style="fill:#58595b"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       transform="matrix(0.13151365,0,0,0.13151365,132.74199,-1294.6556)"
+       xlink:href="#chevron-down"
+       id="use327848" />
+    <use
+       id="use327850"
+       xlink:href="#chevron-down"
+       transform="matrix(0.13151365,0,0,0.13151365,430.74199,-1294.6556)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       style="fill:#58595b" />
+    <g
+       id="use358473"
+       transform="matrix(0.2449183,0,0,0.2449183,337.9593,-1322.7028)">
+      <title
+         id="title358487">2705</title>
+      <circle
+         id="circle358489"
+         r="30"
+         cy="32"
+         cx="32"
+         style="fill:#75a843" />
+      <path
+         id="path358491"
+         d="M 46.01,14 25.01,35.619 18.03,28.436 11,35.6 24.988,50 25.01,49.981 25.02,50 53,21.2 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+    </g>
+    <rect
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect358509"
+       width="32"
+       height="19.320753"
+       x="-205.8662"
+       y="-1273.3351"
+       ry="9.6603765" />
+    <text
+       sodipodi:linespacing="140%"
+       id="text358513"
+       y="-1259.8513"
+       x="-197.90222"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan358515"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="-1259.8513"
+         x="-197.90222"
+         sodipodi:role="line">ta</tspan></text>
+    <rect
+       ry="9.6603765"
+       y="-1273.3351"
+       x="-169.8662"
+       height="19.320753"
+       width="32"
+       id="rect358517"
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-161.90222"
+       y="-1259.8513"
+       id="text358519"
+       sodipodi:linespacing="140%"><tspan
+         sodipodi:role="line"
+         x="-161.90222"
+         y="-1259.8513"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan358521">hu</tspan></text>
+    <rect
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect358523"
+       width="34.45837"
+       height="19.320753"
+       x="-133.86621"
+       y="-1273.3351"
+       ry="9.6603765" />
+    <text
+       sodipodi:linespacing="140%"
+       id="text358525"
+       y="-1258.9814"
+       x="-124.96679"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan358527"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="-1258.9814"
+         x="-124.96679"
+         sodipodi:role="line">as</tspan></text>
+    <rect
+       ry="9.6603765"
+       y="-1273.3351"
+       x="-29.866203"
+       height="19.320753"
+       width="32"
+       id="rect358529"
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-21.902222"
+       y="-1259.8513"
+       id="text358531"
+       sodipodi:linespacing="140%"><tspan
+         sodipodi:role="line"
+         x="-21.902222"
+         y="-1259.8513"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan358533">bg</tspan></text>
+    <rect
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect358535"
+       width="32"
+       height="19.320753"
+       x="-115.86621"
+       y="-1247.3351"
+       ry="9.6603765" />
+    <text
+       sodipodi:linespacing="140%"
+       id="text358537"
+       y="-1231.8513"
+       x="-105.90222"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan358539"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="-1231.8513"
+         x="-105.90222"
+         sodipodi:role="line">hr</tspan></text>
+    <rect
+       ry="9.6603765"
+       y="-1273.3351"
+       x="-93.866203"
+       height="19.320753"
+       width="58.5"
+       id="rect358541"
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-84.966789"
+       y="-1258.9814"
+       id="text358543"
+       sodipodi:linespacing="140%"><tspan
+         sodipodi:role="line"
+         x="-84.966789"
+         y="-1258.9814"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan358545">bn-IN</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#d1d3d4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 20.48008,-1324.3256 0,123.0365"
+       id="path358547"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path358549"
+       d="m 318.48008,-1324.3256 0,123.0365"
+       style="fill:none;fill-rule:evenodd;stroke:#d1d3d4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       ry="9.6603765"
+       y="-1247.3351"
+       x="-146.91646"
+       height="19.320753"
+       width="27.050253"
+       id="rect358551"
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-139.90222"
+       y="-1233.8513"
+       id="text358553"
+       sodipodi:linespacing="140%"><tspan
+         sodipodi:role="line"
+         x="-139.90222"
+         y="-1233.8513"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan358555">sv</tspan></text>
+    <rect
+       ry="9.6603765"
+       y="-1247.3351"
+       x="-207.86621"
+       height="19.320753"
+       width="56.04163"
+       id="rect358581"
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-197.90222"
+       y="-1231.8513"
+       id="text358583"
+       sodipodi:linespacing="140%"><tspan
+         sodipodi:role="line"
+         x="-197.90222"
+         y="-1231.8513"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan358585">pt-BR</tspan></text>
+    <rect
+       ry="9.6603765"
+       y="-1272.9539"
+       x="34.934872"
+       height="19.320753"
+       width="32"
+       id="rect358587"
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="42.898861"
+       y="-1259.4701"
+       id="text358589"
+       sodipodi:linespacing="140%"><tspan
+         sodipodi:role="line"
+         x="42.898861"
+         y="-1259.4701"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan358591">ro</tspan></text>
+    <rect
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect358593"
+       width="27.050253"
+       height="19.320753"
+       x="69.884621"
+       y="-1272.9539"
+       ry="9.6603765" />
+    <text
+       sodipodi:linespacing="140%"
+       id="text358595"
+       y="-1259.4701"
+       x="74.898857"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan358597"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="-1259.4701"
+         x="74.898857"
+         sodipodi:role="line">ru</tspan></text>
+    <rect
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect358599"
+       width="32"
+       height="19.320753"
+       x="100.93487"
+       y="-1272.9539"
+       ry="9.6603765" />
+    <text
+       sodipodi:linespacing="140%"
+       id="text358601"
+       y="-1259.4701"
+       x="110.89886"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan358603"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="-1259.4701"
+         x="110.89886"
+         sodipodi:role="line">sr</tspan></text>
+    <rect
+       ry="9.6603765"
+       y="-1273.3351"
+       x="336.13379"
+       height="19.320753"
+       width="32"
+       id="rect358671"
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="344.09778"
+       y="-1259.8513"
+       id="text358673"
+       sodipodi:linespacing="140%"><tspan
+         sodipodi:role="line"
+         x="344.09778"
+         y="-1259.8513"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan358675">sq</tspan></text>
+    <rect
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect358677"
+       width="32"
+       height="19.320753"
+       x="372.13379"
+       y="-1273.3351"
+       ry="9.6603765" />
+    <text
+       sodipodi:linespacing="140%"
+       id="text358679"
+       y="-1259.8513"
+       x="380.09778"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan358681"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="-1259.8513"
+         x="380.09778"
+         sodipodi:role="line">ca</tspan></text>
+    <rect
+       ry="9.6603765"
+       y="-1273.3351"
+       x="408.13379"
+       height="19.320753"
+       width="58.5"
+       id="rect358683"
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="417.0332"
+       y="-1258.9814"
+       id="text358685"
+       sodipodi:linespacing="140%"><tspan
+         sodipodi:role="line"
+         x="417.0332"
+         y="-1258.9814"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan358687">zh-CN</tspan></text>
+    <rect
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect358689"
+       width="32"
+       height="19.320753"
+       x="536.13379"
+       y="-1273.3351"
+       ry="9.6603765" />
+    <text
+       sodipodi:linespacing="140%"
+       id="text358691"
+       y="-1259.8513"
+       x="544.09778"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan358693"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="-1259.8513"
+         x="544.09778"
+         sodipodi:role="line">cs</tspan></text>
+    <rect
+       ry="9.6603765"
+       y="-1247.3351"
+       x="334.13379"
+       height="19.320753"
+       width="32"
+       id="rect358695"
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="344.09778"
+       y="-1231.8513"
+       id="text358697"
+       sodipodi:linespacing="140%"><tspan
+         sodipodi:role="line"
+         x="344.09778"
+         y="-1231.8513"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan358699">nl</tspan></text>
+    <rect
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect358701"
+       width="58.5"
+       height="19.320753"
+       x="472.13379"
+       y="-1273.3351"
+       ry="9.6603765" />
+    <text
+       sodipodi:linespacing="140%"
+       id="text358703"
+       y="-1258.9814"
+       x="481.0332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan358705"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="-1258.9814"
+         x="481.0332"
+         sodipodi:role="line">zh-TW</tspan></text>
+    <rect
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect358707"
+       width="27.050253"
+       height="19.320753"
+       x="369.08356"
+       y="-1247.3351"
+       ry="9.6603765" />
+    <text
+       sodipodi:linespacing="140%"
+       id="text358709"
+       y="-1231.8513"
+       x="378.09778"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan358711"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="-1231.8513"
+         x="378.09778"
+         sodipodi:role="line">fr</tspan></text>
+    <rect
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect358713"
+       width="32"
+       height="19.320753"
+       x="400.13379"
+       y="-1247.3351"
+       ry="9.6603765" />
+    <text
+       sodipodi:linespacing="140%"
+       id="text358715"
+       y="-1231.8513"
+       x="408.09778"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan358717"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="-1231.8513"
+         x="408.09778"
+         sodipodi:role="line">de</tspan></text>
+    <rect
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect358719"
+       width="32"
+       height="19.320753"
+       x="436.13379"
+       y="-1247.3351"
+       ry="9.6603765" />
+    <text
+       sodipodi:linespacing="140%"
+       id="text358721"
+       y="-1231.8513"
+       x="446.09778"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan358723"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="-1231.8513"
+         x="446.09778"
+         sodipodi:role="line">it</tspan></text>
+    <rect
+       ry="9.6603765"
+       y="-1247.3351"
+       x="471.08356"
+       height="19.320753"
+       width="27.050253"
+       id="rect358725"
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="480.09778"
+       y="-1233.8513"
+       id="text358727"
+       sodipodi:linespacing="140%"><tspan
+         sodipodi:role="line"
+         x="480.09778"
+         y="-1233.8513"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan358729">ja</tspan></text>
+    <rect
+       ry="9.6603765"
+       y="-1247.3351"
+       x="502.13379"
+       height="19.320753"
+       width="27.050253"
+       id="rect358731"
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="512.09778"
+       y="-1231.8513"
+       id="text358733"
+       sodipodi:linespacing="140%"><tspan
+         sodipodi:role="line"
+         x="512.09778"
+         y="-1231.8513"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan358735">lt</tspan></text>
+    <rect
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect358737"
+       width="27.050253"
+       height="19.320753"
+       x="534.13379"
+       y="-1247.3351"
+       ry="9.6603765" />
+    <text
+       sodipodi:linespacing="140%"
+       id="text358739"
+       y="-1231.8513"
+       x="542.09778"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan358741"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="-1231.8513"
+         x="542.09778"
+         sodipodi:role="line">pl</tspan></text>
+    <rect
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect358743"
+       width="32"
+       height="19.320753"
+       x="334.13379"
+       y="-1221.3351"
+       ry="9.6603765" />
+    <text
+       sodipodi:linespacing="140%"
+       id="text358745"
+       y="-1207.8513"
+       x="342.09778"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan358747"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="-1207.8513"
+         x="342.09778"
+         sodipodi:role="line">ro</tspan></text>
+    <rect
+       ry="9.6603765"
+       y="-1221.3351"
+       x="369.08356"
+       height="19.320753"
+       width="27.050253"
+       id="rect358749"
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="374.09778"
+       y="-1207.8513"
+       id="text358751"
+       sodipodi:linespacing="140%"><tspan
+         sodipodi:role="line"
+         x="374.09778"
+         y="-1207.8513"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan358753">ru</tspan></text>
+    <rect
+       ry="9.6603765"
+       y="-1221.3351"
+       x="400.13379"
+       height="19.320753"
+       width="32"
+       id="rect358755"
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="410.09778"
+       y="-1207.8513"
+       id="text358757"
+       sodipodi:linespacing="140%"><tspan
+         sodipodi:role="line"
+         x="410.09778"
+         y="-1207.8513"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan358759">sr</tspan></text>
+    <rect
+       ry="9.6603765"
+       y="-1221.3351"
+       x="436.13379"
+       height="19.320753"
+       width="32"
+       id="rect358761"
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="444.09778"
+       y="-1207.8513"
+       id="text358763"
+       sodipodi:linespacing="140%"><tspan
+         sodipodi:role="line"
+         x="444.09778"
+         y="-1207.8513"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan358765">sk</tspan></text>
+    <rect
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect358767"
+       width="27.050253"
+       height="19.320753"
+       x="471.08356"
+       y="-1221.3351"
+       ry="9.6603765" />
+    <text
+       sodipodi:linespacing="140%"
+       id="text358769"
+       y="-1207.8513"
+       x="478.09778"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan358771"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="-1207.8513"
+         x="478.09778"
+         sodipodi:role="line">es</tspan></text>
+    <rect
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect358773"
+       width="27.050253"
+       height="19.320753"
+       x="502.13379"
+       y="-1221.3351"
+       ry="9.6603765" />
+    <text
+       sodipodi:linespacing="140%"
+       id="text358775"
+       y="-1205.8513"
+       x="508.09778"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan358777"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="-1205.8513"
+         x="508.09778"
+         sodipodi:role="line">uk</tspan></text>
   </g>
 </svg>
