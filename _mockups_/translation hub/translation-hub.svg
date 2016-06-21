@@ -1614,7 +1614,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="530.53547"
-     inkscape:cy="2136.2824"
+     inkscape:cy="1496.2824"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -7439,7 +7439,27 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1;stroke-width:0.26458332"
          y="-1529.8513"
          x="631.09778"
-         sodipodi:role="line">Basic rules / guidelines go here.</tspan></text>
+         sodipodi:role="line">Basic rules / guidelines for the</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1;stroke-width:0.26458332"
+         y="-1505.3513"
+         x="631.09778"
+         sodipodi:role="line"
+         id="tspan88026">L10N team go here. This could</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1;stroke-width:0.26458332"
+         y="-1480.8513"
+         x="631.09778"
+         sodipodi:role="line"
+         id="tspan88028">include guidelines for joining,</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1;stroke-width:0.26458332"
+         y="-1456.3513"
+         x="631.09778"
+         sodipodi:role="line"
+         id="tspan88030">communication guidelines,</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1;stroke-width:0.26458332"
+         y="-1431.8513"
+         x="631.09778"
+         sodipodi:role="line"
+         id="tspan88032">various expectations of members.</tspan></text>
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
