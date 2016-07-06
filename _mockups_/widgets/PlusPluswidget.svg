@@ -2412,10 +2412,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.111418"
-     inkscape:cx="-1125.4198"
-     inkscape:cy="1259.9363"
+     inkscape:cx="-787.14492"
+     inkscape:cy="1004.4805"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g16147"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -11597,5 +11597,8 @@
            y="-683.2616" />
       </g>
     </g>
+    <g
+       id="g16147"
+       transform="matrix(1.2157709,0,0,1.2157709,342.52467,-68.899253)" />
   </g>
 </svg>
