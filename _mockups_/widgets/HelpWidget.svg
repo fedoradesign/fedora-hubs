@@ -1280,7 +1280,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1633.0439"
+     inkscape:cx="1353.0439"
      inkscape:cy="451.14702"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -3709,9 +3709,9 @@
        id="text852737"
        y="132.39697"
        x="1908.4144"
-       style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Open Sans';font-stretch:normal;font-variant:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75000024px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff"
          y="132.39697"
          x="1908.4144"
          sodipodi:role="line"
@@ -3720,7 +3720,7 @@
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-       y="167.17166"
+       y="165.17166"
        x="2038.7876"
        height="33.872322"
        width="449.87231"
@@ -3730,13 +3730,13 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75000024px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1908.4144"
-       y="188.39697"
+       y="186.39697"
        id="text852745"
        sodipodi:linespacing="125%"><tspan
          id="tspan852747"
          sodipodi:role="line"
          x="1908.4144"
-         y="188.39697"
+         y="186.39697"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff">Date</tspan></text>
     <rect
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:2.12767982;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -3760,5 +3760,126 @@
          x="1908.4144"
          sodipodi:role="line"
          id="tspan852753">People</tspan></text>
+    <use
+       style="fill:#dedede;fill-opacity:1;stroke:#8c8c8c;stroke-opacity:1"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       transform="matrix(0.14315673,0,0,0.14315673,2215.6125,232.52595)"
+       xlink:href="#chevron-down"
+       id="use24884"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text24983"
+       y="244.19835"
+       x="2050.5254"
+       style="font-style:normal;font-weight:normal;font-size:12.39297867px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-opacity:1"
+         y="244.19835"
+         x="2050.5254"
+         id="tspan24985"
+         sodipodi:role="line">Rem..</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#e7e8e9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect24987"
+       width="189"
+       height="61"
+       x="2050.2236"
+       y="251.60782" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text24989"
+       y="265.68243"
+       x="2058.5969"
+       style="font-style:normal;font-weight:normal;font-size:11.67033958px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#58595b;fill-opacity:1;stroke:none;stroke-opacity:1"
+         y="265.68243"
+         x="2058.5969"
+         id="tspan24991"
+         sodipodi:role="line">RemyD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.16756821px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2058.6462"
+       y="285.20419"
+       id="text24993"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan24995"
+         x="2058.6462"
+         y="285.20419"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#58595b;fill-opacity:1;stroke:none;stroke-opacity:1">Remend99</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text25041"
+       y="305.20416"
+       x="2058.6462"
+       style="font-style:normal;font-weight:normal;font-size:11.16756821px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#58595b;fill-opacity:1;stroke:none;stroke-opacity:1"
+         y="305.20416"
+         x="2058.6462"
+         id="tspan25043"
+         sodipodi:role="line">Remend</tspan></text>
+    <use
+       id="use24882"
+       xlink:href="#chevron-down"
+       transform="matrix(0.14315673,0,0,-0.14315673,849.77734,313.4655)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       style="fill:#dedede;fill-opacity:1;stroke:#8c8c8c;stroke-opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <use
+       id="use24882-9"
+       xlink:href="#chevron-down"
+       transform="matrix(0.14315673,0,0,-0.14315673,849.77734,313.4655)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       style="fill:#dedede;fill-opacity:1;stroke:#8c8c8c;stroke-opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <use
+       id="use24882-1"
+       xlink:href="#chevron-down"
+       transform="matrix(0.14315673,0,0,-0.14315673,849.77734,313.4655)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       style="fill:#dedede;fill-opacity:1;stroke:#8c8c8c;stroke-opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <use
+       id="use24882-7"
+       xlink:href="#chevron-down"
+       transform="matrix(0.14315673,0,0,-0.14315673,849.77734,313.4655)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       style="fill:#dedede;fill-opacity:1;stroke:#8c8c8c;stroke-opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <use
+       id="use24882-0"
+       xlink:href="#chevron-down"
+       transform="matrix(0.14315673,0,0,-0.14315673,849.77734,313.4655)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       style="fill:#dedede;fill-opacity:1;stroke:#8c8c8c;stroke-opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
