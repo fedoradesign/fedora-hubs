@@ -59,7 +59,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="359.37619"
+     inkscape:cx="343.87619"
      inkscape:cy="346.19801"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -69,11 +69,11 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1005"
-     inkscape:window-x="0"
-     inkscape:window-y="38"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1280"
+     inkscape:window-height="1403"
+     inkscape:window-x="2560"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata31626">
     <rdf:RDF>
@@ -818,7 +818,7 @@
            style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara11622"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.36159706px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;fill-opacity:1">@fedora-hubs</flowPara></flowRoot>    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#dedede;stroke-width:1.16262889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#e7e8e8;fill-opacity:1;stroke:#dedede;stroke-width:1.16262889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect11624"
        width="95.293213"
        height="22.837372"
@@ -847,7 +847,7 @@
        height="22.837372"
        width="95.293213"
        id="rect11634"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#dedede;stroke-width:1.16262889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#e7e8e8;fill-opacity:1;stroke:#dedede;stroke-width:1.16262889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <flowRoot
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -864,8 +864,8 @@
            style="fill:#8c8c8c;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara11642"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;fill-opacity:1">@designteam</flowPara></flowRoot>    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#dedede;stroke-width:1.16262889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect11644"
+       style="opacity:1;fill:#e7e8e8;fill-opacity:1;stroke:#dedede;stroke-width:1.16262889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect88927"
        width="95.293213"
        height="22.837372"
        x="384.58133"
@@ -987,5 +987,175 @@
            width="298.58392"
            id="rect13294" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;fill-opacity:1"
-         id="flowPara13296">@i18n</flowPara></flowRoot>  </g>
+         id="flowPara13296">@i18n</flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#db3279;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 486.72372,166.10782 -5,8 11,8"
+       id="path88814"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#db3279;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 482.72372,174.10782 105,-24"
+       id="path88816"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.16049004px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="604.06494"
+       y="136.98412"
+       id="text88818"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         x="604.06494"
+         y="136.98412"
+         id="tspan88822"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279">these are</tspan><tspan
+         sodipodi:role="line"
+         x="604.06494"
+         y="155.14461"
+         id="tspan88826"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279">hub names -</tspan><tspan
+         sodipodi:role="line"
+         x="604.06494"
+         y="173.3051"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279"
+         id="tspan88828">name of hub</tspan><tspan
+         sodipodi:role="line"
+         x="604.06494"
+         y="191.46559"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279"
+         id="tspan88830">associated with</tspan><tspan
+         sodipodi:role="line"
+         x="604.06494"
+         y="209.62607"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279"
+         id="tspan88832">IRC channel and/or</tspan><tspan
+         sodipodi:role="line"
+         x="604.06494"
+         y="227.78656"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279"
+         id="tspan88834">meetbot mtg</tspan><tspan
+         sodipodi:role="line"
+         x="604.06494"
+         y="245.94705"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279"
+         id="tspan88836">topic</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path88858"
+       d="m 291.72372,279.10782 296,-129"
+       style="fill:none;fill-rule:evenodd;stroke:#db3279;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path88860"
+       d="m 297.72372,270.10782 -5,8 11,8"
+       style="fill:none;fill-rule:evenodd;stroke:#db3279;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="521%"
+       id="text88862"
+       y="294.98413"
+       x="580.06494"
+       style="font-style:normal;font-weight:normal;font-size:18.16049004px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan88876"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279"
+         y="294.98413"
+         x="580.06494"
+         sodipodi:role="line">IRC channel</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path88905"
+       d="m 482.75372,279.10782 78.94001,7"
+       style="fill:none;fill-rule:evenodd;stroke:#db3279;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path88907"
+       d="m 486.72372,272.10782 -5,8 11,8"
+       style="fill:none;fill-rule:evenodd;stroke:#db3279;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.16049004px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="581.06494"
+       y="417.98413"
+       id="text88909"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         x="581.06494"
+         y="417.98413"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279"
+         id="tspan88911">pops open modal</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;fill-rule:evenodd;stroke:#db3279;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 482.74662,403.10782 87.95421,7"
+       id="path88913"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#db3279;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 486.72372,396.10782 -5,8 11,8"
+       id="path88915"
+       inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="521%"
+       id="text88917"
+       y="834.98413"
+       x="551.06494"
+       style="font-style:normal;font-weight:normal;font-size:18.16049004px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan88919"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279"
+         y="834.98413"
+         x="551.06494"
+         sodipodi:role="line">brings you to a page</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279"
+         y="853.14459"
+         x="551.06494"
+         sodipodi:role="line"
+         id="tspan88925">with a full listing</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path88921"
+       d="m 452.74662,820.10782 87.95421,7"
+       style="fill:none;fill-rule:evenodd;stroke:#db3279;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path88923"
+       d="m 456.72372,813.10782 -5,8 11,8"
+       style="fill:none;fill-rule:evenodd;stroke:#db3279;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;fill-rule:evenodd;stroke:#db3279;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 379.35406,180.1872 19.14106,-76.90348"
+       id="path88929"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#db3279;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 373.05336,175.181 7.12912,6.17864 9.60706,-9.62831"
+       id="path88931"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.16049004px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="353.06494"
+       y="45.984131"
+       id="text88933"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         x="353.06494"
+         y="45.984131"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279"
+         id="tspan88935">these boxes when turned on (grey)</tspan><tspan
+         sodipodi:role="line"
+         x="353.06494"
+         y="64.144623"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279"
+         id="tspan88937">display help requests for that team</tspan><tspan
+         sodipodi:role="line"
+         x="353.06494"
+         y="82.305115"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279"
+         id="tspan88939">hub - tag filter interface</tspan></text>
+  </g>
 </svg>
