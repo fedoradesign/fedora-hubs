@@ -1251,16 +1251,6 @@
     </clipPath>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient9179"
-       id="linearGradient273032"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.52243348,0,0,1.112376,2155.7379,83.96633)"
-       x1="649"
-       y1="-107.63782"
-       x2="649"
-       y2="-188.644" />
-    <linearGradient
-       inkscape:collect="always"
        id="linearGradient9179">
       <stop
          style="stop-color:#3c6eb4;stop-opacity:1;"
@@ -1271,6 +1261,16 @@
          offset="1"
          id="stop9183" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9179"
+       id="linearGradient852675"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.52243348,0,0,1.112376,2155.7379,83.96633)"
+       x1="649"
+       y1="-107.63782"
+       x2="649"
+       y2="-188.644" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1280,8 +1280,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="2033.0439"
-     inkscape:cy="331.14702"
+     inkscape:cx="1633.0439"
+     inkscape:cy="451.14702"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2906,7 +2906,7 @@
        style="display:inline;fill:#a7a9ac;fill-opacity:1;stroke:none"
        id="rect852007"
        width="664.75562"
-       height="218.04678"
+       height="233.04678"
        x="1882.546"
        y="61.555443" />
     <text
@@ -2936,59 +2936,6 @@
          x="1890.8074"
          y="87.099503"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.96038246px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">All Help Requests</tspan></text>
-    <g
-       id="g852549"
-       transform="translate(0,200)">
-      <rect
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-         y="-63.527161"
-         x="1929.5355"
-         height="33.269962"
-         width="578.51862"
-         id="rect272410"
-         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:2.12767982;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-         style="display:inline;fill:url(#linearGradient273032);fill-opacity:1;stroke:#60605b;stroke-width:0.4726631;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect272412"
-         width="35.201561"
-         height="34.906326"
-         x="2473.5378"
-         y="-64.345093" />
-      <g
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-         transform="matrix(2.4947209,0.7902209,-0.82296303,2.3954668,2323.5994,-324.28324)"
-         id="g272414"
-         style="display:inline">
-        <path
-           inkscape:connector-curvature="0"
-           id="path272416"
-           style="color:#000000;fill:#ffffff;fill-rule:evenodd"
-           d="m 93.279357,80.781612 c -1.493287,0.110109 -2.73906,1.321317 -2.812904,2.779504 -0.07749,1.53057 1.168739,2.79135 2.759117,2.79135 0.779463,0 1.505594,-0.296112 2.053041,-0.784368 0.0278,0.07896 0.07749,0.154855 0.132646,0.219342 0.05014,0.05615 0.114868,0.110548 0.184154,0.149592 l 1.861139,1.107239 c 0.353721,0.210569 0.831427,0.09695 1.067545,-0.25356 0.236118,-0.350509 0.141306,-0.804547 -0.211959,-1.015116 l -1.861595,-1.107239 c -0.125808,-0.07765 -0.273952,-0.1202 -0.425742,-0.115374 0.13766,-0.307079 0.212415,-0.644866 0.230192,-0.991866 0.07703,-1.530131 -1.157798,-2.779504 -2.747721,-2.779504 -0.07475,0 -0.154525,-0.0053 -0.227913,0 z m 0.09983,1.107239 c 0.02279,-8.65e-4 0.04923,0 0.07202,0 0.967719,0 1.700232,0.741377 1.653282,1.672265 -0.04741,0.931327 -0.85513,1.672704 -1.822394,1.672704 -0.967719,0 -1.700232,-0.741377 -1.653282,-1.672704 0.04604,-0.908954 0.813194,-1.638486 1.750373,-1.672265 z" />
-      </g>
-      <text
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.91944122px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="1903.5349"
-         y="-41.04987"
-         id="text272418"
-         sodipodi:linespacing="125%"
-         transform="scale(1.0205068,0.97990528)"><tspan
-           sodipodi:role="line"
-           x="1903.5349"
-           y="-41.04987"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.79147816px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#a7a9ac;stroke-width:0.26458332"
-           id="tspan272420">Search requests ...</tspan></text>
-    </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 1619.7237,96.107817 25,-25"
@@ -3032,16 +2979,16 @@
        width="663.57251"
        height="150.10397"
        x="1883.4282"
-       y="279.72513" />
+       y="295.72513" />
     <text
        sodipodi:linespacing="125%"
        id="text852183"
-       y="344.39697"
+       y="360.39697"
        x="1902.4144"
        style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15.00000095px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#4c4c4c"
-         y="344.39697"
+         y="360.39697"
          x="1902.4144"
          sodipodi:role="line"
          id="tspan852185"><tspan
@@ -3051,32 +2998,32 @@
        style="opacity:1;fill:#e59728;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse852189"
        cx="1918.9144"
-       cy="402.89709"
+       cy="418.89709"
        rx="13.500001"
        ry="13.5" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1940.4144"
-       y="407.39722"
+       y="423.39722"
        id="text852191"
        sodipodi:linespacing="125%"><tspan
          id="tspan852193"
          sodipodi:role="line"
          x="1940.4144"
-         y="407.39722"
+         y="423.39722"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#3c6eb4">threebean</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1915.4144"
-       y="409.39722"
+       y="425.39722"
        id="text852195"
        sodipodi:linespacing="125%"><tspan
          id="tspan852197"
          sodipodi:role="line"
          x="1915.4144"
-         y="409.39722"
+         y="425.39722"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;fill-opacity:1">T</tspan></text>
     <rect
        style="opacity:1;fill:#5bc0de;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -3084,7 +3031,7 @@
        width="125"
        height="24"
        x="1901"
-       y="290.36218"
+       y="306.36218"
        ry="11" />
     <flowRoot
        inkscape:export-ydpi="90"
@@ -3092,7 +3039,7 @@
        xml:space="preserve"
        id="flowRoot852201"
        style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(2324,-8)"><flowRegion
+       transform="translate(2324,8)"><flowRegion
          id="flowRegion852203"><rect
            id="rect852205"
            width="298.58392"
@@ -3104,12 +3051,12 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.36159706px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;fill-opacity:1">@fedora-devel</flowPara></flowRoot>    <text
        sodipodi:linespacing="125%"
        id="text852209"
-       y="307.39722"
+       y="323.39722"
        x="2420.4146"
        style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c"
-         y="307.39722"
+         y="323.39722"
          x="2420.4146"
          sodipodi:role="line"
          id="tspan852211">#fedora-devel</tspan></text>
@@ -3117,19 +3064,19 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1904.4144"
-       y="365.39697"
+       y="381.39697"
        id="text852213"
        sodipodi:linespacing="125%"><tspan
          id="tspan852215"
          sodipodi:role="line"
          x="1904.4144"
-         y="365.39697"
+         y="381.39697"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#3c6eb4">pagure.io/fedora-hubs/issue/21</tspan></text>
     <g
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-       transform="matrix(0.274904,0,0,0.7046856,2298.3654,-480.66407)"
+       transform="matrix(0.274904,0,0,0.7046856,2298.3654,-464.66407)"
        id="g852217"
        style="display:inline">
       <rect
@@ -3158,7 +3105,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
        style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#60605b"
-       transform="matrix(0,0.59188638,0.80257858,0,2586.6036,297.36997)"
+       transform="matrix(0,0.59188638,0.80257858,0,2586.6036,313.36997)"
        id="g852223">
       <g
          style="fill:#ffffff;fill-opacity:0;stroke:#60605b"
@@ -3177,7 +3124,7 @@
       </g>
     </g>
     <rect
-       y="429.72513"
+       y="445.72513"
        x="1883.4282"
        height="150.10397"
        width="663.57251"
@@ -3190,24 +3137,24 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1902.4144"
-       y="494.39697"
+       y="510.39697"
        id="text852233"
        sodipodi:linespacing="125%"><tspan
          id="tspan852235"
          sodipodi:role="line"
          x="1902.4144"
-         y="494.39697"
+         y="510.39697"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15.00000095px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#4c4c4c">&quot;I need help creating signs for Flock.&quot;</tspan></text>
     <rect
        ry="11"
-       y="440.36218"
+       y="456.36218"
        x="1901"
        height="24"
        width="125"
        id="rect852249"
        style="opacity:1;fill:#5bc0de;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <flowRoot
-       transform="translate(2324,142)"
+       transform="translate(2324,158)"
        style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot852251"
        xml:space="preserve"
@@ -3225,30 +3172,30 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="2420.4146"
-       y="457.39722"
+       y="473.39722"
        id="text852259"
        sodipodi:linespacing="125%"><tspan
          id="tspan852261"
          sodipodi:role="line"
          x="2420.4146"
-         y="457.39722"
+         y="473.39722"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c">#fedora-design</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text852263"
-       y="515.39697"
+       y="531.39697"
        x="1904.4144"
        style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#3c6eb4"
-         y="515.39697"
+         y="531.39697"
          x="1904.4144"
          sodipodi:role="line"
          id="tspan852265">fedorahosted.org/design-team/issue/423</tspan></text>
     <g
        style="display:inline"
        id="g852267"
-       transform="matrix(0.274904,0,0,0.7046856,2298.3654,-330.66407)"
+       transform="matrix(0.274904,0,0,0.7046856,2298.3654,-314.66407)"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -3275,7 +3222,7 @@
     </g>
     <g
        id="g852273"
-       transform="matrix(0,0.59188638,0.80257858,0,2586.6036,447.36997)"
+       transform="matrix(0,0.59188638,0.80257858,0,2586.6036,463.36997)"
        style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#60605b"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
        inkscape:export-xdpi="90"
@@ -3305,16 +3252,16 @@
        width="663.57251"
        height="150.10397"
        x="1883.4282"
-       y="579.7251" />
+       y="595.7251" />
     <text
        sodipodi:linespacing="125%"
        id="text852369"
-       y="644.39697"
+       y="660.39697"
        x="1902.4144"
        style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15.00000095px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#4c4c4c"
-         y="644.39697"
+         y="660.39697"
          x="1902.4144"
          sodipodi:role="line"
          id="tspan852371">&quot;I want a pony that's actually a unicorn with rainbow hair and a wookiee.&quot;</tspan></text>
@@ -3324,7 +3271,7 @@
        width="125"
        height="24"
        x="1901"
-       y="590.36218"
+       y="606.36218"
        ry="11" />
     <flowRoot
        inkscape:export-ydpi="90"
@@ -3332,7 +3279,7 @@
        xml:space="preserve"
        id="flowRoot852375"
        style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(2324,292)"><flowRegion
+       transform="translate(2324,308)"><flowRegion
          id="flowRegion852377"><rect
            id="rect852379"
            width="298.58392"
@@ -3344,12 +3291,12 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.36159706px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;fill-opacity:1">@designteam</flowPara></flowRoot>    <text
        sodipodi:linespacing="125%"
        id="text852383"
-       y="607.39722"
+       y="623.39722"
        x="2420.4146"
        style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c"
-         y="607.39722"
+         y="623.39722"
          x="2420.4146"
          sodipodi:role="line"
          id="tspan852385">#fedora-design</tspan></text>
@@ -3357,19 +3304,19 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1904.4144"
-       y="665.39697"
+       y="681.39697"
        id="text852387"
        sodipodi:linespacing="125%"><tspan
          id="tspan852389"
          sodipodi:role="line"
          x="1904.4144"
-         y="665.39697"
+         y="681.39697"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#3c6eb4">fedorahosted.org/design-team/issue/1234567111111</tspan></text>
     <g
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-       transform="matrix(0.274904,0,0,0.7046856,2298.3654,-180.66407)"
+       transform="matrix(0.274904,0,0,0.7046856,2298.3654,-164.66407)"
        id="g852391"
        style="display:inline">
       <rect
@@ -3398,7 +3345,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
        style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#60605b"
-       transform="matrix(0,0.59188638,0.80257858,0,2586.6036,597.36997)"
+       transform="matrix(0,0.59188638,0.80257858,0,2586.6036,613.36997)"
        id="g852397">
       <g
          style="fill:#ffffff;fill-opacity:0;stroke:#60605b"
@@ -3419,38 +3366,38 @@
     <ellipse
        ry="13.5"
        rx="13.500001"
-       cy="702.89709"
+       cy="718.89709"
        cx="1920.9144"
        id="ellipse852405"
        style="opacity:1;fill:#a07cbc;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        sodipodi:linespacing="125%"
        id="text852407"
-       y="707.39722"
+       y="723.39722"
        x="1942.4144"
        style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#3c6eb4"
-         y="707.39722"
+         y="723.39722"
          x="1942.4144"
          sodipodi:role="line"
          id="tspan852409">mizmo</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text852411"
-       y="709.39722"
+       y="725.39722"
        x="1914.4144"
        style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;fill-opacity:1"
-         y="709.39722"
+         y="725.39722"
          x="1914.4144"
          sodipodi:role="line"
          id="tspan852413">M</tspan></text>
     <rect
-       y="729.7251"
+       y="745.7251"
        x="1883.4282"
-       height="106.10397"
+       height="91.103973"
        width="663.57251"
        id="rect852415"
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:0.26458332"
@@ -3461,24 +3408,24 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1902.4144"
-       y="794.39697"
+       y="810.39697"
        id="text852417"
        sodipodi:linespacing="125%"><tspan
          id="tspan852419"
          sodipodi:role="line"
          x="1902.4144"
-         y="794.39697"
+         y="810.39697"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15.00000095px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#4c4c4c">&quot;I need help with the log out bug.&quot;</tspan></text>
     <rect
        ry="11"
-       y="740.36218"
+       y="756.36218"
        x="1901"
        height="24"
        width="125"
        id="rect852421"
        style="opacity:1;fill:#5bc0de;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <flowRoot
-       transform="translate(2324,442)"
+       transform="translate(2324,458)"
        style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot852423"
        xml:space="preserve"
@@ -3496,203 +3443,322 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="2420.4146"
-       y="757.39722"
+       y="773.39722"
        id="text852431"
        sodipodi:linespacing="125%"><tspan
          id="tspan852433"
          sodipodi:role="line"
          x="2420.4146"
-         y="757.39722"
+         y="773.39722"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c">#fedora-design</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text852435"
-       y="815.39697"
+       y="831.39697"
        x="1904.4144"
        style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#3c6eb4"
-         y="815.39697"
+         y="831.39697"
          x="1904.4144"
          sodipodi:role="line"
          id="tspan852437">pagure.io/fedora-hubs/issue/99</tspan></text>
     <ellipse
        ry="13.5"
        rx="13.500001"
-       cy="549.89709"
+       cy="565.89709"
        cx="1915.9144"
        id="ellipse852463"
        style="opacity:1;fill:#79db32;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        sodipodi:linespacing="125%"
        id="text852465"
-       y="554.39722"
+       y="570.39722"
        x="1937.4144"
        style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#3c6eb4"
-         y="554.39722"
+         y="570.39722"
          x="1937.4144"
          sodipodi:role="line"
          id="tspan852467">decause</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text852469"
-       y="555.39722"
+       y="571.39722"
        x="1911.4144"
        style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;fill-opacity:1"
-         y="555.39722"
+         y="571.39722"
          x="1911.4144"
          sodipodi:role="line"
          id="tspan852471">D</tspan></text>
+    <g
+       transform="translate(0,-100)"
+       id="g852599">
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:2.12767982;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect852601"
+         width="578.51862"
+         height="33.269962"
+         x="1929.5355"
+         y="-63.527161"
+         inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         y="-64.345093"
+         x="2473.5378"
+         height="34.906326"
+         width="35.201561"
+         id="rect852603"
+         style="display:inline;fill:url(#linearGradient852675);fill-opacity:1;stroke:#60605b;stroke-width:0.4726631;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         style="display:inline"
+         id="g852605"
+         transform="matrix(2.4947209,0.7902209,-0.82296303,2.3954668,2323.5994,-324.28324)"
+         inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           d="m 93.279357,80.781612 c -1.493287,0.110109 -2.73906,1.321317 -2.812904,2.779504 -0.07749,1.53057 1.168739,2.79135 2.759117,2.79135 0.779463,0 1.505594,-0.296112 2.053041,-0.784368 0.0278,0.07896 0.07749,0.154855 0.132646,0.219342 0.05014,0.05615 0.114868,0.110548 0.184154,0.149592 l 1.861139,1.107239 c 0.353721,0.210569 0.831427,0.09695 1.067545,-0.25356 0.236118,-0.350509 0.141306,-0.804547 -0.211959,-1.015116 l -1.861595,-1.107239 c -0.125808,-0.07765 -0.273952,-0.1202 -0.425742,-0.115374 0.13766,-0.307079 0.212415,-0.644866 0.230192,-0.991866 0.07703,-1.530131 -1.157798,-2.779504 -2.747721,-2.779504 -0.07475,0 -0.154525,-0.0053 -0.227913,0 z m 0.09983,1.107239 c 0.02279,-8.65e-4 0.04923,0 0.07202,0 0.967719,0 1.700232,0.741377 1.653282,1.672265 -0.04741,0.931327 -0.85513,1.672704 -1.822394,1.672704 -0.967719,0 -1.700232,-0.741377 -1.653282,-1.672704 0.04604,-0.908954 0.813194,-1.638486 1.750373,-1.672265 z"
+           style="color:#000000;fill:#ffffff;fill-rule:evenodd"
+           id="path852607"
+           inkscape:connector-curvature="0" />
+      </g>
+      <text
+         transform="scale(1.0205068,0.97990528)"
+         sodipodi:linespacing="125%"
+         id="text852609"
+         y="-41.04987"
+         x="1903.5349"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.91944122px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"
+         inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           id="tspan852611"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.79147816px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#a7a9ac;stroke-width:0.26458332"
+           y="-41.04987"
+           x="1903.5349"
+           sodipodi:role="line">Search requests ...</tspan></text>
+    </g>
     <rect
-       ry="2.8433251"
-       y="229.94351"
-       x="1923.5813"
-       height="22.837372"
-       width="95.293213"
-       id="rect852473"
-       style="opacity:1;fill:#e7e8e8;fill-opacity:1;stroke:#dedede;stroke-width:1.16262889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <flowRoot
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       xml:space="preserve"
-       id="flowRoot852475"
-       style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(2343.6005,-67.6005)"><flowRegion
-         id="flowRegion852477"><rect
-           id="rect852479"
-           width="298.58392"
-           height="42.784863"
-           x="-416.04245"
-           y="300.61685"
-           style="fill:#8c8c8c;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara852481"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;fill-opacity:1">@fedora-devel</flowPara></flowRoot>    <rect
        style="opacity:1;fill:#e7e8e8;fill-opacity:1;stroke:#dedede;stroke-width:1.16262889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect852483"
+       id="rect852613"
        width="95.293213"
        height="22.837372"
-       x="2023.5813"
-       y="229.94351"
+       x="1923.5813"
+       y="-70.056488"
        ry="2.8433251" />
     <flowRoot
-       transform="translate(2445.6005,-67.6005)"
+       transform="translate(2343.6005,-367.6005)"
        style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot852485"
+       id="flowRoot852615"
        xml:space="preserve"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
-         id="flowRegion852487"><rect
+         id="flowRegion852617"><rect
            style="fill:#8c8c8c;fill-opacity:1"
            y="300.61685"
            x="-416.04245"
            height="42.784863"
            width="298.58392"
-           id="rect852489" /></flowRegion><flowPara
+           id="rect852619" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;fill-opacity:1"
-         id="flowPara852491">@designteam</flowPara></flowRoot>    <rect
+         id="flowPara852621">@fedora-devel</flowPara></flowRoot>    <rect
        ry="2.8433251"
-       y="229.94351"
-       x="2123.5813"
+       y="-70.056488"
+       x="2023.5813"
        height="22.837372"
        width="95.293213"
-       id="rect852493"
+       id="rect852623"
        style="opacity:1;fill:#e7e8e8;fill-opacity:1;stroke:#dedede;stroke-width:1.16262889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <flowRoot
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        xml:space="preserve"
-       id="flowRoot852495"
+       id="flowRoot852625"
        style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(2545.6005,-67.6005)"><flowRegion
-         id="flowRegion852497"><rect
-           id="rect852499"
+       transform="translate(2445.6005,-367.6005)"><flowRegion
+         id="flowRegion852627"><rect
+           id="rect852629"
            width="298.58392"
            height="42.784863"
            x="-416.04245"
            y="300.61685"
            style="fill:#8c8c8c;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara852501"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;fill-opacity:1">@fedora-hubs</flowPara></flowRoot>    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#dedede;stroke-width:1.06179094;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect852503"
-       width="79.130592"
-       height="22.93821"
-       x="2224.5308"
-       y="229.8931"
-       ry="2.8558798" />
+         id="flowPara852631"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;fill-opacity:1">@designteam</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#e7e8e8;fill-opacity:1;stroke:#dedede;stroke-width:1.16262889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect852633"
+       width="95.293213"
+       height="22.837372"
+       x="2123.5813"
+       y="-70.056488"
+       ry="2.8433251" />
     <flowRoot
-       transform="translate(2644.6005,-67.60052)"
+       transform="translate(2545.6005,-367.6005)"
        style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot852505"
+       id="flowRoot852635"
        xml:space="preserve"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
-         id="flowRegion852507"><rect
+         id="flowRegion852637"><rect
            style="fill:#8c8c8c;fill-opacity:1"
            y="300.61685"
            x="-416.04245"
            height="42.784863"
            width="298.58392"
-           id="rect852509" /></flowRegion><flowPara
+           id="rect852639" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;fill-opacity:1"
-         id="flowPara852511">@marketing</flowPara></flowRoot>    <rect
-       ry="2.8711505"
-       y="229.83177"
-       x="2308.4697"
-       height="23.060863"
-       width="61.575577"
-       id="rect852513"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#dedede;stroke-width:0.93913728;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         id="flowPara852641">@fedora-hubs</flowPara></flowRoot>    <rect
+       ry="2.8558798"
+       y="-70.106903"
+       x="2224.5308"
+       height="22.93821"
+       width="79.130592"
+       id="rect852643"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#dedede;stroke-width:1.06179094;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <flowRoot
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        xml:space="preserve"
-       id="flowRoot852515"
+       id="flowRoot852645"
        style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(2728.6005,-67.60052)"><flowRegion
-         id="flowRegion852517"><rect
-           id="rect852519"
+       transform="translate(2644.6005,-367.60052)"><flowRegion
+         id="flowRegion852647"><rect
+           id="rect852649"
            width="298.58392"
            height="42.784863"
            x="-416.04245"
            y="300.61685"
            style="fill:#8c8c8c;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara852521"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;fill-opacity:1">@council</flowPara></flowRoot>    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#dedede;stroke-width:1.26255131;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect852523"
-       width="112.87096"
-       height="22.73745"
-       x="2374.6313"
-       y="229.99347"
-       ry="2.8308845" />
+         id="flowPara852651"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;fill-opacity:1">@marketing</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#dedede;stroke-width:0.93913728;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect852653"
+       width="61.575577"
+       height="23.060863"
+       x="2308.4697"
+       y="-70.168228"
+       ry="2.8711505" />
     <flowRoot
-       transform="translate(2794.6005,-67.60052)"
+       transform="translate(2728.6005,-367.60052)"
        style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot852525"
+       id="flowRoot852655"
        xml:space="preserve"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
-         id="flowRegion852527"><rect
+         id="flowRegion852657"><rect
            style="fill:#8c8c8c;fill-opacity:1"
            y="300.61685"
            x="-416.04245"
            height="42.784863"
            width="298.58392"
-           id="rect852529" /></flowRegion><flowPara
+           id="rect852659" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;fill-opacity:1"
-         id="flowPara852531">@fedora-websites</flowPara></flowRoot>    <use
-       style="fill:#ffffff"
-       transform="matrix(0.18081362,0,0,0.18081362,1897.4144,231.85212)"
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
+         id="flowPara852661">@council</flowPara></flowRoot>    <rect
+       ry="2.8308845"
+       y="-70.006531"
+       x="2374.6313"
+       height="22.73745"
+       width="112.87096"
+       id="rect852663"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#dedede;stroke-width:1.26255131;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <flowRoot
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       xml:space="preserve"
+       id="flowRoot852665"
+       style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(2794.6005,-367.60052)"><flowRegion
+         id="flowRegion852667"><rect
+           id="rect852669"
+           width="298.58392"
+           height="42.784863"
+           x="-416.04245"
+           y="300.61685"
+           style="fill:#8c8c8c;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara852671"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;fill-opacity:1">@fedora-websites</flowPara></flowRoot>    <use
+       id="use852673"
        xlink:href="#tags"
-       id="use852533" />
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="matrix(0.18081362,0,0,0.18081362,1897.4144,-68.14788)"
+       style="fill:#ffffff" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:2.12767982;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect852717"
+       width="449.87231"
+       height="33.872322"
+       x="2038.7876"
+       y="111.17166"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text852737"
+       y="132.39697"
+       x="1908.4144"
+       style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Open Sans';font-stretch:normal;font-variant:normal;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;"
+         y="132.39697"
+         x="1908.4144"
+         sodipodi:role="line"
+         id="tspan852739">Meeting Name</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       y="167.17166"
+       x="2038.7876"
+       height="33.872322"
+       width="449.87231"
+       id="rect852743"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:2.12767982;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75000024px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1908.4144"
+       y="188.39697"
+       id="text852745"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan852747"
+         sodipodi:role="line"
+         x="1908.4144"
+         y="188.39697"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff">Date</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:2.12767982;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect852749"
+       width="449.87231"
+       height="33.872322"
+       x="2038.7876"
+       y="223.17166"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text852751"
+       y="244.39697"
+       x="1908.4144"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75000024px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff"
+         y="244.39697"
+         x="1908.4144"
+         sodipodi:role="line"
+         id="tspan852753">People</tspan></text>
   </g>
 </svg>
