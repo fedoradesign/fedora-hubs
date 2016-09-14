@@ -49,8 +49,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="768.85712"
+     inkscape:zoom="1"
+     inkscape:cx="648.85712"
      inkscape:cy="432.00212"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -88,7 +88,7 @@
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
        y="39.105461"
        x="46.00946"
-       height="482.51349"
+       height="488.51349"
        width="357.98108"
        id="rect31164-7"
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:0.26458332" />
@@ -105,7 +105,7 @@
        y="128.14044" />
     <g
        id="g12675-3"
-       transform="matrix(0,-0.78042388,0.79657291,0,397.94754,633.8453)"
+       transform="matrix(0,-0.78042388,0.79657291,0,397.94754,639.8453)"
        style="display:inline;fill:none;fill-opacity:0;stroke:#8c8c8c"
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
        inkscape:export-xdpi="90"
@@ -132,7 +132,7 @@
        xml:space="preserve"
        id="flowRoot12683-7"
        style="font-style:normal;font-weight:normal;font-size:37.29530334px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-1331.2998,-257.4363)"
+       transform="translate(-1331.2998,-251.4363)"
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"><flowRegion
          id="flowRegion12685-8"><rect
            id="rect12687-4"
@@ -1118,7 +1118,7 @@
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.875px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';text-align:end;text-anchor:end;fill:#8c8c8c"
          id="flowPara440677">26 Jul 2016</flowPara></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#ececec;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 47.9907,472.71891 352,0"
+       d="m 47.9907,478.71891 352,0"
        id="path440716"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="90"
