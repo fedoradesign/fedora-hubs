@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="297mm"
-   height="251mm"
-   viewBox="0 0 1052.3622 889.37019"
+   width="420mm"
+   height="300mm"
+   viewBox="0 0 1488.189 1062.9923"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -48,8 +48,9 @@
          id="title8686">calendar</title>
       <path
          transform="matrix(0.05,0,0,-0.05,0,76.8)"
-         d="M128 -128h288v288h-288v-288zM480 -128h320v288h-320v-288zM128 224h288v320h-288v-320zM480 224h320v320h-320v-320zM128 608h288v288h-288v-288zM864 -128h320v288h-320v-288zM480 608h320v288h-320v-288zM1248 -128h288v288h-288v-288zM864 224h320v320h-320v-320z M512 1088v288q0 13 -9.5 22.5t-22.5 9.5h-64q-13 0 -22.5 -9.5t-9.5 -22.5v-288q0 -13 9.5 -22.5t22.5 -9.5h64q13 0 22.5 9.5t9.5 22.5zM1248 224h288v320h-288v-320zM864 608h320v288h-320v-288zM1248 608h288v288h-288v-288zM1280 1088v288q0 13 -9.5 22.5t-22.5 9.5h-64 q-13 0 -22.5 -9.5t-9.5 -22.5v-288q0 -13 9.5 -22.5t22.5 -9.5h64q13 0 22.5 9.5t9.5 22.5zM1664 1152v-1280q0 -52 -38 -90t-90 -38h-1408q-52 0 -90 38t-38 90v1280q0 52 38 90t90 38h128v96q0 66 47 113t113 47h64q66 0 113 -47t47 -113v-96h384v96q0 66 47 113t113 47 h64q66 0 113 -47t47 -113v-96h128q52 0 90 -38t38 -90z"
-         id="path8688" />
+         d="m 128,-128 288,0 0,288 -288,0 0,-288 z m 352,0 320,0 0,288 -320,0 0,-288 z m -352,352 288,0 0,320 -288,0 0,-320 z m 352,0 320,0 0,320 -320,0 0,-320 z m -352,384 288,0 0,288 -288,0 0,-288 z m 736,-736 320,0 0,288 -320,0 0,-288 z m -384,736 320,0 0,288 -320,0 0,-288 z m 768,-736 288,0 0,288 -288,0 0,-288 z m -384,352 320,0 0,320 -320,0 0,-320 z m -352,864 0,288 q 0,13 -9.5,22.5 -9.5,9.5 -22.5,9.5 l -64,0 q -13,0 -22.5,-9.5 Q 384,1389 384,1376 l 0,-288 q 0,-13 9.5,-22.5 9.5,-9.5 22.5,-9.5 l 64,0 q 13,0 22.5,9.5 9.5,9.5 9.5,22.5 z m 736,-864 288,0 0,320 -288,0 0,-320 z m -384,384 320,0 0,288 -320,0 0,-288 z m 384,0 288,0 0,288 -288,0 0,-288 z m 32,480 0,288 q 0,13 -9.5,22.5 -9.5,9.5 -22.5,9.5 l -64,0 q -13,0 -22.5,-9.5 -9.5,-9.5 -9.5,-22.5 l 0,-288 q 0,-13 9.5,-22.5 9.5,-9.5 22.5,-9.5 l 64,0 q 13,0 22.5,9.5 9.5,9.5 9.5,22.5 z m 384,64 0,-1280 q 0,-52 -38,-90 -38,-38 -90,-38 l -1408,0 q -52,0 -90,38 -38,38 -38,90 l 0,1280 q 0,52 38,90 38,38 90,38 l 128,0 0,96 q 0,66 47,113 47,47 113,47 l 64,0 q 66,0 113,-47 47,-47 47,-113 l 0,-96 384,0 0,96 q 0,66 47,113 47,47 113,47 l 64,0 q 66,0 113,-47 47,-47 47,-113 l 0,-96 128,0 q 52,0 90,-38 38,-38 38,-90 z"
+         id="path8688"
+         inkscape:connector-curvature="0" />
     </symbol>
     <symbol
        id="calendar-o"
@@ -58,8 +59,9 @@
          id="title9516">calendar-o</title>
       <path
          transform="matrix(0.05,0,0,-0.05,0,76.8)"
-         d="M128 -128h1408v1024h-1408v-1024zM512 1088v288q0 14 -9 23t-23 9h-64q-14 0 -23 -9t-9 -23v-288q0 -14 9 -23t23 -9h64q14 0 23 9t9 23zM1280 1088v288q0 14 -9 23t-23 9h-64q-14 0 -23 -9t-9 -23v-288q0 -14 9 -23t23 -9h64q14 0 23 9t9 23zM1664 1152v-1280 q0 -52 -38 -90t-90 -38h-1408q-52 0 -90 38t-38 90v1280q0 52 38 90t90 38h128v96q0 66 47 113t113 47h64q66 0 113 -47t47 -113v-96h384v96q0 66 47 113t113 47h64q66 0 113 -47t47 -113v-96h128q52 0 90 -38t38 -90z"
-         id="path9518" />
+         d="m 128,-128 1408,0 0,1024 -1408,0 0,-1024 z m 384,1216 0,288 q 0,14 -9,23 -9,9 -23,9 l -64,0 q -14,0 -23,-9 -9,-9 -9,-23 l 0,-288 q 0,-14 9,-23 9,-9 23,-9 l 64,0 q 14,0 23,9 9,9 9,23 z m 768,0 0,288 q 0,14 -9,23 -9,9 -23,9 l -64,0 q -14,0 -23,-9 -9,-9 -9,-23 l 0,-288 q 0,-14 9,-23 9,-9 23,-9 l 64,0 q 14,0 23,9 9,9 9,23 z m 384,64 0,-1280 q 0,-52 -38,-90 -38,-38 -90,-38 l -1408,0 q -52,0 -90,38 -38,38 -38,90 l 0,1280 q 0,52 38,90 38,38 90,38 l 128,0 0,96 q 0,66 47,113 47,47 113,47 l 64,0 q 66,0 113,-47 47,-47 47,-113 l 0,-96 384,0 0,96 q 0,66 47,113 47,47 113,47 l 64,0 q 66,0 113,-47 47,-47 47,-113 l 0,-96 128,0 q 52,0 90,-38 38,-38 38,-90 z"
+         id="path9518"
+         inkscape:connector-curvature="0" />
     </symbol>
     <symbol
        id="sort-asc"
@@ -68,8 +70,9 @@
          id="title9131">Sort Ascending</title>
       <path
          transform="matrix(0.05,0,0,-0.05,0,76.8)"
-         d="M1024 832q0 -26 -19 -45t-45 -19h-896q-26 0 -45 19t-19 45t19 45l448 448q19 19 45 19t45 -19l448 -448q19 -19 19 -45z"
-         id="path9133" />
+         d="m 1024,832 q 0,-26 -19,-45 -19,-19 -45,-19 l -896,0 q -26,0 -45,19 -19,19 -19,45 0,26 19,45 l 448,448 q 19,19 45,19 26,0 45,-19 l 448,-448 q 19,-19 19,-45 z"
+         id="path9133"
+         inkscape:connector-curvature="0" />
     </symbol>
     <symbol
        id="pencil-square-o"
@@ -78,8 +81,9 @@
          id="title8753">Pencil Square Outlined</title>
       <path
          transform="matrix(0.05,0,0,-0.05,0,76.8)"
-         d="M888 352l116 116l-152 152l-116 -116v-56h96v-96h56zM1328 1072q-16 16 -33 -1l-350 -350q-17 -17 -1 -33t33 1l350 350q17 17 1 33zM1408 478v-190q0 -119 -84.5 -203.5t-203.5 -84.5h-832q-119 0 -203.5 84.5t-84.5 203.5v832q0 119 84.5 203.5t203.5 84.5h832 q63 0 117 -25q15 -7 18 -23q3 -17 -9 -29l-49 -49q-14 -14 -32 -8q-23 6 -45 6h-832q-66 0 -113 -47t-47 -113v-832q0 -66 47 -113t113 -47h832q66 0 113 47t47 113v126q0 13 9 22l64 64q15 15 35 7t20 -29zM1312 1216l288 -288l-672 -672h-288v288zM1756 1084l-92 -92 l-288 288l92 92q28 28 68 28t68 -28l152 -152q28 -28 28 -68t-28 -68z"
-         id="path8755" />
+         d="m 888,352 116,116 -152,152 -116,-116 0,-56 96,0 0,-96 56,0 z m 440,720 q -16,16 -33,-1 L 945,721 q -17,-17 -1,-33 16,-16 33,1 l 350,350 q 17,17 1,33 z m 80,-594 0,-190 Q 1408,169 1323.5,84.5 1239,0 1120,0 L 288,0 Q 169,0 84.5,84.5 0,169 0,288 l 0,832 Q 0,1239 84.5,1323.5 169,1408 288,1408 l 832,0 q 63,0 117,-25 15,-7 18,-23 3,-17 -9,-29 l -49,-49 q -14,-14 -32,-8 -23,6 -45,6 l -832,0 q -66,0 -113,-47 -47,-47 -47,-113 l 0,-832 q 0,-66 47,-113 47,-47 113,-47 l 832,0 q 66,0 113,47 47,47 47,113 l 0,126 q 0,13 9,22 l 64,64 q 15,15 35,7 20,-8 20,-29 z m -96,738 288,-288 -672,-672 -288,0 0,288 z m 444,-132 -92,-92 -288,288 92,92 q 28,28 68,28 40,0 68,-28 l 152,-152 q 28,-28 28,-68 0,-40 -28,-68 z"
+         id="path8755"
+         inkscape:connector-curvature="0" />
     </symbol>
     <symbol
        id="eye"
@@ -88,8 +92,9 @@
          id="title8953">Eye</title>
       <path
          transform="matrix(0.05,0,0,-0.05,0,76.8)"
-         d="M1664 576q-152 236 -381 353q61 -104 61 -225q0 -185 -131.5 -316.5t-316.5 -131.5t-316.5 131.5t-131.5 316.5q0 121 61 225q-229 -117 -381 -353q133 -205 333.5 -326.5t434.5 -121.5t434.5 121.5t333.5 326.5zM944 960q0 20 -14 34t-34 14q-125 0 -214.5 -89.5 t-89.5 -214.5q0 -20 14 -34t34 -14t34 14t14 34q0 86 61 147t147 61q20 0 34 14t14 34zM1792 576q0 -34 -20 -69q-140 -230 -376.5 -368.5t-499.5 -138.5t-499.5 139t-376.5 368q-20 35 -20 69t20 69q140 229 376.5 368t499.5 139t499.5 -139t376.5 -368q20 -35 20 -69z"
-         id="path8955" />
+         d="m 1664,576 q -152,236 -381,353 61,-104 61,-225 0,-185 -131.5,-316.5 Q 1081,256 896,256 711,256 579.5,387.5 448,519 448,704 448,825 509,929 280,812 128,576 261,371 461.5,249.5 662,128 896,128 1130,128 1330.5,249.5 1531,371 1664,576 Z M 944,960 q 0,20 -14,34 -14,14 -34,14 -125,0 -214.5,-89.5 Q 592,829 592,704 q 0,-20 14,-34 14,-14 34,-14 20,0 34,14 14,14 14,34 0,86 61,147 61,61 147,61 20,0 34,14 14,14 14,34 z m 848,-384 q 0,-34 -20,-69 Q 1632,277 1395.5,138.5 1159,0 896,0 633,0 396.5,139 160,278 20,507 0,542 0,576 q 0,34 20,69 140,229 376.5,368 236.5,139 499.5,139 263,0 499.5,-139 236.5,-139 376.5,-368 20,-35 20,-69 z"
+         id="path8955"
+         inkscape:connector-curvature="0" />
     </symbol>
     <clipPath
        clipPathUnits="userSpaceOnUse"
@@ -109,8 +114,9 @@
          id="title9603">Clock Outlined</title>
       <path
          transform="matrix(0.05,0,0,-0.05,0,76.8)"
-         d="M896 992v-448q0 -14 -9 -23t-23 -9h-320q-14 0 -23 9t-9 23v64q0 14 9 23t23 9h224v352q0 14 9 23t23 9h64q14 0 23 -9t9 -23zM1312 640q0 148 -73 273t-198 198t-273 73t-273 -73t-198 -198t-73 -273t73 -273t198 -198t273 -73t273 73t198 198t73 273zM1536 640 q0 -209 -103 -385.5t-279.5 -279.5t-385.5 -103t-385.5 103t-279.5 279.5t-103 385.5t103 385.5t279.5 279.5t385.5 103t385.5 -103t279.5 -279.5t103 -385.5z"
-         id="path9605" />
+         d="m 896,992 0,-448 q 0,-14 -9,-23 -9,-9 -23,-9 l -320,0 q -14,0 -23,9 -9,9 -9,23 l 0,64 q 0,14 9,23 9,9 23,9 l 224,0 0,352 q 0,14 9,23 9,9 23,9 l 64,0 q 14,0 23,-9 9,-9 9,-23 z m 416,-352 q 0,148 -73,273 -73,125 -198,198 -125,73 -273,73 -148,0 -273,-73 Q 370,1038 297,913 224,788 224,640 224,492 297,367 370,242 495,169 620,96 768,96 q 148,0 273,73 125,73 198,198 73,125 73,273 z m 224,0 Q 1536,431 1433,254.5 1330,78 1153.5,-25 977,-128 768,-128 559,-128 382.5,-25 206,78 103,254.5 0,431 0,640 0,849 103,1025.5 206,1202 382.5,1305 559,1408 768,1408 977,1408 1153.5,1305 1330,1202 1433,1025.5 1536,849 1536,640 Z"
+         id="path9605"
+         inkscape:connector-curvature="0" />
     </symbol>
     <filter
        style="color-interpolation-filters:sRGB"
@@ -130,8 +136,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="859.20179"
-     inkscape:cy="359.40642"
+     inkscape:cx="751.04131"
+     inkscape:cy="526.82701"
      inkscape:document-units="px"
      inkscape:current-layer="g13168"
      showgrid="false"
@@ -211,7 +217,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -219,7 +225,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-162.99201)">
+     transform="translate(0,10.630058)">
     <g
        id="g12664"
        transform="translate(359.7979,-96.27342)" />
@@ -232,7 +238,7 @@
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
-         y="202.95773"
+         y="102.95773"
          x="493.12387"
          height="690.323"
          width="357.98111"
@@ -247,7 +253,7 @@
          width="357.98111"
          height="32.347691"
          x="493.12387"
-         y="202.95773" />
+         y="102.95773" />
       <text
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -255,13 +261,13 @@
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.97028637px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="501.00522"
-         y="224.61008"
+         y="124.61007"
          id="text31168"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan31170"
            x="501.00522"
-           y="224.61008"
+           y="124.61007"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.96038246px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">My Upcoming Meetings</tspan></text>
       <rect
          inkscape:export-ydpi="90"
@@ -272,10 +278,10 @@
          width="338.57254"
          height="95.625107"
          x="502.82846"
-         y="390.08853" />
+         y="290.08853" />
       <g
          id="g12675"
-         transform="matrix(0,-0.78042397,0.796573,0,805.06194,1003.6977)"
+         transform="matrix(0,-0.78042397,0.796573,0,805.06194,903.6977)"
          style="display:inline;fill:none;fill-opacity:0;stroke:#8c8c8c"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
          inkscape:export-xdpi="90"
@@ -302,7 +308,7 @@
          xml:space="preserve"
          id="flowRoot12683"
          style="font-style:normal;font-weight:normal;font-size:37.29530334px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="translate(-844.18561,112.41598)"
+         transform="translate(-844.18561,12.415955)"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"><flowRegion
            id="flowRegion12685"><rect
              id="rect12687"
@@ -315,7 +321,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.73395634px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c">View more</flowPara></flowRoot>      <text
          sodipodi:linespacing="125%"
          id="text11251"
-         y="263.54605"
+         y="163.54605"
          x="507.21445"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.45193577px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"
@@ -323,7 +329,7 @@
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.45193577px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;stroke-width:0.26458332"
-           y="263.54605"
+           y="163.54605"
            x="507.21445"
            id="tspan11253"
            sodipodi:role="line">TODAY</tspan></text>
@@ -343,7 +349,7 @@
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
-         transform="translate(420.51899,-76.807378)"
+         transform="translate(420.51899,-176.80739)"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot84421"
          xml:space="preserve"><flowRegion
@@ -356,7 +362,7 @@
              id="rect84425" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75000191px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#60605b;fill-opacity:1"
            id="flowPara84427">Design Team Meeting</flowPara></flowRoot>      <g
-         transform="matrix(0.18973216,0,0,0.18973216,823.71832,210.77538)"
+         transform="matrix(0.18973216,0,0,0.18973216,823.71832,110.77538)"
          style="fill:#ffffff;fill-opacity:1"
          id="g35642"
          inkscape:export-xdpi="90"
@@ -378,7 +384,7 @@
          xml:space="preserve"
          id="flowRoot84445"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="matrix(1.3009915,0,0,1.3009915,392.84829,-189.12623)"><flowRegion
+         transform="matrix(1.3009915,0,0,1.3009915,392.84829,-289.12623)"><flowRegion
            id="flowRegion84447"><rect
              id="rect84449"
              width="328"
@@ -390,7 +396,7 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.00000191px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#60605b;fill-opacity:1">10:00 AM <flowSpan
    style="font-weight:normal;font-size:9.60805798px"
    id="flowSpan84993">ET</flowSpan></flowPara></flowRoot>      <flowRoot
-         transform="translate(647.14214,-73.481778)"
+         transform="translate(647.14214,-173.48179)"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot84453"
          xml:space="preserve"
@@ -409,20 +415,20 @@
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         transform="translate(444.37399,-19.519048)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#e59728;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         transform="translate(444.37399,-119.51907)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#e59728;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot84801"
          xml:space="preserve"><flowRegion
            id="flowRegion84803"><rect
-             style="text-align:end;text-anchor:end;fill:#e59728;"
+             style="text-align:end;text-anchor:end;fill:#e59728"
              y="477.36221"
              x="90"
              height="22.999969"
              width="149"
              id="rect84805" /></flowRegion><flowPara
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75000191px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';text-align:start;text-anchor:start;fill:#e59728;"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75000191px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';text-align:start;text-anchor:start;fill:#e59728"
            id="flowPara84807">Starts in 2 hours</flowPara></flowRoot>      <rect
-         y="530.08856"
+         y="430.08856"
          x="502.82846"
          height="88.427094"
          width="338.57254"
@@ -435,7 +441,7 @@
          xml:space="preserve"
          id="flowRoot84811"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="translate(420.51899,63.192622)"
+         transform="translate(420.51899,-36.807403)"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"><flowRegion
@@ -456,7 +462,7 @@
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
-         transform="translate(1570.9663,514.32648)"><flowRegion
+         transform="translate(1570.9663,414.32648)"><flowRegion
            id="flowRegion84821"><rect
              style="fill:#60605b;fill-opacity:1"
              y="71.591484"
@@ -474,7 +480,7 @@
          xml:space="preserve"
          id="flowRoot84827"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="translate(415.14209,66.518222)"><flowRegion
+         transform="translate(415.14209,-33.481803)"><flowRegion
            id="flowRegion84829"><rect
              id="rect84831"
              width="328"
@@ -490,16 +496,16 @@
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.45193577px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="507.21445"
-         y="517.54608"
+         y="417.54608"
          id="text84843"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan84845"
            x="507.21445"
-           y="517.54608"
+           y="417.54608"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.45193577px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;stroke-width:0.26458332">TOMORROW</tspan></text>
       <rect
-         y="278.08853"
+         y="178.08853"
          x="502.82846"
          height="105.52238"
          width="338.57254"
@@ -512,7 +518,7 @@
          xml:space="preserve"
          id="flowRoot84849"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="translate(420.51899,-188.80738)"
+         transform="translate(420.51899,-288.80738)"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"><flowRegion
@@ -533,7 +539,7 @@
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
-         transform="translate(1570.9663,200.32647)"><flowRegion
+         transform="translate(1570.9663,100.32647)"><flowRegion
            id="flowRegion84859"><rect
              style="fill:#60605b;fill-opacity:1"
              y="131.59148"
@@ -551,7 +557,7 @@
          xml:space="preserve"
          id="flowRoot84865"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="translate(415.14209,-185.48178)"><flowRegion
+         transform="translate(415.14209,-285.48178)"><flowRegion
            id="flowRegion84867"><rect
              id="rect84869"
              width="328"
@@ -564,7 +570,7 @@
          xml:space="preserve"
          id="flowRoot84873"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#db3279;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="translate(442.37399,-119.51905)"
+         transform="translate(442.37399,-219.51905)"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"><flowRegion
@@ -585,12 +591,12 @@
          width="338.57254"
          height="88.427094"
          x="502.82846"
-         y="664.08856" />
+         y="564.08856" />
       <flowRoot
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
-         transform="translate(420.51899,197.19263)"
+         transform="translate(420.51899,97.192625)"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot84927"
          xml:space="preserve"><flowRegion
@@ -607,7 +613,7 @@
            id="flowPara84989">Editorial Board</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75000191px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#60605b;fill-opacity:1"
            id="flowPara84987" /></flowRoot>      <flowRoot
-         transform="translate(1570.9663,648.32648)"
+         transform="translate(1570.9663,548.32648)"
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
@@ -625,7 +631,7 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.51487541px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#60605b;fill-opacity:1">2:00 PM <flowSpan
    style="font-weight:normal;font-size:12.50000191px"
    id="flowSpan84997">ET</flowSpan></flowPara></flowRoot>      <flowRoot
-         transform="translate(415.14209,200.51823)"
+         transform="translate(415.14209,100.51823)"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot84945"
          xml:space="preserve"
@@ -643,7 +649,7 @@
            id="flowPara84951">#fedora-meeting-1</flowPara></flowRoot>      <text
          sodipodi:linespacing="125%"
          id="text84953"
-         y="651.54608"
+         y="551.54608"
          x="507.21445"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.45193577px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"
@@ -651,12 +657,12 @@
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.45193577px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;stroke-width:0.26458332"
-           y="651.54608"
+           y="551.54608"
            x="507.21445"
            id="tspan84955"
            sodipodi:role="line">FRIDAY</tspan></text>
       <rect
-         y="760.08856"
+         y="660.08856"
          x="502.82846"
          height="74.930817"
          width="338.57254"
@@ -669,7 +675,7 @@
          xml:space="preserve"
          id="flowRoot84959"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="translate(420.51899,293.19264)"
+         transform="translate(420.51899,193.19264)"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"><flowRegion
@@ -688,7 +694,7 @@
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
-         transform="translate(1570.9663,724.32648)"><flowRegion
+         transform="translate(1570.9663,624.32648)"><flowRegion
            id="flowRegion84971"><rect
              style="fill:#60605b;fill-opacity:1"
              y="71.591484"
@@ -706,7 +712,7 @@
          xml:space="preserve"
          id="flowRoot84977"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="translate(415.14209,296.51824)"><flowRegion
+         transform="translate(415.14209,196.51824)"><flowRegion
            id="flowRegion84979"><rect
              id="rect84981"
              width="328"
@@ -718,7 +724,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000191px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#a7a9ac;fill-opacity:1">#fedora-meeting</flowPara></flowRoot>      <use
          id="use86589"
          xlink:href="#clock-o"
-         transform="matrix(0.20572907,0,0,0.20572907,512.87674,457.9462)"
+         transform="matrix(0.20572907,0,0,0.20572907,512.87674,357.9462)"
          x="0"
          y="0"
          width="100%"
@@ -730,12 +736,12 @@
          width="100%"
          y="0"
          x="0"
-         transform="matrix(0.20572907,0,0,0.20572907,512.87674,357.9462)"
+         transform="matrix(0.20572907,0,0,0.20572907,512.87674,257.9462)"
          xlink:href="#clock-o"
          id="use86603" />
       <rect
-         y="187.11952"
-         x="943.34814"
+         y="101.1195"
+         x="983.34814"
          height="830.08673"
          width="861.85748"
          id="rect182520"
@@ -751,11 +757,11 @@
          id="rect87490"
          width="664.0885"
          height="779.05792"
-         x="1057.2275"
-         y="235.40382" />
+         x="1097.2275"
+         y="149.40382" />
       <rect
-         y="284.64993"
-         x="1126.4967"
+         y="198.64993"
+         x="1166.4967"
          height="127.44492"
          width="528.3092"
          id="rect87498"
@@ -771,34 +777,34 @@
          id="rect852007"
          width="664.75568"
          height="191.32751"
-         x="1056.6576"
-         y="234.95987" />
+         x="1096.6576"
+         y="148.95987" />
       <text
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-all_requests-modal.png"
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.97028637px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="1064.9189"
-         y="260.50394"
+         x="1104.9189"
+         y="174.50394"
          id="text852013"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan852015"
-           x="1064.9189"
-           y="260.50394"
+           x="1104.9189"
+           y="174.50394"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.96038246px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">My Upcoming Meetings</tspan></text>
       <path
          inkscape:connector-curvature="0"
          id="path852173"
-         d="m 1733.8354,269.51224 25,-25"
+         d="m 1773.8354,183.51224 25,-25"
          style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-all_requests-modal.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
          style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 1758.8354,269.51224 -25,-25"
+         d="m 1798.8354,183.51224 -25,-25"
          id="path852175"
          inkscape:connector-curvature="0"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-all_requests-modal.png"
@@ -807,27 +813,27 @@
       <text
          sodipodi:linespacing="125%"
          id="text852209"
-         y="450.80167"
-         x="1569.0295"
+         y="364.80167"
+         x="1609.0295"
          style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-all_requests-modal.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c"
-           y="450.80167"
-           x="1569.0295"
+           y="364.80167"
+           x="1609.0295"
            sodipodi:role="line"
            id="tspan852211">#fedora-diversity</tspan></text>
       <path
          style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#db3279;stroke-width:1.00000012;stroke-miterlimit:4;stroke-dasharray:none"
-         d="m 1721.1124,577.23357 -663.5726,0 m 0,-150.10399 663.5726,0"
+         d="m 1761.1124,491.23357 -663.5726,0 m 0,-150.10399 663.5726,0"
          id="rect852181"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccc" />
       <g
          id="g87000"
-         transform="translate(-10.000001,-84.000008)">
+         transform="translate(30.000003,-170.00002)">
         <g
            style="display:inline"
            id="g852217"
@@ -880,306 +886,9 @@
           </g>
         </g>
       </g>
-      <image
-         y="-113.5037"
-         x="1039.1626"
-         id="image86975"
-         xlink:href="data:image/png;base64,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
-/n8VxHfKlpzdBAAAAABJRU5ErkJggg==
-"
-         style="image-rendering:optimizeQuality"
-         preserveAspectRatio="none"
-         height="202.00003"
-         width="314.00003" />
       <g
          id="g87009"
-         transform="translate(-866.0001,7.0000008)">
+         transform="translate(-866.0001,-93.000024)">
         <g
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
@@ -1233,7 +942,7 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
         </g>
       </g>
       <g
-         transform="translate(-866.0001,139.00001)"
+         transform="translate(-866.0001,38.99999)"
          id="g87025">
         <g
            style="display:inline"
@@ -1289,7 +998,7 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
       </g>
       <g
          id="g87041"
-         transform="translate(-866.0001,223.00001)">
+         transform="translate(-866.0001,123.00001)">
         <g
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
@@ -1343,7 +1052,7 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
         </g>
       </g>
       <g
-         transform="translate(-866.0001,-127.00001)"
+         transform="translate(-866.0001,-227.00001)"
          id="g87057">
         <g
            style="display:inline"
@@ -1399,7 +1108,7 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
       </g>
       <g
          id="g87073"
-         transform="translate(-866.0001,-229.00001)">
+         transform="translate(-866.0001,-329.00001)">
         <g
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
@@ -1454,7 +1163,7 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
       </g>
       <g
          id="g87089"
-         transform="translate(-78.897807,-236.91777)">
+         transform="translate(-38.897803,-322.91777)">
         <g
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
@@ -1508,7 +1217,7 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
         </g>
       </g>
       <g
-         transform="matrix(-1,0,0,1,2856.3365,-236.91777)"
+         transform="matrix(-1,0,0,1,2896.3365,-322.91777)"
          id="g87105"
          style="fill:#3c6eb4;fill-opacity:1"
          inkscape:transform-center-x="-7.7781756"
@@ -1568,16 +1277,16 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
       <text
          sodipodi:linespacing="125%"
          id="text87121"
-         y="308.50394"
-         x="1318.5853"
+         y="222.50394"
+         x="1358.5853"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.97028637px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-all_requests-modal.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.96038246px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
-           y="308.50394"
-           x="1318.5853"
+           y="222.50394"
+           x="1358.5853"
            id="tspan87123"
            sodipodi:role="line">Week of May 30th</tspan></text>
       <rect
@@ -1585,15 +1294,15 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
          id="rect87125"
          width="50"
          height="69"
-         x="1209.7769"
-         y="324.16284"
+         x="1249.7769"
+         y="238.16284"
          rx="0"
          ry="0" />
       <rect
          ry="0"
          rx="0"
-         y="324.16284"
-         x="1209.7769"
+         y="238.16284"
+         x="1249.7769"
          height="18.999994"
          width="50"
          id="rect87127"
@@ -1604,35 +1313,35 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-all_requests-modal.png"
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.79844093px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#e7e8e9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="1234.7201"
-         y="378.99298"
+         x="1274.7201"
+         y="292.99298"
          id="text87129"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan87131"
-           x="1234.7201"
-           y="378.99298"
+           x="1274.7201"
+           y="292.99298"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.06458855px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#e7e8e9;fill-opacity:1;stroke-width:0.26458332">29</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text87181"
-         y="338.99298"
-         x="1222.1442"
+         y="252.99298"
+         x="1262.1442"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.79844093px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#d4d6d7;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-all_requests-modal.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.50000191px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#d4d6d7;fill-opacity:1;stroke-width:0.26458332"
-           y="338.99298"
-           x="1222.1442"
+           y="252.99298"
+           x="1262.1442"
            id="tspan87183"
            sodipodi:role="line">Sun</tspan></text>
       <rect
          ry="0"
          rx="0"
-         y="324.16284"
-         x="1259.7769"
+         y="238.16284"
+         x="1299.7769"
          height="69"
          width="50"
          id="rect87185"
@@ -1642,23 +1351,23 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
          id="rect87187"
          width="50"
          height="18.999994"
-         x="1259.7769"
-         y="324.16284"
+         x="1299.7769"
+         y="238.16284"
          rx="0"
          ry="0" />
       <text
          sodipodi:linespacing="125%"
          id="text87189"
-         y="378.99298"
-         x="1284.7343"
+         y="292.99298"
+         x="1324.7343"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.79844093px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#e7e8e9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-all_requests-modal.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.06458855px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#e7e8e9;fill-opacity:1;stroke-width:0.26458332"
-           y="378.99298"
-           x="1284.7343"
+           y="292.99298"
+           x="1324.7343"
            id="tspan87191"
            sodipodi:role="line">30</tspan></text>
       <text
@@ -1667,94 +1376,94 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-all_requests-modal.png"
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.79844093px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#d4d6d7;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="1272.1442"
-         y="338.99298"
+         x="1312.1442"
+         y="252.99298"
          id="text87193"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan87195"
-           x="1272.1442"
-           y="338.99298"
+           x="1312.1442"
+           y="252.99298"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.50000191px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#d4d6d7;fill-opacity:1;stroke-width:0.26458332">Mon</tspan></text>
       <rect
-         style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:#818385;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#f7f3ba;fill-opacity:1;stroke:#818385;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect87197"
          width="50"
          height="69"
-         x="1309.7769"
-         y="324.16284"
+         x="1349.7769"
+         y="238.16284"
          rx="0"
          ry="0" />
       <rect
          ry="0"
          rx="0"
-         y="324.16284"
-         x="1309.7769"
+         y="238.16284"
+         x="1349.7769"
          height="18.999994"
          width="50"
          id="rect87199"
-         style="opacity:1;fill:#294172;fill-opacity:1;stroke:#818385;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:#58595b;fill-opacity:1;stroke:#818385;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-all_requests-modal.png"
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.79844093px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="1336.5083"
-         y="378.99298"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.79844093px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="1376.5083"
+         y="292.99298"
          id="text87201"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan87203"
-           x="1336.5083"
-           y="378.99298"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.06458855px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">31</tspan></text>
+           x="1376.5083"
+           y="292.99298"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.06458855px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#60605b;fill-opacity:1;stroke-width:0.26458332">31</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text87205"
-         y="338.99298"
-         x="1322.1442"
+         y="252.99298"
+         x="1362.1442"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.79844093px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-all_requests-modal.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.50000191px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
-           y="338.99298"
-           x="1322.1442"
+           y="252.99298"
+           x="1362.1442"
            id="tspan87207"
            sodipodi:role="line">Tue</tspan></text>
       <rect
          ry="0"
          rx="0"
-         y="324.16284"
-         x="1359.7769"
+         y="238.16284"
+         x="1399.7769"
          height="69"
          width="50"
          id="rect87209"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#818385;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
-         style="opacity:1;fill:#d1d3d4;fill-opacity:1;stroke:#818385;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#c0c3c4;fill-opacity:1;stroke:#818385;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect87211"
          width="50"
          height="18.999994"
-         x="1359.7769"
-         y="324.16284"
+         x="1399.7769"
+         y="238.16284"
          rx="0"
          ry="0" />
       <text
          sodipodi:linespacing="125%"
          id="text87213"
-         y="378.99298"
-         x="1386.2031"
+         y="292.99298"
+         x="1426.2031"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.79844093px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-all_requests-modal.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.06458855px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#58595b;fill-opacity:1;stroke-width:0.26458332"
-           y="378.99298"
-           x="1386.2031"
+           y="292.99298"
+           x="1426.2031"
            id="tspan87215"
            sodipodi:role="line">1</tspan></text>
       <text
@@ -1763,94 +1472,94 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-all_requests-modal.png"
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.79844093px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="1371.5658"
-         y="338.99298"
+         x="1411.5658"
+         y="252.99298"
          id="text87217"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan87219"
-           x="1371.5658"
-           y="338.99298"
+           x="1411.5658"
+           y="252.99298"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.50000191px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">Wed</tspan></text>
       <rect
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#818385;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect87221"
          width="50"
          height="69"
-         x="1409.7769"
-         y="324.16284"
+         x="1449.7769"
+         y="238.16284"
          rx="0"
          ry="0" />
       <rect
          ry="0"
          rx="0"
-         y="324.16284"
-         x="1409.7769"
+         y="238.16284"
+         x="1449.7769"
          height="18.999994"
          width="50"
          id="rect87223"
-         style="opacity:1;fill:#d1d3d4;fill-opacity:1;stroke:#818385;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:#c0c3c4;fill-opacity:1;stroke:#818385;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-all_requests-modal.png"
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.79844093px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="1434.6775"
-         y="378.99298"
+         x="1474.6775"
+         y="292.99298"
          id="text87225"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan87227"
-           x="1434.6775"
-           y="378.99298"
+           x="1474.6775"
+           y="292.99298"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.06458855px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#58595b;fill-opacity:1;stroke-width:0.26458332">2</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text87229"
-         y="338.99298"
-         x="1423.2931"
+         y="252.99298"
+         x="1463.2931"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.79844093px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-all_requests-modal.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.50000191px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
-           y="338.99298"
-           x="1423.2931"
+           y="252.99298"
+           x="1463.2931"
            id="tspan87231"
            sodipodi:role="line">Thu</tspan></text>
       <rect
          ry="0"
          rx="0"
-         y="324.16284"
-         x="1459.7769"
+         y="238.16284"
+         x="1499.7769"
          height="69"
          width="50"
          id="rect87233"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#818385;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
-         style="opacity:1;fill:#d1d3d4;fill-opacity:1;stroke:#818385;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#c0c3c4;fill-opacity:1;stroke:#818385;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect87235"
          width="50"
          height="18.999994"
-         x="1459.7769"
-         y="324.16284"
+         x="1499.7769"
+         y="238.16284"
          rx="0"
          ry="0" />
       <text
          sodipodi:linespacing="125%"
          id="text87237"
-         y="378.99298"
-         x="1484.7769"
+         y="292.99298"
+         x="1524.7769"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.79844093px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-all_requests-modal.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.06458855px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#58595b;fill-opacity:1;stroke-width:0.26458332"
-           y="378.99298"
-           x="1484.7769"
+           y="292.99298"
+           x="1524.7769"
            id="tspan87239"
            sodipodi:role="line">3</tspan></text>
       <text
@@ -1859,80 +1568,80 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-all_requests-modal.png"
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.79844093px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="1476.4791"
-         y="338.99298"
+         x="1516.4791"
+         y="252.99298"
          id="text87241"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan87243"
-           x="1476.4791"
-           y="338.99298"
+           x="1516.4791"
+           y="252.99298"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.50000191px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">Fri</tspan></text>
       <rect
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#818385;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect87245"
          width="50"
          height="69"
-         x="1509.7769"
-         y="324.16284"
+         x="1549.7769"
+         y="238.16284"
          rx="0"
          ry="0" />
       <rect
          ry="0"
          rx="0"
-         y="324.16284"
-         x="1509.7769"
+         y="238.16284"
+         x="1549.7769"
          height="18.999994"
          width="50"
          id="rect87247"
-         style="opacity:1;fill:#d1d3d4;fill-opacity:1;stroke:#818385;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:#c0c3c4;fill-opacity:1;stroke:#818385;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-all_requests-modal.png"
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.79844093px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="1534.7484"
-         y="378.99298"
+         x="1574.7484"
+         y="292.99298"
          id="text87249"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan87251"
-           x="1534.7484"
-           y="378.99298"
+           x="1574.7484"
+           y="292.99298"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.06458855px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#58595b;fill-opacity:1;stroke-width:0.26458332">4</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text87253"
-         y="338.99298"
-         x="1524.764"
+         y="252.99298"
+         x="1564.764"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.79844093px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-all_requests-modal.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.50000191px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
-           y="338.99298"
-           x="1524.764"
+           y="252.99298"
+           x="1564.764"
            id="tspan87255"
            sodipodi:role="line">Sat</tspan></text>
       <circle
          style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path87421"
-         cx="1401.7767"
-         cy="343.16284"
+         cx="1441.7767"
+         cy="257.16284"
          r="5.5" />
       <circle
          r="5.5"
-         cy="345.16284"
-         cx="1501.7767"
+         cy="259.16284"
+         cx="1541.7767"
          id="circle87423"
          style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <flowRoot
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
-         transform="translate(979.51906,-36.807361)"
+         transform="translate(1019.5191,-122.80738)"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot87425"
          xml:space="preserve"><flowRegion
@@ -1945,7 +1654,7 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
              id="rect87429" /></flowRegion><flowPara
            id="flowPara87433"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75000191px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#60605b;fill-opacity:1">Fedora Diversity Team Meeting</flowPara></flowRoot>      <flowRoot
-         transform="matrix(1.0554286,0,0,1.0554286,2189.6805,335.75459)"
+         transform="matrix(1.0554286,0,0,1.0554286,2229.6805,249.75459)"
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
@@ -1962,10 +1671,10 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
            id="flowPara87443"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.51487541px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#60605b;fill-opacity:1">May 31</flowPara></flowRoot>      <circle
          r="5.5"
-         cy="343.16284"
-         cx="1349.7767"
+         cy="257.16284"
+         cx="1389.7767"
          id="circle87447"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <flowRoot
          style="font-style:normal;font-weight:normal;font-size:54.92414856px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot87449"
@@ -1973,7 +1682,7 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
-         transform="matrix(1.2574893,0,0,1.2574893,-195.75944,-200.41791)"><flowRegion
+         transform="matrix(1.2574893,0,0,1.2574893,-155.75944,-286.41791)"><flowRegion
            id="flowRegion87451"><rect
              style="fill:#60605b;fill-opacity:1"
              y="540.64001"
@@ -1988,7 +1697,7 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         transform="translate(1002.4026,28.228227)"
+         transform="translate(1042.4026,-57.771796)"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#db3279;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot87459"
          xml:space="preserve"><flowRegion
@@ -2003,7 +1712,7 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
            id="flowPara87465">Happening now!</flowPara></flowRoot>      <use
          id="use87467"
          xlink:href="#clock-o"
-         transform="matrix(0.20572907,0,0,0.20572907,1072.9054,505.69348)"
+         transform="matrix(0.20572907,0,0,0.20572907,1112.9054,419.69348)"
          x="0"
          y="0"
          width="100%"
@@ -2013,7 +1722,7 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
          xml:space="preserve"
          id="flowRoot87500"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="translate(1185.9943,-0.03780399)"
+         transform="translate(1225.9943,-86.037827)"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"><flowRegion
@@ -2031,8 +1740,8 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
-         transform="translate(1185.9943,59.962202)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         transform="translate(1225.9943,-26.037821)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot87510"
          xml:space="preserve"><flowRegion
            id="flowRegion87512"><rect
@@ -2043,29 +1752,29 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
              width="149.09691"
              id="rect87514" /></flowRegion><flowPara
            id="flowPara87518"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75000191px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#3c6eb4;fill-opacity:1;">Last meeting's minutes</flowPara></flowRoot>      <text
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75000191px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#3c6eb4;fill-opacity:1">Last meeting's minutes</flowPara></flowRoot>      <text
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-all_requests-modal.png"
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="1583.1067"
-         y="600.8017"
+         x="1623.1067"
+         y="514.8017"
          id="text87522"
          sodipodi:linespacing="125%"><tspan
            id="tspan87524"
            sodipodi:role="line"
-           x="1583.1067"
-           y="600.8017"
+           x="1623.1067"
+           y="514.8017"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c">#fedora-design</tspan></text>
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path87526"
-         d="m 1721.1124,695.23357 -663.5726,0"
+         d="m 1761.1124,609.23357 -663.5726,0"
          style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#e7e8e9;stroke-width:1.00000012;stroke-miterlimit:4;stroke-dasharray:none" />
       <g
-         transform="translate(-10.000001,66.000009)"
+         transform="translate(30.000003,-20.000014)"
          id="g87528">
         <g
            inkscape:export-ydpi="90"
@@ -2123,7 +1832,7 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
          xml:space="preserve"
          id="flowRoot87544"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="translate(979.51906,113.19265)"
+         transform="translate(1019.5191,27.19263)"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"><flowRegion
@@ -2142,7 +1851,7 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
-         transform="translate(0,130.00001)"><flowRegion
+         transform="translate(40.000004,43.999995)"><flowRegion
            id="flowRegion87554"><rect
              style="fill:#60605b;fill-opacity:1"
              y="494.64001"
@@ -2158,7 +1867,7 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
          xml:space="preserve"
          id="flowRoot87560"
          style="font-style:normal;font-weight:normal;font-size:69.06652832px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="translate(0,130.00001)"><flowRegion
+         transform="translate(40.000004,43.999995)"><flowRegion
            id="flowRegion87562"><rect
              id="rect87564"
              width="566.34552"
@@ -2172,8 +1881,8 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
    style="font-size:12.57489395px"> ET </flowSpan></flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot87570"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#e59728;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-         transform="translate(1002.4026,178.22824)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#e59728;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(1042.4026,92.228235)"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"><flowRegion
@@ -2183,22 +1892,22 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
              height="22.999969"
              x="90"
              y="477.36221"
-             style="text-align:end;text-anchor:end;fill:#e59728;" /></flowRegion><flowPara
+             style="text-align:end;text-anchor:end;fill:#e59728" /></flowRegion><flowPara
            id="flowPara87576"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75000191px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';text-align:start;text-anchor:start;fill:#e59728;">Starts in 2 hours</flowPara></flowRoot>      <use
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75000191px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';text-align:start;text-anchor:start;fill:#e59728">Starts in 2 hours</flowPara></flowRoot>      <use
          style="fill:#e59728"
          height="100%"
          width="100%"
          y="0"
          x="0"
-         transform="matrix(0.20572907,0,0,0.20572907,1072.9054,655.69348)"
+         transform="matrix(0.20572907,0,0,0.20572907,1112.9054,569.69348)"
          xlink:href="#clock-o"
          id="use87578" />
       <flowRoot
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
-         transform="translate(1185.9943,149.96221)"
+         transform="translate(1225.9943,63.9622)"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot87580"
          xml:space="preserve"><flowRegion
@@ -2214,7 +1923,7 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
          xml:space="preserve"
          id="flowRoot87590"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="translate(1185.9943,173.96221)"
+         transform="translate(1225.9943,87.962205)"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"><flowRegion
@@ -2229,27 +1938,27 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
            id="flowPara87596">Last meeting's minutes</flowPara></flowRoot>      <text
          sodipodi:linespacing="125%"
          id="text87600"
-         y="720.8017"
-         x="1593.8367"
+         y="634.8017"
+         x="1633.8367"
          style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-all_requests-modal.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c"
-           y="720.8017"
-           x="1593.8367"
+           y="634.8017"
+           x="1633.8367"
            sodipodi:role="line"
            id="tspan87602">#fedora-hubs</tspan></text>
       <path
          style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#e7e8e9;stroke-width:1.00000012;stroke-miterlimit:4;stroke-dasharray:none"
-         d="m 1721.1124,815.23357 -663.5726,0"
+         d="m 1761.1124,729.23357 -663.5726,0"
          id="path87604"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
       <g
          id="g87606"
-         transform="translate(-10.000001,186.00001)">
+         transform="translate(30.000003,100.00001)">
         <g
            style="display:inline"
            id="g87608"
@@ -2306,7 +2015,7 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
-         transform="translate(979.51906,233.19265)"
+         transform="translate(1019.5191,147.19265)"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot87622"
          xml:space="preserve"><flowRegion
@@ -2319,7 +2028,7 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
              id="rect87626" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75000191px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#60605b;fill-opacity:1"
            id="flowPara87674">Fedora Hubs Weekly Check-in</flowPara></flowRoot>      <flowRoot
-         transform="translate(0,250.00001)"
+         transform="translate(40.000004,164.00001)"
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
@@ -2335,7 +2044,7 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
              style="fill:#60605b;fill-opacity:1" /></flowRegion><flowPara
            id="flowPara87636"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.59655762px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#60605b;fill-opacity:1">June 1</flowPara></flowRoot>      <flowRoot
-         transform="translate(-4.0000014,250.00001)"
+         transform="translate(36.000003,164.00001)"
          style="font-style:normal;font-weight:normal;font-size:69.06652832px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot87638"
          xml:space="preserve"
@@ -2356,7 +2065,7 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
          xml:space="preserve"
          id="flowRoot87658"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="translate(1185.9943,269.96221)"
+         transform="translate(1225.9943,183.96221)"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"><flowRegion
@@ -2372,7 +2081,7 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
-         transform="translate(1185.9943,309.96221)"
+         transform="translate(1225.9943,223.96221)"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot87666"
          xml:space="preserve"><flowRegion
@@ -2390,23 +2099,23 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-all_requests-modal.png"
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="1560.5261"
-         y="846.8017"
+         x="1600.5261"
+         y="760.8017"
          id="text87678"
          sodipodi:linespacing="125%"><tspan
            id="tspan87680"
            sodipodi:role="line"
-           x="1560.5261"
-           y="846.8017"
+           x="1600.5261"
+           y="760.8017"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c">#fedora-meeting-1</tspan></text>
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path87682"
-         d="m 1721.1124,941.23357 -663.5726,0"
+         d="m 1761.1124,855.23357 -663.5726,0"
          style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#e7e8e9;stroke-width:1.00000012;stroke-miterlimit:4;stroke-dasharray:none" />
       <g
-         transform="translate(-10.000001,312.00001)"
+         transform="translate(30.000003,226.00001)"
          id="g87684">
         <g
            inkscape:export-ydpi="90"
@@ -2464,7 +2173,7 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
          xml:space="preserve"
          id="flowRoot87700"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="translate(979.51906,359.19265)"
+         transform="translate(1019.5191,273.19265)"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"><flowRegion
@@ -2483,7 +2192,7 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
-         transform="translate(0,376.00001)"><flowRegion
+         transform="translate(40.000004,290.00001)"><flowRegion
            id="flowRegion87710"><rect
              style="fill:#60605b;fill-opacity:1"
              y="494.64001"
@@ -2499,7 +2208,7 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
          xml:space="preserve"
          id="flowRoot87716"
          style="font-style:normal;font-weight:normal;font-size:69.06652832px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="translate(-4.0000014,376.00001)"><flowRegion
+         transform="translate(36.000003,290.00001)"><flowRegion
            id="flowRegion87718"><rect
              id="rect87720"
              width="566.34552"
@@ -2514,7 +2223,7 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
-         transform="translate(1185.9943,395.96221)"
+         transform="translate(1225.9943,309.96221)"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot87726"
          xml:space="preserve"><flowRegion
@@ -2530,7 +2239,7 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
          xml:space="preserve"
          id="flowRoot87734"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="translate(1185.9943,421.96221)"
+         transform="translate(1225.9943,335.96221)"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"><flowRegion
@@ -2545,23 +2254,23 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
            id="flowPara87740">Last meeting's minutes</flowPara></flowRoot>      <text
          sodipodi:linespacing="125%"
          id="text87751"
-         y="970.8017"
-         x="1570.5261"
+         y="884.8017"
+         x="1610.5261"
          style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-all_requests-modal.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c"
-           y="970.8017"
-           x="1570.5261"
+           y="884.8017"
+           x="1610.5261"
            sodipodi:role="line"
            id="tspan87753">#fedora-meeting</tspan></text>
       <flowRoot
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
-         transform="translate(979.51906,483.19265)"
+         transform="translate(1019.5191,397.19265)"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot87773"
          xml:space="preserve"><flowRegion
@@ -2574,7 +2283,7 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
              id="rect87777" /></flowRegion><flowPara
            id="flowPara87779"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75000191px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#60605b;fill-opacity:1">Fedora Council</flowPara></flowRoot>      <flowRoot
-         transform="translate(0,500.00001)"
+         transform="translate(40.000004,414.00001)"
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
@@ -2590,7 +2299,7 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
              style="fill:#60605b;fill-opacity:1" /></flowRegion><flowPara
            id="flowPara87787"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.59655762px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#60605b;fill-opacity:1">June 3</flowPara></flowRoot>      <flowRoot
-         transform="translate(-4.0000014,500.00001)"
+         transform="translate(36.000003,414.00001)"
          style="font-style:normal;font-weight:normal;font-size:69.06652832px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot87789"
          xml:space="preserve"
@@ -2611,7 +2320,7 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
          xml:space="preserve"
          id="flowRoot87799"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="translate(1185.9943,519.96221)"
+         transform="translate(1225.9943,433.96221)"
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_releases-63.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"><flowRegion
@@ -2624,8 +2333,8 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
              style="fill:#60605b;fill-opacity:1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75000191px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#60605b;fill-opacity:1"
            id="flowPara87805">Fedora Council weekly meeting</flowPara></flowRoot>      <rect
-         y="427.40381"
-         x="1706.2277"
+         y="341.40381"
+         x="1746.2277"
          height="589.05792"
          width="15.088427"
          id="rect87815"
@@ -2641,8 +2350,8 @@ HW1uyzVUu7UlJKfGJ5XPzxZRTRzHqcp7lKJN0WYlkSSpZt+7rXmhEwgEgtqUb4FAIChACJ1AIKh5
          id="rect87817"
          width="8.7648344"
          height="252.05789"
-         x="1709.3894"
-         y="433.40381"
+         x="1749.3894"
+         y="347.40381"
          ry="4.3824172" />
     </g>
   </g>
