@@ -1358,8 +1358,8 @@
          id="tspan25043"
          sodipodi:role="line">Remend</tspan></text>
     <rect
-       y="940.36218"
-       x="-1435.5714"
+       y="74.647896"
+       x="-1072.7142"
        height="1024"
        width="893.99994"
        id="rect14739"
@@ -1377,10 +1377,10 @@
        id="rect14741"
        width="820.20282"
        height="831.42712"
-       x="578.98914"
-       y="1023.5045" />
+       x="216.13199"
+       y="157.79024" />
     <text
-       transform="matrix(5.7941805,0,0,5.5636551,-1214.9756,-1786.2656)"
+       transform="matrix(5.7941805,0,0,5.5636551,-852.11846,-2651.9799)"
        sodipodi:linespacing="125%"
        id="text14743"
        y="513.62134"
@@ -1402,7 +1402,7 @@
        xml:space="preserve"
        id="flowRoot14747"
        style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-1454.5714,647.00002)"><flowRegion
+       transform="translate(-1091.7143,-218.71427)"><flowRegion
          id="flowRegion14749"><rect
            id="rect14751"
            width="336"
@@ -1414,7 +1414,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c">Ticket System:</flowPara></flowRoot>    <flowRoot
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       transform="translate(-1393.8363,724.96702)"
+       transform="translate(-1030.9792,-140.74727)"
        style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot14755"
        xml:space="preserve"><flowRegion
@@ -1434,8 +1434,8 @@
        preserveAspectRatio="none"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAcVJREFU OI2NkrFrFFEQxn+zysI9zq3OSiwCaTYqXLQSJIV9OlsJBAJpzz8gWIiCrWAjSI40QQIiCWKTLhAI Ofc4TDZFIJCQatMkyFtuNzgWvl1fcpz4wfCGeTPfzDfvAWhlsTH6WUQPQHdBd0DnRTQ2pj79XEDF BQCYF2FRlS0RJoA7+udqS4QnLv5C63RiYwjwsOguPzQarLvCAJhRJQImXFGF1FokNkYf5/kVksj5 P4Ffzq86vRfhozfFja9l+fIp8ADYFeGdMRxfXnIuwj2g9JZ0CzgX4dgYzsoSANkBDYAmkIqwDmw3 GqTW1jsJvEkATkU4clIlNkZf5zl3VWlW2lzCDyfJJ6ikNIG3Ioh7EhbynBmnrSK6YDwCt4/6FW4v L/Ot0+FEhAtXHLnE6xYBJyJsVxJSa+klCfenpvi0usqXtTWijQ1mx3Sv9KfWIr0k0f3BgOdzcwyH Q8Iw5Hu/z5ulJQDak5N1Yf/wkL3NTVJr/7KpQ5ZlmmWZXkcvSbSXJLXvf2dAb1ZErVZrZNSiKHg0 Pc2rToeH7Tb7gwEAz2Y9cSMtxyDLMgV0pdu9Ev9vgpVut5biQ1S9j/0PFEVBGIYj8d/1B1MSKU1G rQAAAABJRU5ErkJggg== "
        id="image14763"
-       x="-1329.5714"
-       y="1203.3622" />
+       x="-966.71429"
+       y="337.64789" />
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -1443,13 +1443,13 @@
        id="rect14765"
        width="18.597755"
        height="20.597757"
-       x="-1360.8702"
-       y="1201.0634"
+       x="-998.01312"
+       y="335.34906"
        ry="5.5994821" />
     <rect
        ry="5.5994821"
-       y="1405.0635"
-       x="-1360.8702"
+       y="539.34918"
+       x="-998.01312"
        height="20.597757"
        width="18.597755"
        id="rect14767"
@@ -1463,13 +1463,13 @@
        id="rect14769"
        width="18.597755"
        height="20.597757"
-       x="-1360.8702"
-       y="1457.0635"
+       x="-998.01312"
+       y="591.34918"
        ry="5.5994821" />
     <flowRoot
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       transform="translate(-1389.8363,927.96702)"
+       transform="translate(-1026.9792,62.252734)"
        style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot14771"
        xml:space="preserve"><flowRegion
@@ -1489,15 +1489,15 @@
        preserveAspectRatio="none"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAABQxJREFU WIW1l19MU1ccx7+XdVwqWKCKQImrhWm0uGlxCxPmFttsIwESJWTzT4wP6sMmJiomWwjolhSyRZrt AXzQaGJCQnwAjaFqog2aCbNTpJkFujlkzPRSrLS1M7SHsJ49kF69vae1gPslTe759z2f8/v9zu/e Aos0h9lMF6uxYPPa7bR77VpqP3p0wRApiwEIOJ2IEAL3lSt4cu/ugiAWBbB882YoVCoAwOyz4GKk pBby+ejU/ftJnchrt9OR9vbXmwdOi4VeNhioYLMlJSzYbEnPjTVmCMjUFMKTk/itufmVG182GGj/ /v24c/AgbNu305DPNy8QJkBBZSVSc3KQWaxPuHiwsRHhyUkAQIQQTNnt+PXQofnszwbIKy/nPu7s hHrjRvxyqI6OdnTITuXp66PE70cKz78Q43lMDQzA09cnzvcPD9NEtSLuLRjv7sYDczPcPVYMNjVh oKFBIhKanESEENm6CCFwW61i2331Kh51dGBaEJgQTADBZqOPOjokfWOdnXg50RSpqZLTvwzwfHxc bAeGhhAhBOMXLzIPyga4cIF5uvFLL0QyCgvZgjyPtNxcsZ1VXDzXl5+fPIDf7WYCeG/3IZrl2Xo9 p1AqmaLLS0rE5/X19ZyhpQW6mhouaYDUrCym8EwggN9PnRLbOR+Wy0AVKhXyjUYAcwXt1u7ddLCh Ie4VZQKs2rFDLLGx5rZaRS8UHz4icXeEEOR+tAVLNBoOABwnjsPb348IIfA7HHCcOC7TEwGcFgu9 ZjRS//Aw1VZXc9qaGiZAyOOB5+ZNAICqqIh7p6kJKTyPCCFI12pRfPgIgLnrN3H9hmTtxPUbiL3S iujDc+8TBF0u2OvqAACbWlo4p8VC/zhzBrPBoCTjwxMT4rOupoYTbDbqczjw1rZtUBUVcQDg6e2V hSdCCLzOB2wPrP78C6Rrtfg3FBLv7Pr6em7L+fPI3bpVDEmGToeCigqJiMZk4tbX13PRzQEg4BqR eS+F57Fs9RpJn+iBZSUl3LQg0ODYGGZDITjMZpqp1yOntJQDgGlBoCQQQLZez6GoSCYeawo+jQmQ ueFdNgAAMXmuGY006HJBoVLhzjdf0w++/4GLjsXa454eOuVwQKFUonDnTlFjeVkZxru6JHOXFhZi xXvvS3Rkol67nf68d68kfm/v24eNjY2SucHRUdp/4ACej42Jfcq8PBitVijVai7k89FbtbXieArP Y9PJk9BWV0t0JB4AgODDh7Lk+fPsWTzu6aErq6rExUM//YigyyVJzpDHg9t79mBaEKhSreamBYGO tLWBPn2KZRUVss2ZAPHs7rFjCPl8VKlWcwDguzfAfBc8Gx7GjcpKjLS3U0nYTp9m6soKkTJOzQYA Gg4DAF710TETCGCotRWXDQbqtFgSzpUBaEwmLkOnk4WBz84WEyzs8YD4/Yl0RRBXWxsSfTMyS3Fp WxvStVpECBF/mevWieNDra2YDSb/FTztdscdYwJk6/Xc1q4u6HbtQrpWi7TcXKz56ksAcyXb09vL jH88yzeZ4o7FTcKou0M+H6XhMJZoNFxwdJTerK1NuFks2MqqKmhMJmYNSQgQtWjWA8Dfly5hJhBg brqirAw55WVYukqHNzMyQN9IQYamAPEKWNIAL9s/f40hQojklJl6PTZ89+1chTt3bj5yc/Dzmaz5 9DPx/Z+alYW1dXX4xGrlYsvr/2qCzUYdZjP12u2v5e/Yf+FBMlHUI8VdAAAAAElFTkSuQmCC "
        id="image14779"
-       x="-1326.5714"
-       y="1403.3622" />
+       x="-963.71429"
+       y="537.64789" />
     <flowRoot
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        xml:space="preserve"
        id="flowRoot14781"
        style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-1379.8363,980.96702)"><flowRegion
+       transform="translate(-1016.9792,115.25273)"><flowRegion
          id="flowRegion14783"><rect
            id="rect14785"
            width="328"
@@ -1514,12 +1514,12 @@
        preserveAspectRatio="none"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABHNCSVQICAgIfAhkiAAABC1JREFU SIntlV9s01UUx7/n3ra/tZWuW2EZoUHcAyhzY50YJUYkC+oiMRpZXSZEQyLqiyZq3FrWyS+Mjc5I jPGFFx8QYyJj6oOJJAYTEohEN5UByxxjDLd23datW6t0bX+/e3woQ6Dogq/6fbrJued8zr/kAP9r CdHfGfx+v/R6vbayspJ7leJSU9LUdGR6KBaLGd3d3ea/BnR2BleQdHYSqB4ELwAwc5qI7Pk3RgE+ nkkbbbqux+8IEA53bIPA1wyOWKSle4Wn/NOKigo2DMOradqFwcFzZTOJ2SZTqecItMpUZlNr4N3P AfCSgANd7fuIRFsmk3mleoMvp1k0nZnLFjO/pj8ARDOZTHv/hV5oNscnYBwLtLT6/xEQDu/bCSGP CIjd1dW+R5VSLy5VupTy2PnB84eyC+njIHwZbA413q4S6ujoWCksPKwUv1dTXfsCEa1dKviimDk2 MNS/w8ypE2xyQzAY6rn1jxBWPA3AtqHKN3G74EQEIQSEEAUAIiqvus+3M5PJvEySjum67i4AEPNu pUxdSlnQFqUUJqcmMDQ8iJHRS0inrxZAlFK7qiprkgDHNLulvQAAoo2xRPwwMz9yoyGbzWJg8Dyi E9HpZHJu/1wifmRoeBCjV0YK+my32zuFED0APeX3++XNAAAOyqRudbo8egmGmTu9ZXOd7wHfQ46N vk19dq3osfnkXHZqKgZBf7WMmStsNnspwOWVlZU3rb4FAOZNoSG/AQQAhmnAMHPQtKLDiURiSAjp MJSBtWvXnzr9w8knJiajJz2e5ZDSAiEkfhu7LBYWrjYRqx26rhs3AuTWrXWNToczvarc6wCwBgAY jPhMHMzcJ6VcNzJ6cZnHs5wEidUul/u7+bnEk07nMqthGnR5dBjJ1HyKmN8Byfq6x+tWlpZ4egcG BhgABIM/tgrLQSHEoetlSQuKXcUwjFxbJDJ2MZfLCdPIJ+bQHJtBMMcjV/jSyK+cXkj/aDLqmeh9 EBoE0Ye1D9b8tBiL9C7dW0TWMaX47Zrq2gYAm4D8es7OziD1exLFLje73SXEzJiMTz4fm4h8BkKE GW1EeIZA25lZAVggIkd+MBhnlaoWeos+rhTvF4IO9vZ+/yqAb68NDiUlpbh79T0oLnYTMzMRvRWN jj1LhHiwObRGAEECbUd+eN8EW0LOQHMrKVbbAR6HuGufAIA9gVCbAj6yFRX1nz338xmXy3U/ER1l ZsXMAMRXUsr1v5zrq5dCNhlZPJzPUjVenybRtnBXRw8A7Glp+yLQEtpEnArdtFIHujpaibAXgJHN 5j4wsukzSgiyW7Ut0mp9k8ERxeZLrS17Tyz6hMPtrzOJvUTw5CvHMDHvCgRCp4Db3ANdh9Ds+18j 4A0QrbvWrrOKVTi3oI7quq4KfXQLADeAbDQaTScSCXUnR+k/rj8BZsHow8wMJb8AAAAASUVORK5C YII= "
        id="image14789"
-       x="-1324.5714"
-       y="1455.3623" />
+       x="-961.71429"
+       y="589.64801" />
     <rect
        ry="5.5994821"
-       y="1509.0635"
-       x="-1360.8702"
+       y="643.34918"
+       x="-998.01312"
        height="20.597757"
        width="18.597755"
        id="rect14801"
@@ -1527,7 +1527,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
-       transform="translate(-1379.8363,1032.967)"
+       transform="translate(-1016.9792,167.25271)"
        style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot14803"
        xml:space="preserve"
@@ -1547,10 +1547,10 @@
        preserveAspectRatio="none"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAABJRJREFU WIW9V02IHEUYfVVfTW9PT48z3Z39CaLZEFEIZCEm6kEPuohKkCy6HgIejd5EIREkHvSUCJsEFcFT LoI3k6BBEEmixHgyUTAHY9AEo8Gsu1M96+w0Pd1dVR4yK5OZnuzsD75LU9/Pe6+K7qpqhsGxoVwu T1lET4BoggGbiXMXAJTWiwa4BqV+SpT6utFofAZgfhBStlyB4zjbbdt+kwHPCyIxCGmmVGaAE3Ec vxtF0Y+rMuB5XoUxdpgBLwmiZY32MWIMcMwYsz8Mw4WBDTiOs92x7eNEtHk1wt1QSl2L4ng6bzV6 DLiuOzlkWScF0V3rIb6ETKl/Wkny3OLi4tm+BiqVyg5BdHa9xTtNZEpNLiwsXFyKUYe4J4jOCKLR joaftTHfamPu5pwPrVRMG/OFNgac82EAaHM8ZVnWx61WKwYAvtQgiI4IovFOEm3MwZqU0zUpR6I4 3qu0ngVufXaZ1pfSND2Xpum5TOtLSuvFdm42iuO9NSlHalJOa2MOdnIKonFBdGRpzADAcZyd5VLp ++5ZNJrNHVEU/bA09jyv0mw2NyZJcgWA7irnlmXdXyqV/up84x3HebBcKl3sqkWj2XwoiqILHACK tn2gz0pS5yAMw4UkSS7niAOATpLkcs7nRjm1/2lyAGMAducVWZa1tY+xgXEHjt0AxrjnulOCqMel VurPer1+aq0G6vX6qVSpP7rjgog8153izLIm8xrjNH0bgFyrAQAyTdN38hLMsiY5A7Z1JzKllBDi +DqIAwCEEMczpVSPAWAbZ4yN91pjN/rt3atBGIYLYOxGrwwb58R5McdZsl7iHZxpd4w4L/K8YmPM aF58LTDGjOTFeaZUozsoiMoAchtWiZE2523IlGpwpvXVvI5qtfrMeqn342JaX+Wa855tEgAEsO/W Y80Qba4eaM4vctNqnc5LUqEw4fv+zFrVfd+foUJhIi9nWq3TDEB5QxDcJM6dvKJMqU9rUr4K4OYK tTcGvv+BIHohL6m0juZrtTECkAzZ9j3E+U4ASLJsJm613mLAFiLaxDnfatv2a26xuM22rCoj4mma zgIwXZyiXCw+UrLtZ0uue8ApFj8SRD2bXMfEjsVxfIIBgOd59xLnvxDndqaUMVq/Iev1DwPfPyeI Hu5qPFmTcjrHAAuq1ZOiUJhabmmU1rHS+oEwDK9zAAjD8Hqm1CEAEESsUCgcLhaL25tRtKf7INHG HM0RBwDTyrKjy4m3J3EoDMPrwO13QuH7/jcFokfbRV/VpHwaQLVcLk8LIUaTJLnQbDbPAOjZ19sY Hh0e/vtO4qlS30kpHweQdRsAgLENQXCeON8CAK00fb1er78/yKzaqI4OD4f9kkrr3+ZrtcfQ8UL3 XMtt297klkqnifP7AEAZc16l6eeZ1nNCiLEwDN8DEK/UgNL618Vm88k4jn/vjPf74/F93/+kQNSz g83OzXkA6isxkCr1pZTyReTcL3IPIwBSSrkrTZKXldZzfWqWhVJqPk2SV6SUu/LEB4XrV6v7giC4 Evj+PIA7/R8MBb4/HwTBFb9S2Q/AXa3o/4Z/AcGqBQIAaQpvAAAAAElFTkSuQmCC "
        id="image14811"
-       x="-1326.5714"
-       y="1507.3623" />
+       x="-963.71429"
+       y="641.64801" />
     <flowRoot
-       transform="translate(-1454.5714,1105)"
+       transform="translate(-1091.7143,239.28571)"
        style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot14813"
        xml:space="preserve"
@@ -1568,7 +1568,7 @@
        xml:space="preserve"
        id="flowRoot14821"
        style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-1443.8363,1179.967)"
+       transform="translate(-1080.9792,314.25271)"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion14823"><rect
@@ -1580,7 +1580,7 @@
            style="font-size:17.5px;fill:#8c8c8c" /></flowRegion><flowPara
          id="flowPara14827"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:200%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c">Tickets Waiting On Me</flowPara></flowRoot>    <path
-       transform="matrix(0.56610785,0,0,-0.56307661,-1015.0016,921.05002)"
+       transform="matrix(0.56610785,0,0,-0.56307661,-652.14446,55.335734)"
        d="m -43.428812,-1332.1558 -10.571188,0 -10.571188,0 5.285594,-9.1549 5.285594,-9.1549 5.285594,9.1549 z"
        inkscape:randomized="0"
        inkscape:rounded="0"
@@ -1602,14 +1602,14 @@
        id="rect14831"
        width="336"
        height="33"
-       x="-1363.0714"
-       y="1660.8623"
+       x="-1000.2143"
+       y="795.14801"
        ry="8.9710217" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot14833"
        style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-1452.8363,1134.967)"
+       transform="translate(-1089.9792,269.25271)"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion14835"><rect
@@ -1623,7 +1623,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c">Templates determine the tickets, ticket ordering, and ticket fields to display.</flowPara></flowRoot>    <flowRoot
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       transform="translate(-1454.8363,676.96702)"
+       transform="translate(-1091.9792,-188.74727)"
        style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot14851"
        xml:space="preserve"><flowRegion
@@ -1647,7 +1647,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path14941"
-       d="m -1397.2573,1094.8622 813.9853,0"
+       d="m -1034.4002,229.14791 813.98534,0"
        style="fill:none;fill-rule:evenodd;stroke:#dedede;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <use
        id="use14994"
@@ -1662,7 +1662,7 @@
        xml:space="preserve"
        id="flowRoot15010"
        style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-1385.8363,760.96702)"
+       transform="translate(-1022.9792,-104.74727)"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion15012"><rect
@@ -1675,8 +1675,8 @@
          id="flowPara15016"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c">Bugzilla Email:</flowPara></flowRoot>    <rect
        ry="8.3822165"
-       y="1233.9451"
-       x="-1140.9885"
+       y="368.23077"
+       x="-778.13141"
        height="30.834076"
        width="322.83408"
        id="rect15018"
@@ -1686,7 +1686,7 @@
     <flowRoot
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       transform="translate(-1387.8363,806.96702)"
+       transform="translate(-1024.9792,-58.747266)"
        style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot12123"
        xml:space="preserve"><flowRegion
@@ -1705,20 +1705,20 @@
        id="rect12131"
        width="357.83408"
        height="58.834076"
-       x="-1010.9885"
-       y="1319.9451"
+       x="-648.13141"
+       y="454.23077"
        ry="1.9940186" />
     <circle
        r="7.5"
-       cy="1294.8622"
-       cx="-1133.0714"
+       cy="429.14789"
+       cx="-770.21429"
        id="circle12133"
        style="opacity:1;fill:none;fill-opacity:1;stroke:#8c8c8c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot12135"
        style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-1201.8363,808.96702)"
+       transform="translate(-838.97916,-56.747266)"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion12137"><rect
@@ -1732,15 +1732,15 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c">All</flowPara></flowRoot>    <circle
        style="opacity:1;fill:none;fill-opacity:1;stroke:#8c8c8c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle12143"
-       cx="-1033.0714"
-       cy="1294.8622"
+       cx="-670.21429"
+       cy="429.14789"
        r="7.5" />
     <flowRoot
        inkscape:transform-center-y="43"
        inkscape:transform-center-x="-11"
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       transform="translate(-1105.8363,808.96702)"
+       transform="translate(-742.97916,-56.747266)"
        style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot12145"
        xml:space="preserve"><flowRegion
@@ -1756,7 +1756,7 @@
        xml:space="preserve"
        id="flowRoot12153"
        style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#c5c5c5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-1094.8363,849.96702)"
+       transform="translate(-731.97916,-15.747266)"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:transform-center-x="-11"
@@ -1772,8 +1772,8 @@
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#c5c5c5;fill-opacity:1">Type component names here, separated by</flowPara><flowPara
          id="flowPara12161"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#c5c5c5;fill-opacity:1">commas.</flowPara></flowRoot>    <rect
-       y="1762.7671"
-       x="635.97632"
+       y="897.0528"
+       x="273.11917"
        height="47.190201"
        width="85.190201"
        id="rect12163"
@@ -1787,7 +1787,7 @@
     <flowRoot
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       transform="translate(-787.8363,1286.967)"
+       transform="translate(-424.97916,421.25271)"
        style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot12168"
        xml:space="preserve"><flowRegion
@@ -1810,13 +1810,13 @@
        id="rect12186"
        width="85.190201"
        height="47.190201"
-       x="735.97632"
-       y="1762.7671" />
+       x="373.11917"
+       y="897.0528" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot12188"
        style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-891.8363,1286.967)"
+       transform="translate(-528.97916,421.25271)"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion12190"><rect
@@ -1838,13 +1838,13 @@
        id="rect12196"
        width="174.84415"
        height="46.844128"
-       x="1186.1494"
-       y="1762.9402" />
+       x="823.2923"
+       y="897.22589" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot12198"
        style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-1437.8363,1286.967)"
+       transform="translate(-1074.9792,421.25271)"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion12200"><rect
@@ -1857,39 +1857,39 @@
          id="flowPara12204"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:200%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;fill-opacity:1">Delete this widget</flowPara></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#dedede;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -1398.5714,1724.3622 818,0"
+       d="m -1035.7143,858.64791 818.00004,0"
        id="path12206"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path12208"
-       d="m -1363.5714,1392.3622 748,0"
+       d="m -1000.7143,526.64791 748.00004,0"
        style="fill:none;fill-rule:evenodd;stroke:#dedede;stroke-width:0.95625597px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#dedede;stroke-width:0.95625597px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -1363.5714,1444.3622 748,0"
+       d="m -1000.7143,578.64791 748.00004,0"
        id="path12210"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path12212"
-       d="m -1363.5714,1496.3622 748,0"
+       d="m -1000.7143,630.64791 748.00004,0"
        style="fill:none;fill-rule:evenodd;stroke:#dedede;stroke-width:0.95625597px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#dedede;stroke-width:0.95625597px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -1363.5714,1548.3622 748,0"
+       d="m -1000.7143,682.64791 748.00004,0"
        id="path12214"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#dedede;stroke-width:0.95625597px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -1363.5714,1188.3622 748,0"
+       d="m -1000.7143,322.64791 748.00004,0"
        id="path12216"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:25.2929306px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#db3232;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-781.5011"
-       y="1268.2059"
+       x="-426.81393"
+       y="382.55054"
        id="text12974"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
@@ -1897,12 +1897,12 @@
        transform="scale(1.0230343,0.97748434)"><tspan
          sodipodi:role="line"
          id="tspan12976"
-         x="-781.5011"
-         y="1268.2059"
+         x="-426.81393"
+         y="382.55054"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3232;fill-opacity:1">bugzilla assumes the</tspan><tspan
          sodipodi:role="line"
-         x="-781.5011"
-         y="1299.822"
+         x="-426.81393"
+         y="414.16675"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3232;fill-opacity:1"
          id="tspan13020">product is &quot;Fedora&quot;</tspan></text>
     <text
@@ -1911,19 +1911,19 @@
        inkscape:export-xdpi="90"
        sodipodi:linespacing="125%"
        id="text12220"
-       y="1458.4902"
-       x="-1100.1609"
+       y="572.83484"
+       x="-745.47369"
        style="font-style:normal;font-weight:normal;font-size:25.2929306px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#db3232;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan12224"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3232;fill-opacity:1"
-         y="1458.4902"
-         x="-1100.1609"
+         y="572.83484"
+         x="-745.47369"
          sodipodi:role="line">each ticket system is an entry in an accordion widget</tspan></text>
     <g
        id="g12448"
        style="fill:#db3232;fill-opacity:1"
-       transform="translate(-1275.5714,-419)">
+       transform="translate(-912.71426,-1284.7143)">
       <text
          transform="scale(1.0230343,0.97748434)"
          inkscape:export-ydpi="90"
