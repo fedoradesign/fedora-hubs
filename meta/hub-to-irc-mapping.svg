@@ -16,7 +16,10 @@
    version="1.1"
    id="svg11215"
    inkscape:version="0.92pre1 r"
-   sodipodi:docname="hub-to-irc-mapping.svg">
+   sodipodi:docname="hub-to-irc-mapping.svg"
+   inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/meta/hub-to-irc-mapping.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs11209">
     <marker
@@ -402,8 +405,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="569.35343"
+     inkscape:zoom="1"
+     inkscape:cx="495.85343"
      inkscape:cy="380.12976"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
