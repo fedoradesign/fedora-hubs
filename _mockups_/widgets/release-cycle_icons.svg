@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="21.393368mm"
+   height="50.174191mm"
+   viewBox="0 0 21.393368 50.174191"
+   version="1.1"
+   id="svg11258"
+   inkscape:version="0.92pre1 r"
+   sodipodi:docname="release-cycle_icons.svg">
+  <defs
+     id="defs11252" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="22.285555"
+     inkscape:cy="64.888796"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata11255">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(81.000255,-36.055762)">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-55.864838,-33.590575)"
+       style="display:inline"
+       id="g11164">
+      <ellipse
+         ry="16.965948"
+         rx="17.186497"
+         cy="434.66504"
+         cx="-76.563683"
+         id="ellipse11004"
+         style="fill:#3c6eb4;fill-opacity:1;stroke:#3c6eb4;stroke-width:2.46800613;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_devel-63.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <ellipse
+         ry="13.473366"
+         rx="14.108894"
+         cy="434.57074"
+         cx="-76.686447"
+         id="ellipse11006"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.72379553;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_devel-63.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         transform="matrix(0.25776158,0,0,0.25127895,-81.807041,423.40337)"
+         style="fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:2.09830713;stroke-opacity:1"
+         id="g11012"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_devel-63.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <title
+           id="title11008">code-fork</title>
+        <path
+           style="fill:#3c6eb4;stroke:none;stroke-width:2.09830713"
+           transform="matrix(0.05,0,0,-0.05,0,76.8)"
+           d="m 288,64 q 0,40 -28,68 -28,28 -68,28 -40,0 -68,-28 -28,-28 -28,-68 0,-40 28,-68 28,-28 68,-28 40,0 68,28 28,28 28,68 z m 0,1152 q 0,40 -28,68 -28,28 -68,28 -40,0 -68,-28 -28,-28 -28,-68 0,-40 28,-68 28,-28 68,-28 40,0 68,28 28,28 28,68 z m 640,-128 q 0,40 -28,68 -28,28 -68,28 -40,0 -68,-28 -28,-28 -28,-68 0,-40 28,-68 28,-28 68,-28 40,0 68,28 28,28 28,68 z m 96,0 q 0,-52 -26,-96.5 Q 972,947 928,922 926,635 702,508 634,470 499,427 371,387 329.5,356 288,325 288,256 v -26 q 44,-25 70,-69.5 26,-44.5 26,-96.5 0,-80 -56,-136 -56,-56 -136,-56 -80,0 -136,56 Q 0,-16 0,64 0,116 26,160.5 52,205 96,230 v 820 q -44,25 -70,69.5 -26,44.5 -26,96.5 0,80 56,136 56,56 136,56 80,0 136,-56 56,-56 56,-136 0,-52 -26,-96.5 Q 332,1075 288,1050 V 553 q 54,26 154,57 55,17 87.5,29.5 32.5,12.5 70.5,31 38,18.5 59,39.5 21,21 40.5,51 19.5,30 28,69.5 8.5,39.5 8.5,91.5 -44,25 -70,69.5 -26,44.5 -26,96.5 0,80 56,136 56,56 136,56 80,0 136,-56 56,-56 56,-136 z"
+           id="path11010"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g11157"
+       transform="matrix(0.26458333,0,0,0.26458333,-55.864838,-33.434605)">
+      <g
+         id="g11098">
+        <g
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_devel-63.png"
+           transform="matrix(0.48268294,0,0,0.47054363,-150.65029,664.75639)"
+           id="g11034">
+          <ellipse
+             cy="-597.27429"
+             cx="154.94156"
+             id="ellipse11014"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.5999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             rx="8.9975147"
+             ry="9.009594" />
+          <ellipse
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             ry="36.056057"
+             rx="35.606182"
+             cy="-601.42285"
+             cx="153.48917"
+             id="ellipse11016"
+             style="fill:#3c6eb4;fill-opacity:1;stroke:#3c6eb4;stroke-width:5.17863512;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <ellipse
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             ry="28.633615"
+             rx="29.230148"
+             cy="-601.62341"
+             cx="153.23483"
+             id="ellipse11018"
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.61705256;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.09830713px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 141.98713,-610.80316 c 20.69429,11.69677 20.69429,11.69677 20.69429,11.69677"
+             id="path11020"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path11022"
+             d="m 152.47431,-617.80067 c 0,27.89229 0,27.89229 0,27.89229"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.09830713px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path11024"
+             d="m 167.97058,-613.30192 c -26.09279,17.09528 -26.09279,17.09528 -26.09279,17.09528"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.09830713px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path11026"
+             d="m 167.92555,-599.81731 q 1.07155,0.60565 1.38603,1.80532 0.31447,1.19966 -0.29119,2.27121 l -1.49084,2.56239 q -0.60566,1.07155 -1.80532,1.38602 -1.19967,0.31448 -2.27121,-0.29118 l -6.19633,-3.56405 v 7.1514 q 0,1.21131 -0.88519,2.0965 -0.88519,0.88519 -2.0965,0.88519 h -2.9817 q -1.21131,0 -2.0965,-0.88519 -0.88519,-0.88519 -0.88519,-2.0965 v -7.1514 l -6.19633,3.56405 q -1.07154,0.60566 -2.27121,0.29118 -1.19966,-0.31447 -1.80532,-1.38602 l -1.49085,-2.56239 q -0.60565,-1.07155 -0.29118,-2.27121 0.31448,-1.19967 1.38602,-1.80532 l 6.19633,-3.58735 -6.19633,-3.58735 q -1.07154,-0.60566 -1.38602,-1.80532 -0.31447,-1.19967 0.29118,-2.27121 l 1.49085,-2.56239 q 0.60566,-1.07155 1.80532,-1.38602 1.19967,-0.31448 2.27121,0.29118 l 6.19633,3.56405 v -7.1514 q 0,-1.21131 0.88519,-2.0965 0.88519,-0.88519 2.0965,-0.88519 h 2.9817 q 1.21131,0 2.0965,0.88519 0.88519,0.88519 0.88519,2.0965 v 7.1514 l 6.19633,-3.56405 q 1.07154,-0.60566 2.27121,-0.29118 1.19966,0.31447 1.80532,1.38602 l 1.49084,2.56239 q 0.60566,1.07154 0.29119,2.27121 -0.31448,1.19966 -1.38603,1.80532 l -6.19632,3.58735 z"
+             style="fill:#3c6eb4;fill-opacity:1;stroke:#3c6eb4;stroke-width:0.04887896;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path11028"
+             d="m 152.78415,-618.1463 c 0,29.48328 0,29.48328 0,29.48328"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:4.19661427;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path11030"
+             d="m 165.02411,-610.66917 c -24.47993,14.52902 -24.47993,14.52902 -24.47993,14.52902"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:4.19661427;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:4.19661427;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 140.54418,-610.66917 c 24.47993,14.52902 24.47993,14.52902 24.47993,14.52902"
+             id="path11032"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g11143"
+       transform="matrix(0.26458333,0,0,0.26458333,-55.864838,-32.891154)">
+      <ellipse
+         ry="16.965948"
+         rx="17.186497"
+         cy="328.85632"
+         cx="-76.563683"
+         id="ellipse11036"
+         style="fill:#3c6eb4;fill-opacity:1;stroke:#3c6eb4;stroke-width:2.46800613;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_devel-63.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <ellipse
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.72379553;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="ellipse11038"
+         cx="-76.686447"
+         cy="328.76196"
+         rx="14.108894"
+         ry="13.473366"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_devel-63.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         transform="matrix(0.24461139,0,0,0.2384595,-84.074987,317.39391)"
+         style="fill:#3c6eb4;fill-opacity:1"
+         id="g11044"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_devel-63.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <title
+           id="title11040">Unlock Alt</title>
+        <path
+           inkscape:connector-curvature="0"
+           transform="matrix(0.05,0,0,-0.05,0,76.8)"
+           d="m 1056,768 q 40,0 68,-28 28,-28 28,-68 V 96 Q 1152,56 1124,28 1096,0 1056,0 H 96 Q 56,0 28,28 0,56 0,96 v 576 q 0,40 28,68 28,28 68,28 h 32 v 320 q 0,185 131.5,316.5 Q 391,1536 576,1536 761,1536 892.5,1404.5 1024,1273 1024,1088 q 0,-26 -19,-45 -19,-19 -45,-19 h -64 q -26,0 -45,19 -19,19 -19,45 0,106 -75,181 -75,75 -181,75 -106,0 -181,-75 -75,-75 -75,-181 V 768 Z"
+           id="path11042"
+           style="fill:#3c6eb4" />
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g11136"
+       transform="matrix(0.26458333,0,0,0.26458333,-55.864838,-32.532241)">
+      <ellipse
+         ry="16.965948"
+         rx="17.186497"
+         cy="277.43021"
+         cx="-76.563683"
+         id="ellipse11046"
+         style="fill:#3c6eb4;fill-opacity:1;stroke:#3c6eb4;stroke-width:2.46800613;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_devel-63.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <ellipse
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.72379553;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="ellipse11048"
+         cx="-76.686447"
+         cy="277.33585"
+         rx="14.108894"
+         ry="13.473366"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_devel-63.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-opacity:1"
+         d="m -77.119407,270.96914 q 0.339351,-0.3256 0.804819,-0.31598 0.465468,0.01 0.791072,0.34897 0.325604,0.33936 0.315982,0.80482 -0.0096,0.46547 -0.348974,0.79108 -0.339351,0.3256 -0.804819,0.31598 -0.465469,-0.01 -0.791073,-0.34898 -0.325604,-0.33935 -0.315981,-0.80482 0.0096,-0.46546 0.348974,-0.79107 z m 0.619943,-4.24471 q -2.112459,2.02688 -3.037685,4.14484 -0.925227,2.11795 -0.994884,5.08514 -0.01935,1.33839 0.09418,3.08699 l -3.052547,3.25477 q -0.11946,0.14721 -0.09034,0.34739 l 1.225434,5.08115 q 0.02304,0.0919 0.09631,0.1683 0.09768,0.1018 0.263576,0.12186 l 1.063928,0.022 q 0.224594,-0.004 0.336601,-0.19261 l 1.649612,-2.96779 4.671308,0.0966 1.525547,3.03343 q 0.01594,0.0336 0.06478,0.0845 0.113962,0.11878 0.263576,0.12187 l 1.063928,0.022 q 0.299573,-0.0104 0.371568,-0.27504 l 1.434385,-5.02616 q 0.03737,-0.1988 -0.0759,-0.35082 l -2.915423,-3.37816 q 0.1857,-1.74241 0.221678,-3.08046 0.05613,-3.11715 -0.725343,-5.13733 -0.78147,-2.02019 -2.906036,-4.23446 -0.113961,-0.11877 -0.275958,-0.12628 -0.161997,-0.007 -0.272286,0.0983 z"
+         id="path11050"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_devel-63.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       style="display:inline"
+       id="g11085"
+       transform="matrix(0.26458333,0,0,0.26458333,-56.923172,-33.590575)">
+      <ellipse
+         cy="384.28662"
+         cx="-27.86264"
+         id="ellipse11052"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.5999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         rx="4.342947"
+         ry="4.2394071"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_devel-63.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <ellipse
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         ry="16.965948"
+         rx="17.186497"
+         cy="382.33456"
+         cx="-28.563683"
+         id="ellipse11054"
+         style="fill:#e7e8e9;fill-opacity:1;stroke:#e7e8e9;stroke-width:2.46800613;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_devel-63.png" />
+      <ellipse
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         ry="13.473366"
+         rx="14.108894"
+         cy="382.24017"
+         cx="-28.686447"
+         id="ellipse11056"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.72379553;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_devel-63.png" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -34.115521,377.92071 c 9.988781,5.50384 9.988781,5.50384 9.988781,5.50384"
+         id="path11058"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_devel-63.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path11060"
+         d="m -29.053538,374.62808 c 0,13.12454 0,13.12454 0,13.12454"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_devel-63.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path11062"
+         d="m -21.573753,376.74494 c -12.594544,8.04407 -12.594544,8.04407 -12.594544,8.04407"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_devel-63.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path11064"
+         d="m -21.595488,383.09004 q 0.517219,0.28498 0.669013,0.84948 0.15179,0.56449 -0.140552,1.0687 l -0.719603,1.20572 q -0.292342,0.50421 -0.871397,0.65218 -0.579061,0.14798 -1.096275,-0.13701 l -2.990863,-1.67704 v 3.36504 q 0,0.56998 -0.427266,0.9865 -0.427266,0.41652 -1.011944,0.41652 h -1.439216 q -0.584679,0 -1.011945,-0.41652 -0.427266,-0.41652 -0.427266,-0.9865 v -3.36504 l -2.990863,1.67704 q -0.517214,0.28499 -1.096274,0.13701 -0.579056,-0.14797 -0.871397,-0.65218 l -0.719608,-1.20572 q -0.292337,-0.50421 -0.140548,-1.0687 0.151794,-0.5645 0.669008,-0.84948 l 2.990863,-1.68801 -2.990863,-1.688 q -0.517214,-0.28499 -0.669008,-0.84949 -0.151789,-0.56449 0.140548,-1.0687 l 0.719608,-1.20572 q 0.292341,-0.50421 0.871397,-0.65218 0.57906,-0.14797 1.096274,0.13701 l 2.990863,1.67705 v -3.36505 q 0,-0.56997 0.427266,-0.98649 0.427266,-0.41653 1.011945,-0.41653 h 1.439216 q 0.584678,0 1.011944,0.41653 0.427266,0.41652 0.427266,0.98649 v 3.36505 l 2.990863,-1.67705 q 0.517214,-0.28498 1.096275,-0.13701 0.579055,0.14797 0.871397,0.65218 l 0.719603,1.20572 q 0.292342,0.50421 0.140552,1.0687 -0.151794,0.5645 -0.669013,0.84949 l -2.990858,1.688 z"
+         style="fill:#e7e8e9;fill-opacity:1;stroke:#e7e8e9;stroke-width:0.02329447;stroke-opacity:1"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_devel-63.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         transform="translate(-112,212)"
+         id="g11072"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_devel-63.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 83.096017,162.46545 c 0,13.87317 0,13.87317 0,13.87317"
+           id="path11066"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 89.004037,165.98376 C 77.187992,172.8203 77.187992,172.8203 77.187992,172.8203"
+           id="path11068"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path11070"
+           d="m 77.187992,165.98376 c 11.816045,6.83654 11.816045,6.83654 11.816045,6.83654"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g11179"
+       transform="matrix(0.26458333,0,0,0.26458333,-57.452338,-34.289993)">
+      <g
+         transform="translate(-10,-10)"
+         id="g11115">
+        <ellipse
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_devel-63.png"
+           ry="16.965948"
+           rx="17.186497"
+           cy="344.14328"
+           cx="-16.563683"
+           id="ellipse11100"
+           style="fill:#e7e8e9;fill-opacity:1;stroke:#e7e8e9;stroke-width:2.46800613;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <ellipse
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_devel-63.png"
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.72379553;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="ellipse11102"
+           cx="-16.686447"
+           cy="344.04892"
+           rx="14.108894"
+           ry="13.473366" />
+        <g
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_devel-63.png"
+           transform="matrix(0.24461139,0,0,0.2384595,-24.074987,332.68086)"
+           style="fill:#e7e8e9;fill-opacity:1"
+           id="g11108">
+          <title
+             id="title11104">Unlock Alt</title>
+          <path
+             style="fill:#e7e8e9"
+             inkscape:connector-curvature="0"
+             transform="matrix(0.05,0,0,-0.05,0,76.8)"
+             d="m 1056,768 q 40,0 68,-28 28,-28 28,-68 V 96 Q 1152,56 1124,28 1096,0 1056,0 H 96 Q 56,0 28,28 0,56 0,96 v 576 q 0,40 28,68 28,28 68,28 h 32 v 320 q 0,185 131.5,316.5 Q 391,1536 576,1536 761,1536 892.5,1404.5 1024,1273 1024,1088 q 0,-26 -19,-45 -19,-19 -45,-19 h -64 q -26,0 -45,19 -19,19 -19,45 0,106 -75,181 -75,75 -181,75 -106,0 -181,-75 -75,-75 -75,-181 V 768 Z"
+             id="path11106" />
+        </g>
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g11184"
+       transform="matrix(0.26458333,0,0,0.26458333,-57.981505,-33.590575)">
+      <ellipse
+         ry="16.965948"
+         rx="17.186497"
+         cy="281.43021"
+         cx="-24.563683"
+         id="ellipse11117"
+         style="fill:#e7e8e9;fill-opacity:1;stroke:#e7e8e9;stroke-width:2.46800613;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_devel-63.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <ellipse
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.72379553;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="ellipse11119"
+         cx="-24.686447"
+         cy="281.33585"
+         rx="14.108894"
+         ry="13.473366"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_devel-63.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#e7e8e9;fill-opacity:1;stroke:none;stroke-opacity:1"
+         d="m -25.119407,274.96914 q 0.339351,-0.3256 0.804819,-0.31598 0.465468,0.01 0.791072,0.34897 0.325604,0.33936 0.315982,0.80482 -0.0096,0.46547 -0.348974,0.79108 -0.339351,0.3256 -0.804819,0.31598 -0.465469,-0.01 -0.791073,-0.34898 -0.325604,-0.33935 -0.315981,-0.80482 0.0096,-0.46546 0.348974,-0.79107 z m 0.619943,-4.24471 q -2.112459,2.02688 -3.037685,4.14484 -0.925227,2.11795 -0.994884,5.08514 -0.01935,1.33839 0.09418,3.08699 l -3.052547,3.25477 q -0.11946,0.14721 -0.09034,0.34739 l 1.225434,5.08115 q 0.02304,0.0919 0.09631,0.1683 0.09768,0.1018 0.263576,0.12186 l 1.063928,0.022 q 0.224594,-0.004 0.336601,-0.19261 l 1.649612,-2.96779 4.671308,0.0966 1.525547,3.03343 q 0.01594,0.0336 0.06478,0.0845 0.113962,0.11878 0.263576,0.12187 l 1.063928,0.022 q 0.299573,-0.0104 0.371568,-0.27504 l 1.434385,-5.02616 q 0.03737,-0.1988 -0.0759,-0.35082 l -2.915423,-3.37816 q 0.1857,-1.74241 0.221678,-3.08046 0.05613,-3.11715 -0.725343,-5.13733 -0.78147,-2.02019 -2.906036,-4.23446 -0.113961,-0.11877 -0.275958,-0.12628 -0.161997,-0.007 -0.272286,0.0983 z"
+         id="path11121"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_devel-63.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       style="display:inline"
+       id="g11171"
+       transform="matrix(0.26458333,0,0,0.26458333,-54.806505,-33.590575)">
+      <ellipse
+         ry="16.965948"
+         rx="17.186497"
+         cy="434.66504"
+         cx="-36.563683"
+         id="ellipse11123"
+         style="fill:#e7e8e9;fill-opacity:1;stroke:#e7e8e9;stroke-width:2.46800613;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_devel-63.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <ellipse
+         ry="13.473366"
+         rx="14.108894"
+         cy="434.57074"
+         cx="-36.686447"
+         id="ellipse11125"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.72379553;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_devel-63.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         transform="matrix(0.25776158,0,0,0.25127895,-41.807041,423.40337)"
+         style="fill:#e7e8e9;fill-opacity:1;stroke:none;stroke-width:2.09830713;stroke-opacity:1"
+         id="g11131"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/release_cycle-active_devel-63.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <title
+           id="title11127">code-fork</title>
+        <path
+           style="fill:#e7e8e9;fill-opacity:1;stroke:none;stroke-width:2.09830713"
+           transform="matrix(0.05,0,0,-0.05,0,76.8)"
+           d="m 288,64 q 0,40 -28,68 -28,28 -68,28 -40,0 -68,-28 -28,-28 -28,-68 0,-40 28,-68 28,-28 68,-28 40,0 68,28 28,28 28,68 z m 0,1152 q 0,40 -28,68 -28,28 -68,28 -40,0 -68,-28 -28,-28 -28,-68 0,-40 28,-68 28,-28 68,-28 40,0 68,28 28,28 28,68 z m 640,-128 q 0,40 -28,68 -28,28 -68,28 -40,0 -68,-28 -28,-28 -28,-68 0,-40 28,-68 28,-28 68,-28 40,0 68,28 28,28 28,68 z m 96,0 q 0,-52 -26,-96.5 Q 972,947 928,922 926,635 702,508 634,470 499,427 371,387 329.5,356 288,325 288,256 v -26 q 44,-25 70,-69.5 26,-44.5 26,-96.5 0,-80 -56,-136 -56,-56 -136,-56 -80,0 -136,56 Q 0,-16 0,64 0,116 26,160.5 52,205 96,230 v 820 q -44,25 -70,69.5 -26,44.5 -26,96.5 0,80 56,136 56,56 136,56 80,0 136,-56 56,-56 56,-136 0,-52 -26,-96.5 Q 332,1075 288,1050 V 553 q 54,26 154,57 55,17 87.5,29.5 32.5,12.5 70.5,31 38,18.5 59,39.5 21,21 40.5,51 19.5,30 28,69.5 8.5,39.5 8.5,91.5 -44,25 -70,69.5 -26,44.5 -26,96.5 0,80 56,136 56,56 136,56 80,0 136,-56 56,-56 56,-136 z"
+           id="path11129"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>
