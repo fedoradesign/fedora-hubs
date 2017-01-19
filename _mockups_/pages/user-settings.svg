@@ -1211,6 +1211,26 @@
        y1="-107.63782"
        x2="649"
        y2="-188.644" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9388"
+       id="linearGradient25726"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.6753028,0,0,1.5822223,-2226.7816,1360.8259)"
+       x1="1272.5718"
+       y1="622.91937"
+       x2="1272.5718"
+       y2="675.2453" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9179"
+       id="linearGradient25728"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.58574988,0,0,1.2577391,-390.4753,2533.5844)"
+       x1="649"
+       y1="-107.63782"
+       x2="649"
+       y2="-188.644" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1220,8 +1240,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="983.68467"
-     inkscape:cy="587.29599"
+     inkscape:cx="939.84405"
+     inkscape:cy="988.30104"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1254,17 +1274,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(1351.6685,-621.28662)">
-    <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-       transform="scale(-1,1)"
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#e5e5e5;stroke-width:1.54931056;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect25163"
-       width="1070.4507"
-       height="45.450691"
-       x="-107.55684"
-       y="973.92529" />
     <path
        inkscape:connector-curvature="0"
        id="path25734"
@@ -4225,7 +4234,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.03223991px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:1.201612">Communication</tspan></text>
     <g
        id="g25157"
-       transform="translate(823.63071,438.02952)">
+       transform="translate(823.63071,446.02952)">
       <rect
          style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1.87223029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect38151"
@@ -4264,7 +4273,7 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9191246px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="-928.3454"
-       y="1022.2947"
+       y="1030.4587"
        id="text25151"
        sodipodi:linespacing="120%"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
@@ -4273,7 +4282,7 @@
          sodipodi:role="line"
          id="tspan25149"
          x="-928.3454"
-         y="1022.2947"
+         y="1030.4587"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1">Enable chat</tspan></text>
     <text
        inkscape:export-ydpi="90"
@@ -4281,14 +4290,14 @@
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
        sodipodi:linespacing="120%"
        id="text25173"
-       y="1022.2947"
-       x="-785.2793"
+       y="1030.4587"
+       x="-777.43994"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9191246px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"
        transform="scale(1.0205068,0.97990528)"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;fill-opacity:1"
-         y="1022.2947"
-         x="-785.2793"
+         y="1030.4587"
+         x="-777.43994"
          id="tspan25171"
          sodipodi:role="line">Enables chat functionality in hubs, including hub team and private messaging.</tspan></text>
     <rect
@@ -5012,7 +5021,7 @@
        transform="scale(1.0205068,0.97990528)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9191246px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       x="-775.4801"
+       x="-771.56042"
        y="2081.5818"
        id="text25443"
        sodipodi:linespacing="120%"
@@ -5021,7 +5030,7 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan25441"
-         x="-775.4801"
+         x="-771.56042"
          y="2081.5818"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;fill-opacity:1">Email address associated with your chat nickname. </tspan></text>
     <text
@@ -5082,5 +5091,872 @@
          y="1998.3025"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.9118576px;line-height:120.00000477%;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#db3279;fill-opacity:1;stroke-width:0.99999994"
          id="tspan25467">for new nick registration?</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       transform="scale(-1,1)"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#e5e5e5;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect25469"
+       width="1142"
+       height="55"
+       x="-178.8315"
+       y="2690.6506" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path25471"
+       d="m -1351.6685,2587.5724 v -101.2707 -12.6588 -44.306 h 1630 v 44.306 12.6588 101.2707 z"
+       style="display:inline;fill:#f3f3f3;fill-opacity:1;stroke:none;stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path25473"
+       d="M -1350.4289,2586.8369 H 278.3315"
+       style="fill:none;fill-rule:evenodd;stroke:#e5e5e5;stroke-width:1.11334813;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#e5e5e5;stroke-width:1.10400784;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -967.05404,2591.7224 v -29.9334 -3.7417 -13.0959 h 148.87572 v 13.0959 3.7417 29.9334 z"
+       id="path25475"
+       inkscape:connector-curvature="0" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       sodipodi:linespacing="120%"
+       id="text25479"
+       y="2576.1992"
+       x="-948.35675"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.58144379px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.58144379px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3c6eb4;stroke-width:0.26458332"
+         y="2576.1992"
+         x="-948.35675"
+         id="tspan25477"
+         sodipodi:role="line">Basic Settings</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.58144379px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-789.33307"
+       y="2574.1992"
+       id="text25483"
+       sodipodi:linespacing="120%"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan25481"
+         x="-789.33307"
+         y="2574.1992"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.58144379px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3c6eb4;fill-opacity:1;stroke-width:0.26458332">Another Tab for Other Settings</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path25485"
+       d="m -960.66853,2587.3369 v 15.36 1.92 6.72 h 142.00003 v -6.72 -1.92 -15.36 z"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332" />
+    <rect
+       y="-3142.0547"
+       x="-1299.0908"
+       height="678.47607"
+       width="289.08359"
+       id="rect25487"
+       style="display:inline;fill:#fcfcfc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       transform="scale(1,-1)"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       transform="matrix(1.2278333,0,0,1.1789832,-2058.5303,2041.8505)"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot25495"
+       xml:space="preserve"><flowRegion
+         id="flowRegion25491"
+         style="line-height:120.00000477%"><rect
+           style="line-height:120.00000477%;fill:#404040;fill-opacity:1"
+           y="395.88855"
+           x="679.85834"
+           height="21.320848"
+           width="173.09779"
+           id="rect25489" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.54502678px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#404040;fill-opacity:1"
+         id="flowPara25493">My Stream</flowPara></flowRoot>    <flowRoot
+       transform="matrix(1.2278333,0,0,1.1789832,-2058.5302,2099.9001)"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot25503"
+       xml:space="preserve"><flowRegion
+         id="flowRegion25499"
+         style="line-height:120.00000477%"><rect
+           style="line-height:120.00000477%;fill:#404040;fill-opacity:1"
+           y="395.88855"
+           x="679.85834"
+           height="25.064938"
+           width="210.00319"
+           id="rect25497" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.54502678px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#404040;fill-opacity:1"
+         id="flowPara25501">designteam</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot25511"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.2278333,0,0,1.1789832,-2058.53,2161.009)"><flowRegion
+         id="flowRegion25507"
+         style="line-height:120.00000477%"><rect
+           id="rect25505"
+           width="173.09779"
+           height="21.320848"
+           x="679.85834"
+           y="395.88855"
+           style="line-height:120.00000477%;fill:#404040;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara25509"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.54502678px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#404040;fill-opacity:1">ambassadors</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot25519"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.2278333,0,0,1.1789832,-2058.5303,2222.2613)"><flowRegion
+         id="flowRegion25515"
+         style="line-height:120.00000477%"><rect
+           id="rect25513"
+           width="173.09779"
+           height="21.320848"
+           x="679.85834"
+           y="395.88855"
+           style="line-height:120.00000477%;fill:#404040;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara25517"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.54502678px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#404040;fill-opacity:1">marketing</flowPara></flowRoot>    <use
+       style="fill:#808080"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       transform="matrix(0.23749278,0,0,0.23749278,-1259.7479,2938.4556)"
+       xlink:href="#briefcase"
+       id="use25521" />
+    <use
+       style="fill:#808080"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       transform="matrix(0.21572261,0,0,0.21572261,-1259.9328,2568.0036)"
+       xlink:href="#users"
+       id="use25523" />
+    <use
+       style="fill:#808080"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       transform="matrix(0.24440124,0,0,0.24440124,-1256.2199,2814.1442)"
+       xlink:href="#rss"
+       id="use25525" />
+    <use
+       style="fill:#808080"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       transform="matrix(0.31013094,0,0,0.31013094,-1263.3755,2503.5939)"
+       xlink:href="#home"
+       id="use25527" />
+    <use
+       id="use25529"
+       xlink:href="#users"
+       transform="matrix(0.21572261,0,0,0.21572261,-1259.9328,2630.0036)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       style="fill:#808080" />
+    <use
+       style="fill:#808080"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       transform="matrix(0.21572261,0,0,0.21572261,-1259.9328,2692.0036)"
+       xlink:href="#users"
+       id="use25531" />
+    <flowRoot
+       transform="matrix(1.2278333,0,0,1.1789832,-2058.53,2285.009)"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot25539"
+       xml:space="preserve"><flowRegion
+         id="flowRegion25535"
+         style="line-height:120.00000477%"><rect
+           style="line-height:120.00000477%;fill:#404040;fill-opacity:1"
+           y="395.88855"
+           x="679.85834"
+           height="21.320848"
+           width="173.09779"
+           id="rect25533" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.54502678px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#404040;fill-opacity:1"
+         id="flowPara25537">LATAM</flowPara></flowRoot>    <flowRoot
+       transform="matrix(1.2278333,0,0,1.1789832,-2058.5303,2346.2613)"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot25547"
+       xml:space="preserve"><flowRegion
+         id="flowRegion25543"
+         style="line-height:120.00000477%"><rect
+           style="line-height:120.00000477%;fill:#404040;fill-opacity:1"
+           y="395.88855"
+           x="679.85834"
+           height="21.320848"
+           width="173.09779"
+           id="rect25541" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.54502678px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#404040;fill-opacity:1"
+         id="flowPara25545">planet</flowPara></flowRoot>    <use
+       style="fill:#808080"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       transform="matrix(0.21572261,0,0,0.21572261,-1259.9328,2754.0036)"
+       xlink:href="#users"
+       id="use25549" />
+    <flowRoot
+       transform="matrix(1.2278333,0,0,1.1789832,-2058.53,2409.009)"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot25557"
+       xml:space="preserve"><flowRegion
+         id="flowRegion25553"
+         style="line-height:120.00000477%"><rect
+           style="line-height:120.00000477%;fill:#404040;fill-opacity:1"
+           y="395.88855"
+           x="679.85834"
+           height="21.320848"
+           width="173.09779"
+           id="rect25551" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.54502678px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#404040;fill-opacity:1"
+         id="flowPara25555">announce</flowPara></flowRoot>    <flowRoot
+       transform="matrix(1.2278333,0,0,1.1789832,-2058.5303,2470.2613)"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot25565"
+       xml:space="preserve"><flowRegion
+         id="flowRegion25561"
+         style="line-height:120.00000477%"><rect
+           style="line-height:120.00000477%;fill:#404040;fill-opacity:1"
+           y="395.88855"
+           x="679.85834"
+           height="21.320848"
+           width="173.09779"
+           id="rect25559" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.54502678px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#404040;fill-opacity:1"
+         id="flowPara25563">fedoranext</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot25573"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.2278333,0,0,1.1789832,-2058.53,2533.009)"><flowRegion
+         id="flowRegion25569"
+         style="line-height:120.00000477%"><rect
+           id="rect25567"
+           width="173.09779"
+           height="21.320848"
+           x="679.85834"
+           y="395.88855"
+           style="line-height:120.00000477%;fill:#404040;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara25571"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.54502678px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#404040;fill-opacity:1">welcome</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot25581"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.2278333,0,0,1.1789832,-2058.5303,2594.2613)"><flowRegion
+         id="flowRegion25577"
+         style="line-height:120.00000477%"><rect
+           id="rect25575"
+           width="173.09779"
+           height="21.320848"
+           x="679.85834"
+           y="395.88855"
+           style="line-height:120.00000477%;fill:#404040;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara25579"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.54502678px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#404040;fill-opacity:1">badges</flowPara></flowRoot>    <use
+       id="use25583"
+       xlink:href="#users"
+       transform="matrix(0.21572261,0,0,0.21572261,-1259.9328,3002.0036)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       style="fill:#808080" />
+    <use
+       id="use25585"
+       xlink:href="#rss"
+       transform="matrix(0.24440124,0,0,0.24440124,-1256.2199,2876.1442)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       style="fill:#808080" />
+    <use
+       id="use25587"
+       xlink:href="#briefcase"
+       transform="matrix(0.23749278,0,0,0.23749278,-1259.7479,3060.4556)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       style="fill:#808080" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       y="2341.2866"
+       x="-1351.5269"
+       height="89"
+       width="1628.8151"
+       id="rect25589"
+       style="display:inline;fill:url(#linearGradient25726);fill-opacity:1;stroke:none;stroke-width:0.26458332" />
+    <text
+       transform="scale(1.0205068,0.97990528)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:23.35717201px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="111.82581"
+       y="2443.7119"
+       id="text25593"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan25591"
+         x="111.82581"
+         y="2443.7119"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.04740334px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.26458332">tatica</tspan></text>
+    <image
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       y="2365.7534"
+       x="62.626534"
+       id="image25595"
+       xlink:href="data:image/png;base64,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 "
+       height="40"
+       width="40"
+       style="display:inline" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#d1d3d4;stroke-width:1.01417339;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect25597"
+       width="598.98584"
+       height="38.985828"
+       x="-593.16138"
+       y="2365.844" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       y="2365.8928"
+       x="-34.157707"
+       height="39.467815"
+       width="39.467815"
+       id="rect25599"
+       style="display:inline;fill:url(#linearGradient25728);fill-opacity:1;stroke:#60605b;stroke-width:0.53218395;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       style="display:inline;fill:#000000;fill-opacity:0;stroke:#58595b"
+       transform="matrix(0.8370211,0,0,0.85434123,-1300.2684,2474.7123)"
+       id="g25607">
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#58595b"
+         transform="matrix(0.76432249,0,0,0.76432249,42.62109,-21.784362)"
+         id="g25605">
+        <path
+           inkscape:connector-curvature="0"
+           id="path25601"
+           d="m 166.4303,-106.42679 10.58555,10.475053"
+           style="fill:#000000;fill-opacity:0;stroke:#58595b;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:#000000;fill-opacity:0;stroke:#58595b;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 185.01585,-106.42679 174.4303,-95.951737"
+           id="path25603"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       id="g25611"
+       transform="matrix(2.4947209,0.7902209,-0.82296303,2.3954668,-180.1271,2108.5453)"
+       style="display:inline">
+      <path
+         d="m 93.279357,80.781612 c -1.493287,0.110109 -2.73906,1.321317 -2.812904,2.779504 -0.07749,1.53057 1.168739,2.79135 2.759117,2.79135 0.779463,0 1.505594,-0.296112 2.053041,-0.784368 0.0278,0.07896 0.07749,0.154855 0.132646,0.219342 0.05014,0.05615 0.114868,0.110548 0.184154,0.149592 l 1.861139,1.107239 c 0.353721,0.210569 0.831427,0.09695 1.067545,-0.25356 0.236118,-0.350509 0.141306,-0.804547 -0.211959,-1.015116 l -1.861595,-1.107239 c -0.125808,-0.07765 -0.273952,-0.1202 -0.425742,-0.115374 0.13766,-0.307079 0.212415,-0.644866 0.230192,-0.991866 0.07703,-1.530131 -1.157798,-2.779504 -2.747721,-2.779504 -0.07475,0 -0.154525,-0.0053 -0.227913,0 z m 0.09983,1.107239 c 0.02279,-8.65e-4 0.04923,0 0.07202,0 0.967719,0 1.700232,0.741377 1.653282,1.672265 -0.04741,0.931327 -0.85513,1.672704 -1.822394,1.672704 -0.967719,0 -1.700232,-0.741377 -1.653282,-1.672704 0.04604,-0.908954 0.813194,-1.638486 1.750373,-1.672265 z"
+         style="color:#000000;fill:#ffffff;fill-rule:evenodd"
+         id="path25609"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="translate(0,1720)"
+       id="g25627">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40.83515549px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#888b8f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-1217.0281"
+         y="692.44971"
+         id="text25615"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         transform="scale(1.0205068,0.97990528)"><tspan
+           sodipodi:role="line"
+           id="tspan25613"
+           x="-1217.0281"
+           y="692.44971"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.55213356px;line-height:120.00000477%;font-family:comfortaa;-inkscape-font-specification:comfortaa;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888b8f;fill-opacity:1;stroke-width:0.26458332">hubs</tspan></text>
+      <g
+         style="display:inline"
+         id="g25625"
+         transform="matrix(0.2993864,0,0,0.28747511,-1495.3615,618.86316)"
+         inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:expanded;font-size:11.72808552px;line-height:89.99999762%;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold Expanded';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3c6eb4;fill-opacity:1;stroke:none"
+           id="path25617"
+           d="m 799.33773,208.89468 v 4.61564 c 0,0.30924 -0.18707,0.49631 -0.5612,0.56121 h -0.0401 c -0.31687,0 -0.51158,-0.19661 -0.58411,-0.58984 v -7.3186 c 0.0458,-0.42376 0.22524,-0.63564 0.5383,-0.63565 h 0.0859 c 0.31687,10e-6 0.52875,0.22525 0.63565,0.67574 l 2.62851,5.87549 c 0.0344,-0.13362 0.61083,-1.47555 1.72944,-4.0258 l 1.0766,-2.31927 c 0.12979,-0.13743 0.27105,-0.20615 0.42377,-0.20616 h 0.0859 c 0.31304,10e-6 0.49248,0.21189 0.5383,0.63565 v 7.3186 c -0.0725,0.39323 -0.26725,0.58984 -0.58412,0.58984 h -0.0401 c -0.37415,-0.0649 -0.56122,-0.25197 -0.56121,-0.56121 v -4.62136 c -1.4202,3.21453 -2.16275,4.87334 -2.22765,4.97641 -0.15653,0.13744 -0.30924,0.20616 -0.45813,0.20616 -0.33596,0 -0.61275,-0.33978 -0.83036,-1.01933 l -1.85542,-4.15752 m -7.79387,-3.39015 h 5.3601 c 0.36268,0.0687 0.54402,0.2558 0.54402,0.56121 v 0.0859 c 0,0.31306 -0.21189,0.49249 -0.63565,0.5383 h -1.99286 v 6.82038 c 0,0.30924 -0.19089,0.49631 -0.57266,0.56121 h -0.0286 c -0.31688,0 -0.51158,-0.19661 -0.58411,-0.58984 v -6.79175 h -2.03867 c -0.39323,-0.0763 -0.58985,-0.28251 -0.58985,-0.61847 0.084,-0.37795 0.26343,-0.56693 0.53831,-0.56694"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#294172;fill-opacity:1"
+           id="path25619"
+           d="m 807.77586,159.90439 c 0,-33.08386 -26.81923,-59.90405 -59.90309,-59.90405 -33.06851,0 -59.87718,26.79812 -59.90117,59.86183 l -0.002,-0.002 v 46.35579 l 0.002,0.002 c 0.0182,7.50719 6.10631,13.58472 13.61831,13.58472 0.0211,0 0.0422,-0.002 0.0643,-0.002 l 0.004,0.002 h 46.23777 v 0 c 33.07426,-0.0134 59.88006,-26.82403 59.88006,-59.89829 z"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#3c6eb4;fill-opacity:1"
+           id="path25621"
+           d="m 765.46056,114.20011 c -15.52773,0 -28.11456,12.58684 -28.11456,28.11456 0,0.006 0,0.0125 0,0.0202 v 14.88103 h -14.83401 c -0.003,0 -0.003,0 -0.005,0 -15.52869,0 -28.11457,12.52542 -28.11457,28.05123 0,15.52773 12.58588,28.11553 28.11457,28.11553 15.52677,0 28.11456,-12.58876 28.11456,-28.11553 0,-0.005 0,-0.0125 0,-0.0182 v -14.94435 h 14.83305 c 0.003,0 0.005,0 0.006,0 15.52677,0 28.11457,-12.4621 28.11457,-27.98983 0,-15.52772 -12.5878,-28.11456 -28.11457,-28.11456 z m -28.1136,71.09192 c -0.0134,8.18365 -6.65324,14.81577 -14.83881,14.81577 -8.19516,0 -14.90021,-6.64459 -14.90021,-14.83976 0,-8.19612 6.70505,-14.9645 14.90021,-14.9645 0.008,0 0.0144,0.002 0.0201,0.002 h 12.71445 c 0.004,0 0.007,-0.002 0.01,-0.002 1.15717,0 2.09653,0.93649 2.09653,2.09365 0,9.6e-4 -9.6e-4,0.003 -9.6e-4,0.005 v 12.89004 h -9.6e-4 z m 28.11264,-28.07714 c -0.005,0 -0.01,0 -0.0144,0 h -12.72308 c -0.002,0 -0.006,0 -0.006,0 -1.15909,0 -2.09557,-0.9384 -2.09557,-2.09557 v -0.002 -12.82767 c 0.0144,-8.18653 6.65228,-14.81578 14.83784,-14.81578 8.19613,0 14.90213,6.64364 14.90213,14.84072 0.002,8.19517 -6.70504,14.90022 -14.90117,14.90022 z"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ffffff"
+           id="path25623"
+           d="m 737.34696,157.21489 v -14.88102 c 0,-0.008 0,-0.0144 0,-0.0202 0,-15.52773 12.58683,-28.11457 28.11456,-28.11457 2.35656,0 4.02994,0.26387 6.21186,0.83573 3.17885,0.83286 5.77624,3.43792 5.7772,6.47093 9.6e-4,3.66532 -2.65975,6.32988 -6.63596,6.32988 -1.89503,0 -2.57916,-0.3627 -5.35406,-0.3627 -8.18557,0 -14.82345,6.62925 -14.83784,14.81578 v 12.82767 0.002 c 0,1.15717 0.93648,2.09557 2.09557,2.09557 0,0 0.004,0 0.006,0 h 9.74382 c 3.63174,0 6.56304,2.90539 6.56591,6.54577 0,3.64325 -2.93513,6.54289 -6.56591,6.54289 h -11.84514 v 14.94434 c 0,0.006 0,0.0134 0,0.0202 0,15.52581 -12.58779,28.11361 -28.11457,28.11361 -2.35559,0 -4.02993,-0.26578 -6.2109,-0.83573 -3.17885,-0.8319 -5.7772,-3.43888 -5.77816,-6.47093 0,-3.66532 2.65976,-6.33084 6.63693,-6.33084 1.89311,0 2.57915,0.36366 5.35213,0.36366 8.18557,0 14.82537,-6.63021 14.83977,-14.81578 0,0 0,-12.89388 0,-12.89388 0,-1.15525 -0.93936,-2.09173 -2.09653,-2.09173 -0.002,0 -0.003,0 -0.006,0 l -9.74285,-0.002 c -3.63174,0 -6.56688,-2.89771 -6.56688,-6.53905 -0.002,-3.66436 2.96489,-6.5496 6.63597,-6.5496 h 11.77509 v 0 z"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <text
+       transform="scale(1.0205068,0.97990528)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       sodipodi:linespacing="125%"
+       id="text25631"
+       y="2441.645"
+       x="-567.83771"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.87386513px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan25629"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.61560631px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#a7a9ac;stroke-width:0.26458332"
+         y="2441.645"
+         x="-567.83771"
+         sodipodi:role="line">Search across hubs...</tspan></text>
+    <g
+       id="g25639"
+       transform="matrix(0.8370211,0,0,0.85434123,37.7316,2476.7123)"
+       style="display:inline;fill:#000000;fill-opacity:0;stroke:#58595b"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g25637"
+         transform="matrix(0.76432249,0,0,0.76432249,42.62109,-21.784362)"
+         style="fill:#000000;fill-opacity:0;stroke:#58595b">
+        <path
+           style="fill:#000000;fill-opacity:0;stroke:#58595b;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 166.4303,-106.42679 10.58555,10.475053"
+           id="path25633"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path25635"
+           d="M 185.01585,-106.42679 174.4303,-95.951737"
+           style="fill:#000000;fill-opacity:0;stroke:#58595b;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       transform="matrix(1.1510937,0,0,1.1052967,111.2174,2456.7513)"
+       id="g25649"
+       style="display:inline">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+         rx="7.375"
+         ry="8"
+         y="68.637817"
+         x="-60.25"
+         height="16"
+         width="22.25"
+         id="rect25642"
+         style="fill:#3c6eb4;fill-opacity:1;stroke:none"
+         transform="scale(-1)" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.59675121px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#60605b;fill-opacity:1;stroke:none"
+         x="42.518482"
+         y="-72.789841"
+         id="text25646"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan25644"
+           x="42.518482"
+           y="-72.789841"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.59675121px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">18</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.96565056px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="-942.20081"
+       y="2543.4773"
+       id="text25654"
+       sodipodi:linespacing="120%"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="scale(1.0205068,0.97990528)"><tspan
+         sodipodi:role="line"
+         id="tspan25651"
+         x="-942.20081"
+         y="2543.4773"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.62087059px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.78310341">My Settings</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       sodipodi:linespacing="120%"
+       id="text25658"
+       y="2573.4663"
+       x="-942.06396"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9191246px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       transform="scale(1.0205068,0.97990528)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+         y="2573.4663"
+         x="-942.06396"
+         id="tspan25656"
+         sodipodi:role="line">Configure your hubs experience the way you'd like it.</tspan></text>
+    <text
+       transform="scale(1.0205068,0.97990528)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.72538757px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.201612"
+       x="-942.31006"
+       y="2719.2969"
+       id="text25662"
+       sodipodi:linespacing="120%"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan25660"
+         x="-942.31006"
+         y="2719.2969"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.03223991px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:1.201612">Communication</tspan></text>
+    <text
+       transform="scale(1.0205068,0.97990528)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9191246px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="-928.3454"
+       y="2779.6091"
+       id="text25676"
+       sodipodi:linespacing="120%"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan25674"
+         x="-928.3454"
+         y="2779.6091"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1">Enable chat</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       sodipodi:linespacing="120%"
+       id="text25681"
+       y="2779.6091"
+       x="-775.4801"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9191246px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       transform="scale(1.0205068,0.97990528)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;fill-opacity:1"
+         y="2779.6091"
+         x="-775.4801"
+         id="tspan25678"
+         sodipodi:role="line">Enables chat functionality in hubs.</tspan></text>
+    <rect
+       y="2744.6506"
+       x="-178.8315"
+       height="103"
+       width="1142"
+       id="rect25683"
+       style="display:inline;fill:#fcfcfc;fill-opacity:1;stroke:#e5e5e5;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       sodipodi:linespacing="120%"
+       id="text25687"
+       y="2828.5935"
+       x="-928.3454"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9191246px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;stroke:none;"
+       xml:space="preserve"
+       transform="scale(1.0205068,0.97990528)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;"
+         y="2828.5935"
+         x="-928.3454"
+         id="tspan25685"
+         sodipodi:role="line">Chat nickname</tspan></text>
+    <text
+       transform="scale(1.0205068,0.97990528)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9191246px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;stroke:none;"
+       x="-775.4801"
+       y="2828.5935"
+       id="text25691"
+       sodipodi:linespacing="120%"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan25689"
+         x="-775.4801"
+         y="2828.5935"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;">Name displayed for you while in a chat room.</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       sodipodi:linespacing="120%"
+       id="text25695"
+       y="2830.6345"
+       x="-195.3765"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9191246px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;stroke:none;"
+       xml:space="preserve"
+       transform="scale(1.0205068,0.97990528)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;"
+         y="2830.6345"
+         x="-195.3765"
+         id="tspan25693"
+         sodipodi:role="line">tatica</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       transform="scale(-1,1)"
+       style="display:inline;fill:#fcfcfc;fill-opacity:1;stroke:#e5e5e5;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect25697"
+       width="1142"
+       height="55"
+       x="-178.8315"
+       y="2846.6506" />
+    <text
+       transform="scale(1.0205068,0.97990528)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9191246px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;stroke:none;"
+       x="-928.3454"
+       y="2938.8083"
+       id="text25701"
+       sodipodi:linespacing="120%"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan25699"
+         x="-928.3454"
+         y="2938.8083"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;">Chat email</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       sodipodi:linespacing="120%"
+       id="text25705"
+       y="2938.8083"
+       x="-771.56042"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9191246px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;stroke:none;"
+       xml:space="preserve"
+       transform="scale(1.0205068,0.97990528)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;"
+         y="2938.8083"
+         x="-771.56042"
+         id="tspan25703"
+         sodipodi:role="line">Email address associated with your chat nickname. </tspan></text>
+    <text
+       transform="scale(1.0205068,0.97990528)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9191246px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;stroke:none;"
+       x="-195.37651"
+       y="2938.8083"
+       id="text25711"
+       sodipodi:linespacing="120%"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan25707"
+         x="-195.37651"
+         y="2938.8083"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;">tatica@anemailprovider.com</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       sodipodi:linespacing="120%"
+       id="text25718"
+       y="2857.1677"
+       x="-775.4801"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9191246px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;stroke:none;"
+       xml:space="preserve"
+       transform="scale(1.0205068,0.97990528)"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;"
+         y="2857.1677"
+         x="-775.4801"
+         id="tspan25713"
+         sodipodi:role="line">This nickname was registered to the Freenode chat </tspan><tspan
+         id="tspan25716"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;"
+         y="2879.4382"
+         x="-775.4801"
+         sodipodi:role="line">network on 19 January 2017.</tspan></text>
+    <g
+       transform="translate(583.63071,2158.0295)"
+       id="g25738">
+      <rect
+         transform="scale(-1,1)"
+         ry="13"
+         y="544.52112"
+         x="727.01349"
+         height="26"
+         width="59.285721"
+         id="rect25730"
+         style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1.87223029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         transform="scale(-1,1)"
+         r="6.7142859"
+         cy="557.52112"
+         cx="773.15607"
+         id="circle25732"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.04742622;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         transform="scale(1.0205068,0.97990527)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.9485693px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-744.30066"
+         y="572.9209"
+         id="text25736"
+         inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan25734"
+           x="-744.30066"
+           y="572.9209"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.13599682px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">OFF</tspan></text>
+    </g>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       transform="scale(-1,1)"
+       style="display:inline;fill:#fcfcfc;fill-opacity:1;stroke:#e5e5e5;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect25749"
+       width="1142"
+       height="55"
+       x="-178.8315"
+       y="1084.6506" />
+    <text
+       transform="scale(1.0205068,0.97990528)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9191246px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;stroke:none;"
+       x="-928.3454"
+       y="1140.6736"
+       id="text25753"
+       sodipodi:linespacing="120%"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan25751"
+         x="-928.3454"
+         y="1140.6736"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;">Chat email</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       sodipodi:linespacing="120%"
+       id="text25757"
+       y="1140.6736"
+       x="-771.56042"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9191246px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;stroke:none;"
+       xml:space="preserve"
+       transform="scale(1.0205068,0.97990528)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;"
+         y="1140.6736"
+         x="-771.56042"
+         id="tspan25755"
+         sodipodi:role="line">Email address associated with your chat nickname. </tspan></text>
+    <rect
+       y="1028.6506"
+       x="-178.8315"
+       height="55"
+       width="1142"
+       id="rect25761"
+       style="display:inline;fill:#fcfcfc;fill-opacity:1;stroke:#e5e5e5;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       sodipodi:linespacing="120%"
+       id="text25743"
+       y="1085.5662"
+       x="-928.3454"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9191246px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;stroke:none;"
+       xml:space="preserve"
+       transform="scale(1.0205068,0.97990528)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;"
+         y="1085.5662"
+         x="-928.3454"
+         id="tspan25741"
+         sodipodi:role="line">Chat nickname</tspan></text>
+    <text
+       transform="scale(1.0205068,0.97990528)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9191246px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;stroke:none;"
+       x="-775.4801"
+       y="1085.5662"
+       id="text25747"
+       sodipodi:linespacing="120%"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan25745"
+         x="-775.4801"
+         y="1085.5662"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;">Name displayed for you while in a chat room.</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       transform="scale(-1,1)"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#e5e5e5;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect25763"
+       width="1142"
+       height="55"
+       x="-178.8315"
+       y="972.65057" />
   </g>
 </svg>
