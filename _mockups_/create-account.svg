@@ -352,9 +352,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="5586.2184"
-     inkscape:cy="312.1318"
+     inkscape:zoom="1"
+     inkscape:cx="5071.7184"
+     inkscape:cy="258.1318"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -8251,32 +8251,32 @@
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/IRC/irc-email-password.png"
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="869.17737"
+       x="859.95892"
        y="0.20437331"
        id="text109368"><tspan
          sodipodi:role="line"
-         x="838.79218"
+         x="859.95892"
          y="0.20437331"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.51555538px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.26458332px;text-anchor:end;text-align:end"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.51555538px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;stroke-width:0.26458332px"
          id="tspan109366">Street Address</tspan></text>
     <text
        id="text109372"
-       y="10.787706"
-       x="846.37909"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:end;text-align:end;"
+       y="11.846039"
+       x="859.7583"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/IRC/irc-email-password.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          id="tspan109370"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.51555538px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.26458332px;text-anchor:end;text-align:end;"
-         y="10.787706"
-         x="838.79218"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.51555538px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;stroke-width:0.26458332px"
+         y="11.846039"
+         x="859.7583"
          sodipodi:role="line">City</tspan></text>
     <text
        id="text109376"
-       y="21.371038"
-       x="869.17737"
+       y="24.016874"
+       x="859.98761"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/IRC/irc-email-password.png"
@@ -8284,8 +8284,76 @@
        inkscape:export-ydpi="90"><tspan
          id="tspan109374"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.51555538px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;stroke-width:0.26458332px"
-         y="21.371038"
-         x="869.17737"
+         y="24.016874"
+         x="859.98761"
          sodipodi:role="line">State</tspan></text>
+    <rect
+       ry="0"
+       y="-5.9180994"
+       x="867.09424"
+       height="9.3133335"
+       width="94.826675"
+       id="rect12871"
+       style="fill:none;fill-opacity:1;stroke:#cecece;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       style="fill:none;fill-opacity:1;stroke:#cecece;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12900"
+       width="94.826675"
+       height="9.3133335"
+       x="867.09424"
+       y="6.2527337"
+       ry="0" />
+    <rect
+       ry="0"
+       y="18.395002"
+       x="867.06567"
+       height="9.328208"
+       width="60.223392"
+       id="rect12902"
+       style="fill:none;fill-opacity:1;stroke:#cecece;stroke-width:0.22508945;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/IRC/irc-email-password.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="891.24371"
+       y="38.568954"
+       id="text12930"><tspan
+         sodipodi:role="line"
+         x="891.24371"
+         y="38.568954"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.51555538px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;stroke-width:0.26458332px"
+         id="tspan12928">OR</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/IRC/irc-email-password.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="859.98761"
+       y="50.475212"
+       id="text12940"><tspan
+         sodipodi:role="line"
+         x="859.98761"
+         y="50.475212"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.51555538px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;stroke-width:0.26458332px"
+         id="tspan12938">Zip Code</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       style="fill:none;fill-opacity:1;stroke:#cecece;stroke-width:0.22508945;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12942"
+       width="60.223392"
+       height="9.328208"
+       x="867.06567"
+       y="44.895596"
+       ry="0" />
   </g>
 </svg>
