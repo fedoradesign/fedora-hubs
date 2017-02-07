@@ -4344,7 +4344,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
        transform="scale(-1,1)"
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#e5e5e5;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect25469"
@@ -4356,12 +4356,18 @@
        inkscape:connector-curvature="0"
        id="path25471"
        d="m -1351.6685,2669.5724 v -101.2707 -12.6588 -44.306 h 1630 v 44.306 12.6588 101.2707 z"
-       style="display:inline;fill:#f3f3f3;fill-opacity:1;stroke:none;stroke-width:0.26458332" />
+       style="display:inline;fill:#f3f3f3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        inkscape:connector-curvature="0"
        id="path25473"
        d="M -1350.4289,2668.8369 H 278.3315"
-       style="fill:none;fill-rule:evenodd;stroke:#e5e5e5;stroke-width:1.11334813;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;fill-rule:evenodd;stroke:#e5e5e5;stroke-width:1.11334813;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        y="-3224.0547"
        x="-1299.0908"
@@ -4370,14 +4376,17 @@
        id="rect25487"
        style="display:inline;fill:#fcfcfc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        transform="scale(1,-1)"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
        transform="matrix(1.2278333,0,0,1.1789832,-2058.5303,2123.8505)"
        style="font-style:normal;font-weight:normal;font-size:10px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot25495"
-       xml:space="preserve"><flowRegion
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion25491"
          style="line-height:120.00000477%"><rect
            style="line-height:120.00000477%;fill:#404040;fill-opacity:1"
@@ -4391,7 +4400,10 @@
        transform="matrix(1.2278333,0,0,1.1789832,-2058.5302,2181.9001)"
        style="font-style:normal;font-weight:normal;font-size:10px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot25503"
-       xml:space="preserve"><flowRegion
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion25499"
          style="line-height:120.00000477%"><rect
            style="line-height:120.00000477%;fill:#404040;fill-opacity:1"
@@ -4405,7 +4417,10 @@
        xml:space="preserve"
        id="flowRoot25511"
        style="font-style:normal;font-weight:normal;font-size:10px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(1.2278333,0,0,1.1789832,-2058.53,2243.009)"><flowRegion
+       transform="matrix(1.2278333,0,0,1.1789832,-2058.53,2243.009)"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion25507"
          style="line-height:120.00000477%"><rect
            id="rect25505"
@@ -4419,7 +4434,10 @@
        xml:space="preserve"
        id="flowRoot25519"
        style="font-style:normal;font-weight:normal;font-size:10px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(1.2278333,0,0,1.1789832,-2058.5303,2304.2613)"><flowRegion
+       transform="matrix(1.2278333,0,0,1.1789832,-2058.5303,2304.2613)"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion25515"
          style="line-height:120.00000477%"><rect
            id="rect25513"
@@ -4437,7 +4455,10 @@
        x="0"
        transform="matrix(0.23749278,0,0,0.23749278,-1259.7479,3020.4556)"
        xlink:href="#briefcase"
-       id="use25521" />
+       id="use25521"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <use
        style="fill:#808080"
        height="100%"
@@ -4446,7 +4467,10 @@
        x="0"
        transform="matrix(0.21572261,0,0,0.21572261,-1259.9328,2650.0036)"
        xlink:href="#users"
-       id="use25523" />
+       id="use25523"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <use
        style="fill:#808080"
        height="100%"
@@ -4455,7 +4479,10 @@
        x="0"
        transform="matrix(0.24440124,0,0,0.24440124,-1256.2199,2896.1442)"
        xlink:href="#rss"
-       id="use25525" />
+       id="use25525"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <use
        style="fill:#808080"
        height="100%"
@@ -4464,7 +4491,10 @@
        x="0"
        transform="matrix(0.31013094,0,0,0.31013094,-1263.3755,2585.5939)"
        xlink:href="#home"
-       id="use25527" />
+       id="use25527"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <use
        id="use25529"
        xlink:href="#users"
@@ -4473,7 +4503,10 @@
        y="0"
        width="100%"
        height="100%"
-       style="fill:#808080" />
+       style="fill:#808080"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <use
        style="fill:#808080"
        height="100%"
@@ -4482,12 +4515,18 @@
        x="0"
        transform="matrix(0.21572261,0,0,0.21572261,-1259.9328,2774.0036)"
        xlink:href="#users"
-       id="use25531" />
+       id="use25531"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <flowRoot
        transform="matrix(1.2278333,0,0,1.1789832,-2058.53,2367.009)"
        style="font-style:normal;font-weight:normal;font-size:10px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot25539"
-       xml:space="preserve"><flowRegion
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion25535"
          style="line-height:120.00000477%"><rect
            style="line-height:120.00000477%;fill:#404040;fill-opacity:1"
@@ -4501,7 +4540,10 @@
        transform="matrix(1.2278333,0,0,1.1789832,-2058.5303,2428.2613)"
        style="font-style:normal;font-weight:normal;font-size:10px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot25547"
-       xml:space="preserve"><flowRegion
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion25543"
          style="line-height:120.00000477%"><rect
            style="line-height:120.00000477%;fill:#404040;fill-opacity:1"
@@ -4519,12 +4561,18 @@
        x="0"
        transform="matrix(0.21572261,0,0,0.21572261,-1259.9328,2836.0036)"
        xlink:href="#users"
-       id="use25549" />
+       id="use25549"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <flowRoot
        transform="matrix(1.2278333,0,0,1.1789832,-2058.53,2491.009)"
        style="font-style:normal;font-weight:normal;font-size:10px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot25557"
-       xml:space="preserve"><flowRegion
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion25553"
          style="line-height:120.00000477%"><rect
            style="line-height:120.00000477%;fill:#404040;fill-opacity:1"
@@ -4538,7 +4586,10 @@
        transform="matrix(1.2278333,0,0,1.1789832,-2058.5303,2552.2613)"
        style="font-style:normal;font-weight:normal;font-size:10px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot25565"
-       xml:space="preserve"><flowRegion
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion25561"
          style="line-height:120.00000477%"><rect
            style="line-height:120.00000477%;fill:#404040;fill-opacity:1"
@@ -4552,7 +4603,10 @@
        xml:space="preserve"
        id="flowRoot25573"
        style="font-style:normal;font-weight:normal;font-size:10px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(1.2278333,0,0,1.1789832,-2058.53,2615.009)"><flowRegion
+       transform="matrix(1.2278333,0,0,1.1789832,-2058.53,2615.009)"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion25569"
          style="line-height:120.00000477%"><rect
            id="rect25567"
@@ -4566,7 +4620,10 @@
        xml:space="preserve"
        id="flowRoot25581"
        style="font-style:normal;font-weight:normal;font-size:10px;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(1.2278333,0,0,1.1789832,-2058.5303,2676.2613)"><flowRegion
+       transform="matrix(1.2278333,0,0,1.1789832,-2058.5303,2676.2613)"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion25577"
          style="line-height:120.00000477%"><rect
            id="rect25575"
@@ -4584,7 +4641,10 @@
        y="0"
        width="100%"
        height="100%"
-       style="fill:#808080" />
+       style="fill:#808080"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <use
        id="use25585"
        xlink:href="#rss"
@@ -4593,7 +4653,10 @@
        y="0"
        width="100%"
        height="100%"
-       style="fill:#808080" />
+       style="fill:#808080"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <use
        id="use25587"
        xlink:href="#briefcase"
@@ -4602,11 +4665,14 @@
        y="0"
        width="100%"
        height="100%"
-       style="fill:#808080" />
+       style="fill:#808080"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
        y="2423.2866"
        x="-1351.5269"
        height="89"
@@ -4617,7 +4683,7 @@
        transform="scale(1.0205068,0.97990528)"
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:23.35717201px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="111.82581"
@@ -4631,7 +4697,7 @@
     <image
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
        y="2447.7534"
        x="62.626534"
        id="image25595"
@@ -4642,7 +4708,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#d1d3d4;stroke-width:1.01417339;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect25597"
        width="598.98584"
@@ -4652,7 +4718,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
        y="2447.8928"
        x="-34.157707"
        height="39.467815"
@@ -4662,7 +4728,7 @@
     <g
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
        style="display:inline;fill:#000000;fill-opacity:0;stroke:#58595b"
        transform="matrix(0.8370211,0,0,0.85434123,-1300.2684,2556.7123)"
        id="g25607">
@@ -4685,7 +4751,7 @@
     <g
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
        id="g25611"
        transform="matrix(2.4947209,0.7902209,-0.82296303,2.3954668,-180.1271,2190.5453)"
        style="display:inline">
@@ -4697,7 +4763,10 @@
     </g>
     <g
        transform="translate(0,1802)"
-       id="g25627">
+       id="g25627"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:40.83515549px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#888b8f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -4746,7 +4815,7 @@
        transform="scale(1.0205068,0.97990528)"
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
        id="text25631"
        y="2525.3267"
        x="-567.83771"
@@ -4761,7 +4830,7 @@
        id="g25639"
        transform="matrix(0.8370211,0,0,0.85434123,37.7316,2558.7123)"
        style="display:inline;fill:#000000;fill-opacity:0;stroke:#58595b"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -4783,7 +4852,10 @@
     <g
        transform="matrix(1.1510937,0,0,1.1052967,111.2174,2538.7513)"
        id="g25649"
-       style="display:inline">
+       style="display:inline"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -4818,7 +4890,7 @@
        x="-942.20081"
        y="2627.1589"
        id="text25654"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        transform="scale(1.0205068,0.97990528)"><tspan
@@ -4830,7 +4902,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
        id="text25658"
        y="2657.1479"
        x="-942.06396"
@@ -4849,7 +4921,7 @@
        x="-942.31006"
        y="2907.0703"
        id="text25662"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -4864,7 +4936,7 @@
        x="-928.3454"
        y="2967.3826"
        id="text25676"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -4875,7 +4947,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
        id="text25681"
        y="2967.3826"
        x="-775.4801"
@@ -4895,13 +4967,13 @@
        id="rect25683"
        style="display:inline;fill:#fcfcfc;fill-opacity:1;stroke:#e5e5e5;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="scale(-1,1)"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
        id="text25687"
        y="3016.3669"
        x="-928.3454"
@@ -4920,7 +4992,7 @@
        x="-775.4801"
        y="3016.3669"
        id="text25691"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -4931,7 +5003,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
        id="text25695"
        y="3018.408"
        x="-195.3765"
@@ -4946,7 +5018,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
        transform="scale(-1,1)"
        style="display:inline;fill:#fcfcfc;fill-opacity:1;stroke:#e5e5e5;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect25697"
@@ -4961,7 +5033,7 @@
        x="-928.3454"
        y="3126.5818"
        id="text25701"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -4972,7 +5044,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
        id="text25705"
        y="3126.5818"
        x="-771.56042"
@@ -4991,7 +5063,7 @@
        x="-195.37651"
        y="3126.5818"
        id="text25711"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -5002,7 +5074,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
        id="text25718"
        y="3044.9412"
        x="-775.4801"
@@ -5021,7 +5093,10 @@
          sodipodi:role="line">network on 19 January 2017.</tspan></text>
     <g
        transform="translate(583.63071,2342.0295)"
-       id="g25738">
+       id="g25738"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          transform="scale(-1,1)"
          ry="13"
@@ -5098,7 +5173,10 @@
        inkscape:connector-curvature="0" />
     <g
        transform="translate(0,1802)"
-       id="g176384">
+       id="g176384"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          inkscape:connector-curvature="0"
          id="path176374"
@@ -5137,7 +5215,10 @@
        inkscape:connector-curvature="0"
        id="path176386"
        d="m -824.46751,2669.3369 v 15.36 1.92 6.72 h 207.05385 v -6.72 -1.92 -15.36 z"
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332" />
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        transform="scale(1.0205068,0.97990528)"
        xml:space="preserve"
@@ -5696,7 +5777,10 @@
        width="1152.5841"
        height="80.580734"
        x="-971.24506"
-       y="2706.177" />
+       y="2706.177"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        transform="scale(1.0205068,0.97990528)"
        xml:space="preserve"
@@ -5704,7 +5788,7 @@
        x="-898.99603"
        y="2795.3923"
        id="text12166"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -5725,6 +5809,9 @@
        y="0"
        width="100%"
        height="100%"
-       style="fill:#ffffff;fill-opacity:1" />
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
