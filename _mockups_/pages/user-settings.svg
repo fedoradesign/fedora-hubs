@@ -1211,6 +1211,16 @@
        y1="-107.63782"
        x2="649"
        y2="-188.644" />
+    <symbol
+       id="exclamation"
+       class="Web-Application-Icons">
+      <title
+         id="title9732">exclamation</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M512 288v-224q0 -26 -19 -45t-45 -19h-256q-26 0 -45 19t-19 45v224q0 26 19 45t45 19h256q26 0 45 -19t19 -45zM542 1344l-28 -768q-1 -26 -20.5 -45t-45.5 -19h-256q-26 0 -45.5 19t-20.5 45l-28 768q-1 26 17.5 45t44.5 19h320q26 0 44.5 -19t17.5 -45z"
+         id="path9734" />
+    </symbol>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1219,9 +1229,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="765.89575"
-     inkscape:cy="941.2955"
+     inkscape:zoom="0.5"
+     inkscape:cx="696.68002"
+     inkscape:cy="-593.12622"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1245,7 +1255,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4341,7 +4351,7 @@
        width="1142"
        height="55"
        x="-178.8315"
-       y="2772.6506" />
+       y="2874.6506" />
     <path
        inkscape:connector-curvature="0"
        id="path25471"
@@ -4837,7 +4847,7 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.72538757px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.201612"
        x="-942.31006"
-       y="2802.9785"
+       y="2907.0703"
        id="text25662"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
        inkscape:export-xdpi="90"
@@ -4845,14 +4855,14 @@
          sodipodi:role="line"
          id="tspan25660"
          x="-942.31006"
-         y="2802.9785"
+         y="2907.0703"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.03223991px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:1.201612">Chat Settings</tspan></text>
     <text
        transform="scale(1.0205068,0.97990528)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9191246px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="-928.3454"
-       y="2863.2908"
+       y="2967.3826"
        id="text25676"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
        inkscape:export-xdpi="90"
@@ -4860,25 +4870,25 @@
          sodipodi:role="line"
          id="tspan25674"
          x="-928.3454"
-         y="2863.2908"
+         y="2967.3826"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1">Enable chat</tspan></text>
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
        id="text25681"
-       y="2863.2908"
+       y="2967.3826"
        x="-775.4801"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9191246px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"
        transform="scale(1.0205068,0.97990528)"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;fill-opacity:1"
-         y="2863.2908"
+         y="2967.3826"
          x="-775.4801"
          id="tspan25678"
          sodipodi:role="line">Enables chat functionality in hubs.</tspan></text>
     <rect
-       y="2826.6506"
+       y="2928.6506"
        x="-178.8315"
        height="103"
        width="1142"
@@ -4893,13 +4903,13 @@
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
        id="text25687"
-       y="2912.2751"
+       y="3016.3669"
        x="-928.3454"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9191246px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;stroke:none"
        xml:space="preserve"
        transform="scale(1.0205068,0.97990528)"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1"
-         y="2912.2751"
+         y="3016.3669"
          x="-928.3454"
          id="tspan25685"
          sodipodi:role="line">Chat nickname</tspan></text>
@@ -4908,7 +4918,7 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9191246px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;stroke:none"
        x="-775.4801"
-       y="2912.2751"
+       y="3016.3669"
        id="text25691"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
        inkscape:export-xdpi="90"
@@ -4916,20 +4926,20 @@
          sodipodi:role="line"
          id="tspan25689"
          x="-775.4801"
-         y="2912.2751"
+         y="3016.3669"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1">Name displayed for you while in a chat room.</tspan></text>
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
        id="text25695"
-       y="2914.3162"
+       y="3018.408"
        x="-195.3765"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9191246px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;stroke:none"
        xml:space="preserve"
        transform="scale(1.0205068,0.97990528)"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1"
-         y="2914.3162"
+         y="3018.408"
          x="-195.3765"
          id="tspan25693"
          sodipodi:role="line">tatica</tspan></text>
@@ -4943,13 +4953,13 @@
        width="1142"
        height="55"
        x="-178.8315"
-       y="2928.6506" />
+       y="3030.6506" />
     <text
        transform="scale(1.0205068,0.97990528)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9191246px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;stroke:none"
        x="-928.3454"
-       y="3022.49"
+       y="3126.5818"
        id="text25701"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
        inkscape:export-xdpi="90"
@@ -4957,20 +4967,20 @@
          sodipodi:role="line"
          id="tspan25699"
          x="-928.3454"
-         y="3022.49"
+         y="3126.5818"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1">Chat email</tspan></text>
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
        id="text25705"
-       y="3022.49"
+       y="3126.5818"
        x="-771.56042"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9191246px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;stroke:none"
        xml:space="preserve"
        transform="scale(1.0205068,0.97990528)"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1"
-         y="3022.49"
+         y="3126.5818"
          x="-771.56042"
          id="tspan25703"
          sodipodi:role="line">Email address associated with your chat nickname. </tspan></text>
@@ -4979,7 +4989,7 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9191246px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;stroke:none"
        x="-195.37651"
-       y="3022.49"
+       y="3126.5818"
        id="text25711"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
        inkscape:export-xdpi="90"
@@ -4987,30 +4997,30 @@
          sodipodi:role="line"
          id="tspan25707"
          x="-195.37651"
-         y="3022.49"
+         y="3126.5818"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1">tatica@anemailprovider.com</tspan></text>
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
        id="text25718"
-       y="2940.8494"
+       y="3044.9412"
        x="-775.4801"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9191246px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1;stroke:none"
        xml:space="preserve"
        transform="scale(1.0205068,0.97990528)"><tspan
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1"
-         y="2940.8494"
+         y="3044.9412"
          x="-775.4801"
          id="tspan25713"
          sodipodi:role="line">This nickname was registered to the Freenode chat </tspan><tspan
          id="tspan25716"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#dedede;fill-opacity:1"
-         y="2963.1199"
+         y="3067.2117"
          x="-775.4801"
          sodipodi:role="line">network on 19 January 2017.</tspan></text>
     <g
-       transform="translate(583.63071,2240.0295)"
+       transform="translate(583.63071,2342.0295)"
        id="g25738">
       <rect
          transform="scale(-1,1)"
@@ -5680,5 +5690,41 @@
          x="137.02502"
          id="tspan179936"
          sodipodi:role="line">Go!</tspan></text>
+    <rect
+       style="opacity:1;fill:#e59728;fill-opacity:1;stroke:none;stroke-width:1.11295915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12158"
+       width="1152.5841"
+       height="80.580734"
+       x="-971.24506"
+       y="2706.177" />
+    <text
+       transform="scale(1.0205068,0.97990528)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9191246px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="-898.99603"
+       y="2795.3923"
+       id="text12166"
+       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan12164"
+         x="-898.99603"
+         y="2795.3923"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">We've disabled chat because your nickname registration has been lost, likely due to inactivity. We tried to recover your</tspan><tspan
+         sodipodi:role="line"
+         x="-898.99603"
+         y="2817.6628"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
+         id="tspan12168">nickname and were unable to. Please enable chat below to register a new nickname.</tspan></text>
+    <use
+       id="use13738"
+       xlink:href="#exclamation"
+       transform="matrix(0.36951501,0,0,0.36951501,-949.58074,2719.7788)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       style="fill:#ffffff;fill-opacity:1" />
   </g>
 </svg>
