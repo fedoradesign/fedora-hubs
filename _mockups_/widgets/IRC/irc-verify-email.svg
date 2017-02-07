@@ -16,9 +16,26 @@
    version="1.1"
    id="svg36470"
    inkscape:version="0.92pre1 r"
-   sodipodi:docname="irc-verify-email.svg">
+   sodipodi:docname="irc-verify-email.svg"
+   inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/IRC/PNG/irc-verify-email-notification.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs36464">
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path47907"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#db3279;stroke-opacity:1;fill:#db3279;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath5374-5-4-66-7">
@@ -2857,5 +2874,10 @@
            width="624.0199"
            id="rect47850" /></flowRegion><flowPara
          id="flowPara47858"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.875px;line-height:75%;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#3c6eb4">Verify your email address</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.875px;line-height:75%;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#3c6eb4">Verify your email address</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#db3279;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m -149.03945,56.268023 h 25.65788"
+       id="path47884"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>
