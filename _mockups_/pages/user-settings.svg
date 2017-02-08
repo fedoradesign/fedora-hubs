@@ -15,7 +15,7 @@
    viewBox="0 0 1630 1200"
    id="svg8106"
    version="1.1"
-   inkscape:version="0.92pre2 r"
+   inkscape:version="0.92pre1 r"
    sodipodi:docname="user-settings.svg">
   <defs
      id="defs8108">
@@ -1229,9 +1229,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="696.68002"
-     inkscape:cy="-593.12622"
+     inkscape:zoom="1"
+     inkscape:cx="836.68002"
+     inkscape:cy="-346.12622"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5790,17 +5790,18 @@
        id="text12166"
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/user-settings_nick-lost.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
+       inkscape:export-ydpi="90"
+       sodipodi:linespacing="120%"><tspan
          sodipodi:role="line"
-         id="tspan12164"
          x="-898.99603"
          y="2795.3923"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">We've disabled chat because your nickname registration has been lost, likely due to inactivity. We tried to recover your</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
+         id="tspan12168">We've disabled chat because your nickname registration has been lost, likely due to inactivity. Please enable chat below </tspan><tspan
          sodipodi:role="line"
          x="-898.99603"
          y="2817.6628"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.55883408px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
-         id="tspan12168">nickname and were unable to. Please enable chat below to register a new nickname.</tspan></text>
+         id="tspan121505">to re-register a nickname.</tspan></text>
     <use
        id="use13738"
        xlink:href="#exclamation"
