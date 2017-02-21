@@ -469,6 +469,18 @@
          x="-224.70595"
          y="346.09207" />
     </clipPath>
+    <symbol
+       id="icon-pencil"
+       viewBox="0 0 24 28">
+      <title
+         id="title118819">pencil</title>
+      <path
+         style="stroke-width:1"
+         inkscape:connector-curvature="0"
+         class="path1"
+         d="M 1.5007167,6.35 1.8769542,5.9737625 0.90540417,5.0022125 0.52916667,5.37845 V 5.8208333 H 1.0583333 V 6.35 Z m 2.162175,-3.8364583 c 0,-0.053711 -0.037306,-0.091017 -0.091017,-0.091017 -0.024871,0 -0.049477,0.0082 -0.070379,0.02884 L 1.2607396,4.6921208 C 1.2401021,4.7127583 1.2319,4.7376292 1.2319,4.7625 c 0,0.05371 0.037306,0.091017 0.091017,0.091017 0.024871,0 0.049477,-0.0082 0.070379,-0.02884 L 3.6340521,2.5839208 c 0.020638,-0.020637 0.02884,-0.045508 0.02884,-0.070379 z M 3.4395833,1.7197917 5.159375,3.4395833 1.7197917,6.8791667 H 0 V 5.159375 Z m 2.8236334,0.396875 c 0,0.1404937 -0.057944,0.2770187 -0.1529292,0.3720041 L 5.4239583,3.175 3.7041667,1.4552083 4.3904958,0.7731125 C 4.4854812,0.67389375 4.6220062,0.61595 4.7625,0.61595 c 0.1404937,0 0.2770187,0.0579437 0.3762375,0.1571625 l 0.97155,0.9673167 c 0.094985,0.099219 0.1529292,0.2357437 0.1529292,0.3762375 z"
+         id="path118821" />
+    </symbol>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -477,9 +489,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="1015.1404"
-     inkscape:cy="1897.6387"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="1462.638"
+     inkscape:cy="2063.3037"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -492,7 +504,8 @@
      inkscape:window-x="0"
      inkscape:window-y="38"
      inkscape:window-maximized="1"
-     inkscape:lockguides="true" />
+     inkscape:lockguides="true"
+     inkscape:snap-global="false" />
   <metadata
      id="metadata106079">
     <rdf:RDF>
@@ -3858,33 +3871,17 @@
          id="path16021"
          inkscape:connector-curvature="0" />
     </g>
-    <g
-       id="use15703-6"
-       style="fill:#808080;stroke-width:0.20549795"
-       transform="matrix(0.07008308,0,0,0.07008308,173.8484,60.45314)"
-       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/hub-config_enter.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <title
-         id="title195016">cog</title>
-      <path
-         inkscape:connector-curvature="0"
-         id="path195018"
-         d="m 1024,640 q 0,106 -75,181 -75,75 -181,75 -106,0 -181,-75 -75,-75 -75,-181 0,-106 75,-181 75,-75 181,-75 106,0 181,75 75,75 75,181 z m 512,109 V 527 q 0,-12 -8,-23 -8,-11 -20,-13 l -185,-28 q -19,-54 -39,-91 35,-50 107,-138 10,-12 10,-25 0,-13 -9,-23 -27,-37 -99,-108 -72,-71 -94,-71 -12,0 -26,9 l -138,108 q -44,-23 -91,-38 -16,-136 -29,-186 -7,-28 -36,-28 H 657 q -14,0 -24.5,8.5 Q 622,-111 621,-98 L 593,86 q -49,16 -90,37 L 362,16 Q 352,7 337,7 323,7 312,18 186,132 147,186 q -7,10 -7,23 0,12 8,23 15,21 51,66.5 36,45.5 54,70.5 -27,50 -41,99 L 29,495 Q 16,497 8,507.5 0,518 0,531 v 222 q 0,12 8,23 8,11 19,13 l 186,28 q 14,46 39,92 -40,57 -107,138 -10,12 -10,24 0,10 9,23 26,36 98.5,107.5 72.5,71.5 94.5,71.5 13,0 26,-10 l 138,-107 q 44,23 91,38 16,136 29,186 7,28 36,28 h 222 q 14,0 24.5,-8.5 Q 914,1391 915,1378 l 28,-184 q 49,-16 90,-37 l 142,107 q 9,9 24,9 13,0 25,-10 129,-119 165,-170 7,-8 7,-22 0,-12 -8,-23 -15,-21 -51,-66.5 -36,-45.5 -54,-70.5 26,-50 41,-98 l 183,-28 q 13,-2 21,-12.5 8,-10.5 8,-23.5 z"
-         transform="matrix(0.05,0,0,-0.05,0,76.8)"
-         style="stroke-width:0.20549795" />
-    </g>
     <path
-       style="fill:none;stroke:#db3279;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 174.90699,55.524257 2.41498,5.48254 3.99949,-5.749811"
+       style="fill:none;stroke:#db3279;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 172.13942,64.997914 0.27757,5.984423 5.80243,-3.922759"
        id="path195137"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/hub-config_enter.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="fill:none;stroke:#db3279;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 177.0547,61.006797 c 2.12887,-4.346578 3.01417,-53.7705688 -3.75132,-55.4619416 h -0.53453"
+       style="fill:none;stroke:#db3279;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 170.90411,14.901726 c 2.53113,4.125313 8.09536,53.243069 1.52057,55.567861 l -0.53213,0.05065"
        id="path195139"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
@@ -3895,7 +3892,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.65162468px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="70.142723"
-       y="1.5465583"
+       y="6.8382249"
        id="text195143"
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/hub-config_enter.png"
        inkscape:export-xdpi="90"
@@ -3903,7 +3900,56 @@
          sodipodi:role="line"
          id="tspan195141"
          x="70.142723"
-         y="1.5465583"
+         y="6.8382249"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279;stroke-width:0.26458332px">Click this to enter hub config</tspan></text>
+    <use
+       id="use197181"
+       transform="matrix(0.03958353,0,0,0.03958353,129.27094,70.768084)"
+       xlink:href="#icon-pencil"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       style="fill:#8c8c8c;stroke-width:25.26303291" />
+    <flowRoot
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/hub-config_enter.png"
+       xml:space="preserve"
+       id="flowRoot197201"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:20.77861023px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.32486423,0,0,0.3119393,-86.12355,-51.023509)"><flowRegion
+         style="line-height:20.77861023px"
+         id="flowRegion197197"><rect
+           id="rect197195"
+           width="225.22212"
+           height="21.320862"
+           x="679.85834"
+           y="395.88855"
+           style="line-height:20.77861023px;fill:#3c6eb4;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara197199"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.54502678px;line-height:20.77861023px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#3c6eb4;fill-opacity:1">edit this page</flowPara></flowRoot>    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/pages/PNG/hub-config_enter.png"
+       style="display:inline;fill:#000000;fill-opacity:0;stroke:#58595b"
+       transform="matrix(0.22146183,0,0,0.22604445,129.31665,97.624932)"
+       id="g197209">
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#58595b"
+         transform="matrix(0.76432249,0,0,0.76432249,42.62109,-21.784362)"
+         id="g197207">
+        <path
+           inkscape:connector-curvature="0"
+           id="path197203"
+           d="m 166.4303,-106.42679 10.58555,10.475053"
+           style="fill:#000000;fill-opacity:0;stroke:#58595b;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:#000000;fill-opacity:0;stroke:#58595b;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 185.01585,-106.42679 174.4303,-95.951737"
+           id="path197205"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
   </g>
 </svg>
