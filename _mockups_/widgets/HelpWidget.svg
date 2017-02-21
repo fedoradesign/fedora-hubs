@@ -1304,8 +1304,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="342.52258"
-     inkscape:cy="-353.23262"
+     inkscape:cx="352.52258"
+     inkscape:cy="-643.23262"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4047,7 +4047,7 @@
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
        y="942.84222"
        x="5.6160278"
-       height="723.48804"
+       height="655.05054"
        width="664.08844"
        id="rect379249"
        style="fill:#ffffff;fill-opacity:1;stroke:#db3279;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
@@ -4218,22 +4218,17 @@
          y="1246.897"
          x="199.16443"
          sodipodi:role="line"
-         id="tspan379947">Enter a team name below to add it to the list of hubs</tspan><tspan
+         id="tspan379955">Enter a team name below to add it to the list of hubs this </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4c4c4c"
          y="1265.752"
          x="199.16443"
          sodipodi:role="line"
-         id="tspan379951">this 'Requests for Help' widget will follow. After adding a</tspan><tspan
+         id="tspan380532">'Requests for Help' widget will follow. It will then appear</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4c4c4c"
          y="1284.6069"
          x="199.16443"
          sodipodi:role="line"
-         id="tspan379953">hub to this list, the widget will display help requests made</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4c4c4c"
-         y="1303.4619"
-         x="199.16443"
-         sodipodi:role="line"
-         id="tspan379955">by that team.</tspan></text>
+         id="tspan380534">in the list of follwed hubs on the left.</tspan></text>
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -4413,7 +4408,7 @@
          y="1569.647"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#3c6eb4">Visit chat log</tspan></text>
     <rect
-       transform="matrix(-0.92072938,0,0,-1.017171,-108.26402,389.25918)"
+       transform="matrix(-0.92072938,0,0,-1.017171,-108.26402,314.25918)"
        style="opacity:0.57142861;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:0.45480502;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter23292)"
        id="rect379353"
        width="130"
@@ -4425,7 +4420,7 @@
     <rect
        rx="6.0892668"
        ry="5.2319298"
-       y="-1646.0525"
+       y="-1571.0525"
        x="-645.96527"
        height="35.577122"
        width="120.04555"
@@ -4439,7 +4434,7 @@
        width="74.090607"
        height="35.577122"
        x="-645.95654"
-       y="-1379.8027"
+       y="-1361.0527"
        ry="5.2319298"
        rx="3.758219" />
     <text
@@ -4448,12 +4443,12 @@
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
        sodipodi:linespacing="125%"
        id="text379361"
-       y="1634.647"
+       y="1559.647"
        x="565.91443"
        style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#4c4c4c"
-         y="1634.647"
+         y="1559.647"
          x="565.91443"
          sodipodi:role="line"
          id="tspan379359">Close</tspan></text>
@@ -4885,7 +4880,7 @@
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-all_requests-modal.png"
-       y="1345.139"
+       y="1326.389"
        x="200.62997"
        height="33.75"
        width="359.0625"
@@ -4896,7 +4891,7 @@
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.5px;line-height:4.71375036px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="208.53943"
-       y="1366.897"
+       y="1348.147"
        id="text379967"
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
        inkscape:export-xdpi="90"
@@ -4904,13 +4899,13 @@
          id="tspan379965"
          sodipodi:role="line"
          x="208.53943"
-         y="1366.897"
+         y="1348.147"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#8c8c8c">Enter team name here...</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="595.91443"
-       y="1366.522"
+       y="1347.772"
        id="text379982"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
@@ -4919,8 +4914,8 @@
          id="tspan379980"
          sodipodi:role="line"
          x="595.91443"
-         y="1366.522"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#ffffff;fill-opacity:1;">Add</tspan></text>
+         y="1347.772"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#ffffff;fill-opacity:1">Add</tspan></text>
     <rect
        y="977.49292"
        x="5.0460205"
@@ -5396,21 +5391,6 @@
          inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text380156"
-         y="571.39722"
-         x="205.41443"
-         style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.45385027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"
-         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#3c6eb4;stroke-width:1.45385027px"
-           y="571.39722"
-           x="205.41443"
-           sodipodi:role="line"
-           id="tspan380154">mizmo</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text380160"
