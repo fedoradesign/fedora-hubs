@@ -1290,8 +1290,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="67.871899"
-     inkscape:cy="-486.05318"
+     inkscape:cx="41.871899"
+     inkscape:cy="-425.05318"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4581,14 +4581,14 @@
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#dedede;stroke-width:1.06179094;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect379447"
-       width="79.130592"
-       height="22.93821"
+       width="79.56321"
+       height="23.313208"
        x="28.192118"
-       y="1429.3931"
-       ry="2.8558798" />
+       y="1429.5762"
+       ry="2.9025683" />
     <flowRoot
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
-       transform="translate(447.22551,1113.1495)"
+       transform="translate(447.22551,1114.087)"
        style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125.69999695%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot379455"
        xml:space="preserve"
@@ -4637,11 +4637,11 @@
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#dedede;stroke-width:1.26255131;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect379467"
-       width="112.87096"
-       height="22.73745"
+       width="113.11244"
+       height="23.11245"
        x="28.292498"
-       y="1365.7435"
-       ry="2.8308845" />
+       y="1365.9266"
+       ry="2.877573" />
     <flowRoot
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
        transform="translate(447.22551,1049.3995)"
@@ -4675,11 +4675,11 @@
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
-       ry="2.8836014"
-       y="1397.4066"
+       ry="2.9302897"
+       y="1397.5898"
        x="28.080788"
-       height="23.16087"
-       width="48.947659"
+       height="23.535868"
+       width="48.848366"
        id="rect379479"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#dedede;stroke-width:0.83913231;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <flowRoot
@@ -4689,7 +4689,7 @@
        xml:space="preserve"
        id="flowRoot379487"
        style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125.69999695%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(447.10051,1081.2745)"><flowRegion
+       transform="translate(447.10051,1082.212)"><flowRegion
          style="line-height:125.69999695%"
          id="flowRegion379483"><rect
            id="rect379481"
@@ -4821,7 +4821,7 @@
     </g>
     <g
        style="stroke:#8c8c8c;stroke-width:8.65384579;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="matrix(0.32500001,0,0,0.32500001,-136.40604,1095.9348)"
+       transform="matrix(0.32500001,0,0,0.32500001,-136.40604,1096.8723)"
        id="g379533">
       <path
          style="fill:none;fill-rule:evenodd;stroke:#8c8c8c;stroke-width:8.65384579;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -4842,7 +4842,7 @@
     </g>
     <g
        id="g379539"
-       transform="matrix(0.32500001,0,0,0.32500001,-104.53104,1129.6848)"
+       transform="matrix(0.32500001,0,0,0.32500001,-104.53104,1130.6223)"
        style="stroke:#8c8c8c;stroke-width:8.65384579;stroke-miterlimit:4;stroke-dasharray:none">
       <path
          inkscape:export-ydpi="90"
