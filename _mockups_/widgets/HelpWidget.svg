@@ -1303,9 +1303,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="632.52258"
-     inkscape:cy="-281.23262"
+     inkscape:zoom="1"
+     inkscape:cx="1259.5226"
+     inkscape:cy="-523.23262"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4045,7 +4045,7 @@
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
-       y="942.84222"
+       y="976.59222"
        x="5.6160278"
        height="655.05054"
        width="664.08844"
@@ -4060,20 +4060,20 @@
        width="664.75562"
        height="227.04678"
        x="5.0460205"
-       y="942.80542" />
+       y="976.55542" />
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
        sodipodi:linespacing="125%"
        id="text379295"
-       y="1209.0564"
+       y="1242.8064"
        x="197.46716"
        style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan379293"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:20px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#4c4c4c"
-         y="1209.0564"
+         y="1242.8064"
          x="197.46716"
          sodipodi:role="line">Track Help Requests in Hubs</tspan></text>
     <text
@@ -4081,27 +4081,27 @@
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
        id="text379299"
-       y="1246.897"
+       y="1280.647"
        x="199.16443"
        style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:4.71375036px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4c4c4c"
-         y="1246.897"
+         y="1280.647"
          x="199.16443"
          sodipodi:role="line"
          id="tspan379955">Enter a team name below to add it to the list of hubs this </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4c4c4c"
-         y="1265.752"
+         y="1299.502"
          x="199.16443"
          sodipodi:role="line"
          id="tspan380532">'Requests for Help' widget will follow. It will then appear</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4c4c4c"
-         y="1284.6069"
+         y="1318.3569"
          x="199.16443"
          sodipodi:role="line"
          id="tspan380534">in the list of follwed hubs on the left.</tspan></text>
     <rect
-       transform="matrix(-0.92072938,0,0,-1.017171,-108.26402,314.25918)"
+       transform="matrix(-0.92072938,0,0,-1.017171,-108.26402,348.00918)"
        style="opacity:0.57142861;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:0.45480502;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter23292)"
        id="rect379353"
        width="130"
@@ -4113,7 +4113,7 @@
     <rect
        rx="6.0892668"
        ry="5.2319298"
-       y="-1571.0525"
+       y="-1604.8025"
        x="-645.96527"
        height="35.577122"
        width="120.04555"
@@ -4127,7 +4127,7 @@
        width="74.090607"
        height="35.577122"
        x="-645.95654"
-       y="-1361.0527"
+       y="-1394.8027"
        ry="5.2319298"
        rx="3.758219" />
     <text
@@ -4136,17 +4136,18 @@
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
        sodipodi:linespacing="125%"
        id="text379361"
-       y="1559.647"
+       y="1593.397"
        x="565.91443"
        style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#4c4c4c"
-         y="1559.647"
+         y="1593.397"
          x="565.91443"
          sodipodi:role="line"
          id="tspan379359">Close</tspan></text>
     <g
-       id="g379497">
+       id="g379497"
+       transform="translate(0,33.75)">
       <path
          style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 682.2237,977.3578 25,-25"
@@ -4169,7 +4170,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
        ry="2.8900137"
-       y="1293.6891"
+       y="1327.4391"
        x="28.242538"
        height="23.21237"
        width="95.399864"
@@ -4182,7 +4183,7 @@
        xml:space="preserve"
        id="flowRoot379425"
        style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125.69999695%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(448.94924,977.212)"><flowRegion
+       transform="translate(448.94924,1010.962)"><flowRegion
          style="line-height:125.69999695%"
          id="flowRegion379421"><rect
            id="rect379419"
@@ -4201,11 +4202,11 @@
        width="95.399872"
        height="23.21237"
        x="28.242538"
-       y="1259.9391"
+       y="1293.6891"
        ry="2.8900137" />
     <flowRoot
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
-       transform="translate(448.94924,943.462)"
+       transform="translate(448.94924,977.212)"
        style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125.69999695%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot379435"
        xml:space="preserve"
@@ -4225,7 +4226,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
        ry="2.8900137"
-       y="1329.3141"
+       y="1363.0641"
        x="28.242537"
        height="23.21237"
        width="95.399872"
@@ -4238,7 +4239,7 @@
        xml:space="preserve"
        id="flowRoot379445"
        style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125.69999695%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(448.47553,1011.8995)"><flowRegion
+       transform="translate(448.47553,1045.6495)"><flowRegion
          style="line-height:125.69999695%"
          id="flowRegion379441"><rect
            id="rect379439"
@@ -4257,11 +4258,11 @@
        width="79.56321"
        height="23.313208"
        x="28.192118"
-       y="1425.8262"
+       y="1459.5762"
        ry="2.9025683" />
     <flowRoot
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
-       transform="translate(447.22551,1110.337)"
+       transform="translate(447.22551,1144.087)"
        style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125.69999695%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot379455"
        xml:space="preserve"
@@ -4281,7 +4282,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
        ry="2.9178391"
-       y="1226.0774"
+       y="1259.8274"
        x="28.130791"
        height="23.435863"
        width="61.873363"
@@ -4294,7 +4295,7 @@
        xml:space="preserve"
        id="flowRoot379465"
        style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125.69999695%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(448.94924,909.712)"><flowRegion
+       transform="translate(448.94924,943.462)"><flowRegion
          style="line-height:125.69999695%"
          id="flowRegion379461"><rect
            id="rect379459"
@@ -4313,11 +4314,11 @@
        width="113.11244"
        height="23.11245"
        x="28.292498"
-       y="1362.1766"
+       y="1395.9266"
        ry="2.877573" />
     <flowRoot
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
-       transform="translate(447.22551,1045.6495)"
+       transform="translate(447.22551,1079.3995)"
        style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125.69999695%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot379475"
        xml:space="preserve"
@@ -4349,7 +4350,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
        ry="2.9302897"
-       y="1393.8398"
+       y="1427.5898"
        x="28.080788"
        height="23.535868"
        width="48.848366"
@@ -4362,7 +4363,7 @@
        xml:space="preserve"
        id="flowRoot379487"
        style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125.69999695%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(447.10051,1078.462)"><flowRegion
+       transform="translate(447.10051,1112.212)"><flowRegion
          style="line-height:125.69999695%"
          id="flowRegion379483"><rect
            id="rect379481"
@@ -4376,7 +4377,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="27.601931"
-       y="1206.5845"
+       y="1240.3345"
        id="text379491"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
@@ -4385,11 +4386,11 @@
          id="tspan379489"
          sodipodi:role="line"
          x="27.601931"
-         y="1206.5845"
+         y="1240.3345"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#4c4c4c">Followed Hubs:</tspan></text>
     <g
        id="g379503"
-       transform="matrix(0.32500001,0,0,0.32500001,-123.28104,923.43485)"
+       transform="matrix(0.32500001,0,0,0.32500001,-123.28104,957.18485)"
        style="stroke:#8c8c8c;stroke-width:8.65384579;stroke-miterlimit:4;stroke-dasharray:none">
       <path
          inkscape:export-ydpi="90"
@@ -4410,7 +4411,7 @@
     </g>
     <g
        style="stroke:#8c8c8c;stroke-width:8.65384579;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="matrix(0.32500001,0,0,0.32500001,-89.53104,959.05985)"
+       transform="matrix(0.32500001,0,0,0.32500001,-89.53104,992.80985)"
        id="g379509">
       <path
          style="fill:none;fill-rule:evenodd;stroke:#8c8c8c;stroke-width:8.65384579;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -4431,7 +4432,7 @@
     </g>
     <g
        id="g379515"
-       transform="matrix(0.32500001,0,0,0.32500001,-89.53104,992.8098)"
+       transform="matrix(0.32500001,0,0,0.32500001,-89.53104,1026.5598)"
        style="stroke:#8c8c8c;stroke-width:8.65384579;stroke-miterlimit:4;stroke-dasharray:none">
       <path
          inkscape:export-ydpi="90"
@@ -4452,7 +4453,7 @@
     </g>
     <g
        style="stroke:#8c8c8c;stroke-width:8.65384579;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="matrix(0.32500001,0,0,0.32500001,-89.53104,1026.5598)"
+       transform="matrix(0.32500001,0,0,0.32500001,-89.53104,1060.3098)"
        id="g379521">
       <path
          style="fill:none;fill-rule:evenodd;stroke:#8c8c8c;stroke-width:8.65384579;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -4473,7 +4474,7 @@
     </g>
     <g
        id="g379527"
-       transform="matrix(0.32500001,0,0,0.32500001,-70.78104,1062.1848)"
+       transform="matrix(0.32500001,0,0,0.32500001,-70.78104,1095.9348)"
        style="stroke:#8c8c8c;stroke-width:8.65384579;stroke-miterlimit:4;stroke-dasharray:none">
       <path
          inkscape:export-ydpi="90"
@@ -4494,7 +4495,7 @@
     </g>
     <g
        style="stroke:#8c8c8c;stroke-width:8.65384579;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="matrix(0.32500001,0,0,0.32500001,-136.40604,1093.1223)"
+       transform="matrix(0.32500001,0,0,0.32500001,-136.40604,1126.8723)"
        id="g379533">
       <path
          style="fill:none;fill-rule:evenodd;stroke:#8c8c8c;stroke-width:8.65384579;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -4515,7 +4516,7 @@
     </g>
     <g
        id="g379539"
-       transform="matrix(0.32500001,0,0,0.32500001,-104.53104,1126.8723)"
+       transform="matrix(0.32500001,0,0,0.32500001,-104.53104,1160.6223)"
        style="stroke:#8c8c8c;stroke-width:8.65384579;stroke-miterlimit:4;stroke-dasharray:none">
       <path
          inkscape:export-ydpi="90"
@@ -4536,14 +4537,14 @@
     </g>
     <path
        style="fill:none;stroke:#dedede;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 181.9328,1171.9124 v 347.3663"
+       d="m 181.9328,1205.6624 v 347.3663"
        id="path379945"
        inkscape:connector-curvature="0" />
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-all_requests-modal.png"
-       y="1326.389"
+       y="1360.139"
        x="200.62997"
        height="33.75"
        width="359.0625"
@@ -4554,7 +4555,7 @@
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.5px;line-height:4.71375036px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="208.53943"
-       y="1348.147"
+       y="1381.897"
        id="text379967"
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
        inkscape:export-xdpi="90"
@@ -4562,13 +4563,13 @@
          id="tspan379965"
          sodipodi:role="line"
          x="208.53943"
-         y="1348.147"
+         y="1381.897"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#8c8c8c">Enter team name here...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="595.91443"
-       y="1347.772"
+       y="1381.522"
        id="text379982"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
@@ -4577,10 +4578,10 @@
          id="tspan379980"
          sodipodi:role="line"
          x="595.91443"
-         y="1347.772"
+         y="1381.522"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#ffffff;fill-opacity:1">Add</tspan></text>
     <rect
-       y="977.49292"
+       y="1011.2429"
        x="5.0460205"
        height="192.35928"
        width="664.75562"
@@ -4593,7 +4594,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.40462494px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="30.263145"
-       y="1020.4777"
+       y="1054.2277"
        id="text380458"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
@@ -4601,36 +4602,36 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="30.263145"
-         y="1020.4777"
+         y="1054.2277"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:23.4913311px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#585858;fill-opacity:1;stroke-width:1px"
          id="tspan380456">Requests for Help Widget</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:4.71375036px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="33.226929"
-       y="1055.647"
+       y="1089.397"
        id="text380468"
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="33.226929"
-         y="1055.647"
+         y="1089.397"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4c4c4c"
          id="tspan380485">This widget serves as a 'Help wanted' board </tspan><tspan
          sodipodi:role="line"
          x="33.226929"
-         y="1081.897"
+         y="1115.647"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4c4c4c"
          id="tspan380481">that you can use to publicize opportunities </tspan><tspan
          sodipodi:role="line"
          x="33.226929"
-         y="1108.147"
+         y="1141.897"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4c4c4c"
          id="tspan380512">for collaboration with your hub members as </tspan><tspan
          sodipodi:role="line"
          x="33.226929"
-         y="1134.397"
+         y="1168.147"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4c4c4c"
          id="tspan380493">well as with other hubs.</tspan></text>
     <text
@@ -4638,24 +4639,24 @@
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.97028637px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.97028637px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="15.182373"
-       y="966.47449"
+       y="1000.2245"
        id="text379255"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan379253"
          x="15.182373"
-         y="966.47449"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.96038246px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332;stroke:none;">Configure 'Requests for Help' Widget</tspan></text>
+         y="1000.2245"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.96038246px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332">Configure 'Requests for Help' Widget</tspan></text>
     <path
        style="fill:none;stroke:#8c8c8c;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 4.2237215,977.63906 H 670.78622"
+       d="M 4.2237215,1011.3891 H 670.78622"
        id="path380483"
        inkscape:connector-curvature="0" />
     <g
        id="g380448"
-       transform="matrix(0.68782877,0,0,0.68782877,322.65114,874.29123)"
+       transform="matrix(0.68782877,0,0,0.68782877,322.65114,908.04123)"
        clip-path="url(#clipPath380498)"
        style="stroke-width:1.45385027">
       <rect
@@ -5551,6 +5552,1657 @@
          height="100%"
          style="fill:#f0f0f0;fill-opacity:1;stroke-width:30.34706688" />
     </g>
+    <rect
+       y="894.98657"
+       x="823.48163"
+       height="823.08661"
+       width="861.85736"
+       id="rect380536"
+       style="fill:#60605b;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#db3279;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect380538"
+       width="664.08844"
+       height="655.05054"
+       x="924.36603"
+       y="976.59222"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="976.55542"
+       x="923.79602"
+       height="227.04678"
+       width="664.75562"
+       id="rect380540"
+       style="display:inline;fill:#a7a9ac;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1116.2172"
+       y="1242.8064"
+       id="text380544"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="1116.2172"
+         y="1242.8064"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:20px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#4c4c4c"
+         id="tspan380542">Track Help Requests in Hubs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:4.71375036px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1117.9144"
+       y="1280.647"
+       id="text380552"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan380546"
+         sodipodi:role="line"
+         x="1117.9144"
+         y="1280.647"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4c4c4c">Enter a team name below to add it to the list of hubs this </tspan><tspan
+         id="tspan380548"
+         sodipodi:role="line"
+         x="1117.9144"
+         y="1299.502"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4c4c4c">'Requests for Help' widget will follow. It will then appear</tspan><tspan
+         id="tspan380550"
+         sodipodi:role="line"
+         x="1117.9144"
+         y="1318.3569"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4c4c4c">in the list of follwed hubs on the left.</tspan></text>
+    <rect
+       rx="6.594203"
+       ry="5"
+       y="-1235.8623"
+       x="-818.5"
+       height="34"
+       width="130"
+       id="rect380554"
+       style="opacity:0.57142861;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:0.45480502;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter23292)"
+       transform="matrix(-0.92072938,0,0,-1.017171,810.48598,348.00918)" />
+    <rect
+       transform="scale(-1)"
+       style="fill:#ffffff;fill-opacity:1;stroke:#d1d3d4;stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect380556"
+       width="120.04555"
+       height="35.577122"
+       x="-1564.7152"
+       y="-1604.8025"
+       ry="5.2319298"
+       rx="6.0892668" />
+    <rect
+       rx="3.758219"
+       ry="5.2319298"
+       y="-1394.8027"
+       x="-1564.7065"
+       height="35.577122"
+       width="74.090607"
+       id="rect380558"
+       style="fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="scale(-1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1484.6644"
+       y="1593.397"
+       id="text380562"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan380560"
+         sodipodi:role="line"
+         x="1484.6644"
+         y="1593.397"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#4c4c4c">Close</tspan></text>
+    <g
+       transform="translate(918.75,33.75)"
+       id="g380568">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+         inkscape:connector-curvature="0"
+         id="path380564"
+         d="m 682.2237,977.3578 25,-25"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 707.2237,977.3578 -25,-25"
+         id="path380566"
+         inkscape:connector-curvature="0" />
+    </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#dedede;stroke-width:1.16262889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect380570"
+       width="95.399864"
+       height="23.21237"
+       x="946.99249"
+       y="1327.4391"
+       ry="2.8900137"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       transform="translate(1367.6992,1010.962)"
+       style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125.69999695%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot380578"
+       xml:space="preserve"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"><flowRegion
+         id="flowRegion380574"
+         style="line-height:125.69999695%"><rect
+           style="line-height:125.69999695%;fill:#8c8c8c;fill-opacity:1"
+           y="300.61685"
+           x="-416.04245"
+           height="42.784863"
+           width="298.58392"
+           id="rect380572" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;fill-opacity:1"
+         id="flowPara380576">@fedora-devel</flowPara></flowRoot>    <rect
+       ry="2.8900137"
+       y="1293.6891"
+       x="946.99249"
+       height="23.21237"
+       width="95.399872"
+       id="rect380580"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#dedede;stroke-width:1.16262901;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       xml:space="preserve"
+       id="flowRoot380588"
+       style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125.69999695%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(1367.6992,977.212)"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"><flowRegion
+         id="flowRegion380584"
+         style="line-height:125.69999695%"><rect
+           id="rect380582"
+           width="298.58392"
+           height="42.784863"
+           x="-416.04245"
+           y="300.61685"
+           style="line-height:125.69999695%;fill:#8c8c8c;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara380586"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;fill-opacity:1">@designteam</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#dedede;stroke-width:1.16262901;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect380590"
+       width="95.399872"
+       height="23.21237"
+       x="946.99249"
+       y="1363.0641"
+       ry="2.8900137"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       transform="translate(1367.2255,1045.6495)"
+       style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125.69999695%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot380598"
+       xml:space="preserve"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"><flowRegion
+         id="flowRegion380594"
+         style="line-height:125.69999695%"><rect
+           style="line-height:125.69999695%;fill:#8c8c8c;fill-opacity:1"
+           y="300.61685"
+           x="-416.04245"
+           height="42.784863"
+           width="298.58392"
+           id="rect380592" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;fill-opacity:1"
+         id="flowPara380596">@fedora-hubs</flowPara></flowRoot>    <rect
+       ry="2.9025683"
+       y="1459.5762"
+       x="946.94208"
+       height="23.313208"
+       width="79.56321"
+       id="rect380600"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#dedede;stroke-width:1.06179094;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       xml:space="preserve"
+       id="flowRoot380608"
+       style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125.69999695%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(1365.9755,1144.087)"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"><flowRegion
+         id="flowRegion380604"
+         style="line-height:125.69999695%"><rect
+           id="rect380602"
+           width="298.58392"
+           height="42.784863"
+           x="-416.04245"
+           y="300.61685"
+           style="line-height:125.69999695%;fill:#8c8c8c;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara380606"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;fill-opacity:1">@marketing</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#dedede;stroke-width:0.93913728;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect380610"
+       width="61.873363"
+       height="23.435863"
+       x="946.88068"
+       y="1259.8274"
+       ry="2.9178391"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       transform="translate(1367.6992,943.462)"
+       style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125.69999695%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot380618"
+       xml:space="preserve"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"><flowRegion
+         id="flowRegion380614"
+         style="line-height:125.69999695%"><rect
+           style="line-height:125.69999695%;fill:#8c8c8c;fill-opacity:1"
+           y="300.61685"
+           x="-416.04245"
+           height="42.784863"
+           width="298.58392"
+           id="rect380612" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;fill-opacity:1"
+         id="flowPara380616">@council</flowPara></flowRoot>    <rect
+       ry="2.877573"
+       y="1395.9266"
+       x="947.04248"
+       height="23.11245"
+       width="113.11244"
+       id="rect380620"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#dedede;stroke-width:1.26255131;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       xml:space="preserve"
+       id="flowRoot380628"
+       style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125.69999695%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(1365.9755,1079.3995)"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"><flowRegion
+         id="flowRegion380624"
+         style="line-height:125.69999695%"><rect
+           id="rect380622"
+           width="298.58392"
+           height="42.784863"
+           x="-416.04245"
+           y="300.61685"
+           style="line-height:125.69999695%;fill:#8c8c8c;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara380626"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;fill-opacity:1">@fedora-websites</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#dedede;stroke-width:0.83913231;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect380630"
+       width="48.848366"
+       height="23.535868"
+       x="946.83069"
+       y="1427.5898"
+       ry="2.9302897"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       transform="translate(1365.8505,1112.212)"
+       style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125.69999695%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot380638"
+       xml:space="preserve"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"><flowRegion
+         id="flowRegion380634"
+         style="line-height:125.69999695%"><rect
+           style="line-height:125.69999695%;fill:#8c8c8c;fill-opacity:1"
+           y="300.61685"
+           x="-416.04245"
+           height="42.784863"
+           width="298.58392"
+           id="rect380632" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;fill-opacity:1"
+         id="flowPara380636">@i18n</flowPara></flowRoot>    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+       sodipodi:linespacing="125%"
+       id="text380642"
+       y="1240.3345"
+       x="946.35193"
+       style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#4c4c4c"
+         y="1240.3345"
+         x="946.35193"
+         sodipodi:role="line"
+         id="tspan380640">Followed Hubs:</tspan></text>
+    <g
+       style="stroke:#8c8c8c;stroke-width:8.65384579;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.32500001,0,0,0.32500001,795.46896,957.18485)"
+       id="g380648">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#8c8c8c;stroke-width:8.65384579;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 682.2237,977.3578 25,-25"
+         id="path380644"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path380646"
+         d="m 707.2237,977.3578 -25,-25"
+         style="fill:none;fill-rule:evenodd;stroke:#8c8c8c;stroke-width:8.65384579;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g380654"
+       transform="matrix(0.32500001,0,0,0.32500001,829.21896,992.80985)"
+       style="stroke:#8c8c8c;stroke-width:8.65384579;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+         inkscape:connector-curvature="0"
+         id="path380650"
+         d="m 682.2237,977.3578 25,-25"
+         style="fill:none;fill-rule:evenodd;stroke:#8c8c8c;stroke-width:8.65384579;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+         style="fill:none;fill-rule:evenodd;stroke:#8c8c8c;stroke-width:8.65384579;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 707.2237,977.3578 -25,-25"
+         id="path380652"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="stroke:#8c8c8c;stroke-width:8.65384579;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.32500001,0,0,0.32500001,829.21896,1026.5598)"
+       id="g380660">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#8c8c8c;stroke-width:8.65384579;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 682.2237,977.3578 25,-25"
+         id="path380656"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path380658"
+         d="m 707.2237,977.3578 -25,-25"
+         style="fill:none;fill-rule:evenodd;stroke:#8c8c8c;stroke-width:8.65384579;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g380666"
+       transform="matrix(0.32500001,0,0,0.32500001,829.21896,1060.3098)"
+       style="stroke:#8c8c8c;stroke-width:8.65384579;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+         inkscape:connector-curvature="0"
+         id="path380662"
+         d="m 682.2237,977.3578 25,-25"
+         style="fill:none;fill-rule:evenodd;stroke:#8c8c8c;stroke-width:8.65384579;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+         style="fill:none;fill-rule:evenodd;stroke:#8c8c8c;stroke-width:8.65384579;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 707.2237,977.3578 -25,-25"
+         id="path380664"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="stroke:#8c8c8c;stroke-width:8.65384579;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.32500001,0,0,0.32500001,847.96896,1095.9348)"
+       id="g380672">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#8c8c8c;stroke-width:8.65384579;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 682.2237,977.3578 25,-25"
+         id="path380668"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path380670"
+         d="m 707.2237,977.3578 -25,-25"
+         style="fill:none;fill-rule:evenodd;stroke:#8c8c8c;stroke-width:8.65384579;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g380678"
+       transform="matrix(0.32500001,0,0,0.32500001,782.34396,1126.8723)"
+       style="stroke:#8c8c8c;stroke-width:8.65384579;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+         inkscape:connector-curvature="0"
+         id="path380674"
+         d="m 682.2237,977.3578 25,-25"
+         style="fill:none;fill-rule:evenodd;stroke:#8c8c8c;stroke-width:8.65384579;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+         style="fill:none;fill-rule:evenodd;stroke:#8c8c8c;stroke-width:8.65384579;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 707.2237,977.3578 -25,-25"
+         id="path380676"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="stroke:#8c8c8c;stroke-width:8.65384579;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.32500001,0,0,0.32500001,814.21896,1160.6223)"
+       id="g380684">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#8c8c8c;stroke-width:8.65384579;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 682.2237,977.3578 25,-25"
+         id="path380680"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path380682"
+         d="m 707.2237,977.3578 -25,-25"
+         style="fill:none;fill-rule:evenodd;stroke:#8c8c8c;stroke-width:8.65384579;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path380686"
+       d="m 1100.6828,1205.6624 v 347.3663"
+       style="fill:none;stroke:#dedede;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       ry="3.75"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#3c6eb4;stroke-width:0.93749994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect380688"
+       width="359.0625"
+       height="33.75"
+       x="1119.3799"
+       y="1360.139"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-all_requests-modal.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+       id="text380692"
+       y="1381.897"
+       x="1127.2894"
+       style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.5px;line-height:4.71375036px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#8c8c8c"
+         y="1381.897"
+         x="1127.2894"
+         sodipodi:role="line"
+         id="tspan380690">@fedora-</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+       sodipodi:linespacing="125%"
+       id="text380696"
+       y="1381.522"
+       x="1514.6644"
+       style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#ffffff;fill-opacity:1"
+         y="1381.522"
+         x="1514.6644"
+         sodipodi:role="line"
+         id="tspan380694">Add</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+       style="display:inline;fill:#dedede;fill-opacity:1;stroke:none;stroke-width:1"
+       id="rect380698"
+       width="664.75562"
+       height="192.35928"
+       x="923.79602"
+       y="1011.2429" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+       sodipodi:linespacing="125%"
+       id="text380702"
+       y="1054.2277"
+       x="949.01312"
+       style="font-style:normal;font-weight:normal;font-size:4.40462494px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan380700"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:23.4913311px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#585858;fill-opacity:1;stroke-width:1px"
+         y="1054.2277"
+         x="949.01312"
+         sodipodi:role="line">Requests for Help Widget</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+       id="text380712"
+       y="1089.397"
+       x="951.97693"
+       style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:4.71375036px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan380704"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4c4c4c"
+         y="1089.397"
+         x="951.97693"
+         sodipodi:role="line">This widget serves as a 'Help wanted' board </tspan><tspan
+         id="tspan380706"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4c4c4c"
+         y="1115.647"
+         x="951.97693"
+         sodipodi:role="line">that you can use to publicize opportunities </tspan><tspan
+         id="tspan380708"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4c4c4c"
+         y="1141.897"
+         x="951.97693"
+         sodipodi:role="line">for collaboration with your hub members as </tspan><tspan
+         id="tspan380710"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4c4c4c"
+         y="1168.147"
+         x="951.97693"
+         sodipodi:role="line">well as with other hubs.</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text380716"
+       y="1000.2245"
+       x="933.93237"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.97028637px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.96038246px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         y="1000.2245"
+         x="933.93237"
+         id="tspan380714"
+         sodipodi:role="line">Configure 'Requests for Help' Widget</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path380718"
+       d="M 922.97372,1011.3891 H 1589.5362"
+       style="fill:none;stroke:#8c8c8c;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       style="stroke-width:1.45385027"
+       clip-path="url(#clipPath380498)"
+       transform="matrix(0.68782877,0,0,0.68782877,1241.4011,908.04123)"
+       id="g380984">
+      <rect
+         style="display:inline;fill:#f3f3f4;fill-opacity:1;stroke:none;stroke-width:0.38466454"
+         id="rect380720"
+         width="357.98108"
+         height="724.51349"
+         x="146.72372"
+         y="118.59435"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         y="118.59435"
+         x="146.72372"
+         height="32.347687"
+         width="357.98108"
+         id="rect380722"
+         style="display:inline;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:0.38466454"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text380726"
+         y="140.24669"
+         x="154.60513"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.97028637px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.38466454"
+         xml:space="preserve"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.96038246px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.38466454"
+           y="140.24669"
+           x="154.60513"
+           id="tspan380724"
+           sodipodi:role="line">Requests for Help</tspan></text>
+      <g
+         style="display:inline;fill:#f0f0f0;fill-opacity:1;stroke:#ffffff;stroke-width:1.45385027"
+         transform="matrix(1.0782563,0,0,-0.78374108,263.17595,56.75197)"
+         id="g380734"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <g
+           style="fill:#f0f0f0;fill-opacity:1;stroke:#ffffff;stroke-width:1.45385027"
+           transform="matrix(0.76432249,0,0,0.76432249,42.62109,-21.784362)"
+           id="g380732">
+          <path
+             inkscape:connector-curvature="0"
+             id="path380728"
+             d="m 166.4303,-106.42679 10.58555,10.475053"
+             style="fill:#f0f0f0;fill-opacity:1;stroke:#ffffff;stroke-width:8.72310066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             style="fill:#f0f0f0;fill-opacity:1;stroke:#ffffff;stroke-width:8.72310066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 185.01585,-106.42679 174.4303,-95.951737"
+             id="path380730"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <rect
+         y="257.72513"
+         x="156.42838"
+         height="172.10397"
+         width="338.57251"
+         id="rect380736"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.38466454"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         style="display:inline;stroke-width:1.45385027"
+         id="g380742"
+         transform="matrix(0.274904,0,0,0.7046856,260.36536,-476.66407)"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <rect
+           transform="rotate(180,0,16)"
+           style="opacity:0.57142861;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:1.45385027;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter23292)"
+           id="rect380738"
+           width="130"
+           height="34"
+           x="-818.5"
+           y="-1235.8623"
+           ry="5"
+           rx="6.594203" />
+        <rect
+           rx="6.594203"
+           ry="5"
+           y="-1267.8623"
+           x="-818.5"
+           height="34"
+           width="130"
+           id="rect380740"
+           style="fill:#ffffff;fill-opacity:1;stroke:#d1d3d4;stroke-width:1.45385027;stroke-miterlimit:4;stroke-dasharray:none"
+           transform="scale(-1)" />
+      </g>
+      <g
+         id="g380750"
+         transform="matrix(0,0.59188638,0.80257858,0,548.60364,301.36997)"
+         style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#60605b;stroke-width:1.45385027"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <g
+           id="g380748"
+           transform="matrix(0.76432249,0,0,0.76432249,42.62109,-21.784362)"
+           style="fill:#ffffff;fill-opacity:0;stroke:#60605b;stroke-width:1.45385027">
+          <path
+             style="fill:#ffffff;fill-opacity:0;stroke:#60605b;stroke-width:8.72310066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 166.4303,-106.42679 10.58555,10.475053"
+             id="path380744"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path380746"
+             d="M 185.01585,-106.42679 174.4303,-95.951737"
+             style="fill:#ffffff;fill-opacity:0;stroke:#60605b;stroke-width:8.72310066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+      </g>
+      <g
+         id="g380756"
+         transform="matrix(0.23302855,0.20796223,-0.20796224,0.23302853,360.69804,-154.90393)"
+         style="display:inline;fill:#f0f0f0;fill-opacity:1;stroke-width:1.45385027"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           inkscape:transform-center-y="-4.1374151"
+           transform="matrix(0.8660254,0.41687844,-0.5,0.72205464,401.02486,-374.34342)"
+           d="m 936.25983,556.49829 -14.88707,8.59506 -14.88708,8.59506 v -17.19012 -17.19011 l 14.88708,8.59505 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="false"
+           sodipodi:arg2="1.0471976"
+           sodipodi:arg1="0"
+           sodipodi:r2="9.9247169"
+           sodipodi:r1="19.849434"
+           sodipodi:cy="556.49829"
+           sodipodi:cx="916.4104"
+           sodipodi:sides="3"
+           id="path380752"
+           style="fill:#f0f0f0;fill-opacity:1;stroke:none;stroke-width:1.45385027"
+           sodipodi:type="star" />
+        <rect
+           transform="translate(0,-148.6377)"
+           y="562.15515"
+           x="911.46063"
+           height="42.072853"
+           width="9.8994951"
+           id="rect380754"
+           style="fill:#f0f0f0;fill-opacity:1;stroke:none;stroke-width:1.45385027" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         style="display:inline;fill:none;fill-opacity:0;stroke:#8c8c8c;stroke-width:1.45385027"
+         transform="matrix(0,-0.78042388,0.79657291,0,458.6618,959.3342)"
+         id="g380764">
+        <g
+           style="fill:none;fill-opacity:0;stroke:#8c8c8c;stroke-width:1.45385027"
+           transform="matrix(0.76432249,0,0,0.76432249,42.62109,-21.784362)"
+           id="g380762">
+          <path
+             inkscape:connector-curvature="0"
+             id="path380758"
+             d="m 166.4303,-106.42679 10.58555,10.475053"
+             style="fill:none;fill-opacity:0;stroke:#8c8c8c;stroke-width:8.72310066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             style="fill:none;fill-opacity:0;stroke:#8c8c8c;stroke-width:8.72310066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 185.01585,-106.42679 174.4303,-95.951737"
+             id="path380760"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:1.45385027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="167.41443"
+         y="320.39697"
+         id="text380772"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan380766"
+           sodipodi:role="line"
+           x="167.41443"
+           y="320.39697"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.25px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#4c4c4c;stroke-width:1.45385027px">&quot;The #fedora-apps team needs people to </tspan><tspan
+           id="tspan380770"
+           sodipodi:role="line"
+           x="167.41443"
+           y="340.82321"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#4c4c4c;stroke-width:1.45385027px"><tspan
+   id="tspan380768"
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.25px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#4c4c4c;stroke-width:1.45385027px"> help review code</tspan>&quot;</tspan></text>
+      <ellipse
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         ry="13.5"
+         rx="13.500001"
+         cy="404.89709"
+         cx="183.91443"
+         id="ellipse380774"
+         style="opacity:1;fill:#e59728;fill-opacity:1;stroke:none;stroke-width:5.81540108;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         sodipodi:linespacing="125%"
+         id="text380778"
+         y="409.39722"
+         x="205.41443"
+         style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.45385027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#3c6eb4;stroke-width:1.45385027px"
+           y="409.39722"
+           x="205.41443"
+           sodipodi:role="line"
+           id="tspan380776">threebean</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         sodipodi:linespacing="125%"
+         id="text380782"
+         y="411.39722"
+         x="180.41443"
+         style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.45385027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;fill-opacity:1;stroke-width:1.45385027px"
+           y="411.39722"
+           x="180.41443"
+           sodipodi:role="line"
+           id="tspan380780">T</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.45193577px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:0.38466454"
+         x="160.8143"
+         y="245.18265"
+         id="text380786"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan380784"
+           x="160.8143"
+           y="245.18265"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.45193577px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;stroke-width:0.38466454">TODAY</tspan></text>
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         ry="11"
+         y="266.36218"
+         x="162"
+         height="24"
+         width="125"
+         id="rect380788"
+         style="opacity:1;fill:#5bc0de;fill-opacity:1;stroke:none;stroke-width:5.81540108;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <flowRoot
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         transform="translate(585,-48.875)"
+         style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125.69999695%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.45385027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot380796"
+         xml:space="preserve"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><flowRegion
+           style="line-height:125.69999695%;stroke-width:1.45385027px"
+           id="flowRegion380792"><rect
+             style="line-height:125.69999695%;fill:#ffffff;fill-opacity:1;stroke-width:1.45385027px"
+             y="300.61685"
+             x="-416.04245"
+             height="42.784863"
+             width="298.58392"
+             id="rect380790" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.36159706px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;fill-opacity:1;stroke-width:1.45385027px"
+           id="flowPara380794">@fedora-devel</flowPara></flowRoot>      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1.45385027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="381.41443"
+         y="283.39722"
+         id="text380800"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan380798"
+           sodipodi:role="line"
+           x="381.41443"
+           y="283.39722"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;stroke-width:1.45385027px">#fedora-devel</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         sodipodi:linespacing="125%"
+         id="text380804"
+         y="366.39697"
+         x="171.41443"
+         style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1.45385027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#3c6eb4;stroke-width:1.45385027px"
+           y="366.39697"
+           x="171.41443"
+           sodipodi:role="line"
+           id="tspan380802">pagure.io/fedora-hubs/issue/21</tspan></text>
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.38466454"
+         id="rect380806"
+         width="338.57251"
+         height="154.10397"
+         x="156.42838"
+         y="439.72513" />
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         transform="matrix(0.274904,0,0,0.7046856,260.36536,-314.66407)"
+         id="g380812"
+         style="display:inline;stroke-width:1.45385027">
+        <rect
+           rx="6.594203"
+           ry="5"
+           y="-1235.8623"
+           x="-818.5"
+           height="34"
+           width="130"
+           id="rect380808"
+           style="opacity:0.57142861;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:1.45385027;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter23292)"
+           transform="rotate(180,0,16)" />
+        <rect
+           transform="scale(-1)"
+           style="fill:#ffffff;fill-opacity:1;stroke:#d1d3d4;stroke-width:1.45385027;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect380810"
+           width="130"
+           height="34"
+           x="-818.5"
+           y="-1267.8623"
+           ry="5"
+           rx="6.594203" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#60605b;stroke-width:1.45385027"
+         transform="matrix(0,0.59188638,0.80257858,0,548.60364,463.36997)"
+         id="g380820">
+        <g
+           style="fill:#ffffff;fill-opacity:0;stroke:#60605b;stroke-width:1.45385027"
+           transform="matrix(0.76432249,0,0,0.76432249,42.62109,-21.784362)"
+           id="g380818">
+          <path
+             inkscape:connector-curvature="0"
+             id="path380814"
+             d="m 166.4303,-106.42679 10.58555,10.475053"
+             style="fill:#ffffff;fill-opacity:0;stroke:#60605b;stroke-width:8.72310066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             style="fill:#ffffff;fill-opacity:0;stroke:#60605b;stroke-width:8.72310066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 185.01585,-106.42679 174.4303,-95.951737"
+             id="path380816"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         sodipodi:linespacing="125%"
+         id="text380824"
+         y="502.39697"
+         x="167.41443"
+         style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:1.45385027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15.625px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#4c4c4c;stroke-width:1.45385027px"
+           y="502.39697"
+           x="167.41443"
+           sodipodi:role="line"
+           id="tspan380822">&quot;I need help creating signs for Flock.&quot;</tspan></text>
+      <ellipse
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         style="opacity:1;fill:#a07cbc;fill-opacity:1;stroke:none;stroke-width:5.81540108;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse380826"
+         cx="183.91443"
+         cy="566.89709"
+         rx="13.500001"
+         ry="13.5" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.45385027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="177.41443"
+         y="573.39722"
+         id="text380830"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan380828"
+           sodipodi:role="line"
+           x="177.41443"
+           y="573.39722"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;fill-opacity:1;stroke-width:1.45385027px">M</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         sodipodi:linespacing="125%"
+         id="text380834"
+         y="465.39722"
+         x="377.41443"
+         style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1.45385027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;stroke-width:1.45385027px"
+           y="465.39722"
+           x="377.41443"
+           sodipodi:role="line"
+           id="tspan380832">#fedora-design</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1.45385027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="171.41443"
+         y="526.39697"
+         id="text380838"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan380836"
+           sodipodi:role="line"
+           x="171.41443"
+           y="526.39697"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#3c6eb4;stroke-width:1.45385027px">fedorahosted.org/design-team/issue/423</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text380842"
+         y="625.18262"
+         x="160.8143"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.45193577px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:0.38466454"
+         xml:space="preserve"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.45193577px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;stroke-width:0.38466454"
+           y="625.18262"
+           x="160.8143"
+           id="tspan380840"
+           sodipodi:role="line">YESTERDAY</tspan></text>
+      <rect
+         y="639.7251"
+         x="156.42838"
+         height="154.10397"
+         width="338.57251"
+         id="rect380844"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.38466454"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         style="display:inline;stroke-width:1.45385027"
+         id="g380850"
+         transform="matrix(0.274904,0,0,0.7046856,260.36536,-114.66407)"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <rect
+           transform="rotate(180,0,16)"
+           style="opacity:0.57142861;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:1.45385027;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter23292)"
+           id="rect380846"
+           width="130"
+           height="34"
+           x="-818.5"
+           y="-1235.8623"
+           ry="5"
+           rx="6.594203" />
+        <rect
+           rx="6.594203"
+           ry="5"
+           y="-1267.8623"
+           x="-818.5"
+           height="34"
+           width="130"
+           id="rect380848"
+           style="fill:#ffffff;fill-opacity:1;stroke:#d1d3d4;stroke-width:1.45385027;stroke-miterlimit:4;stroke-dasharray:none"
+           transform="scale(-1)" />
+      </g>
+      <g
+         id="g380858"
+         transform="matrix(0,0.59188638,0.80257858,0,548.60364,663.36997)"
+         style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#60605b;stroke-width:1.45385027"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <g
+           id="g380856"
+           transform="matrix(0.76432249,0,0,0.76432249,42.62109,-21.784362)"
+           style="fill:#ffffff;fill-opacity:0;stroke:#60605b;stroke-width:1.45385027">
+          <path
+             style="fill:#ffffff;fill-opacity:0;stroke:#60605b;stroke-width:8.72310066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 166.4303,-106.42679 10.58555,10.475053"
+             id="path380852"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path380854"
+             d="M 185.01585,-106.42679 174.4303,-95.951737"
+             style="fill:#ffffff;fill-opacity:0;stroke:#60605b;stroke-width:8.72310066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+      </g>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:1.45385027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="167.41443"
+         y="702.39697"
+         id="text380862"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan380860"
+           sodipodi:role="line"
+           x="167.41443"
+           y="702.39697"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15.625px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#4c4c4c;stroke-width:1.45385027px">&quot;I need help with the log out bug.&quot;</tspan></text>
+      <ellipse
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         ry="13.5"
+         rx="13.500001"
+         cy="766.89709"
+         cx="183.91443"
+         id="ellipse380864"
+         style="opacity:1;fill:#79db32;fill-opacity:1;stroke:none;stroke-width:5.81540108;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         sodipodi:linespacing="125%"
+         id="text380868"
+         y="771.39722"
+         x="205.41443"
+         style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.45385027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#3c6eb4;stroke-width:1.45385027px"
+           y="771.39722"
+           x="205.41443"
+           sodipodi:role="line"
+           id="tspan380866">decause</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         sodipodi:linespacing="125%"
+         id="text380872"
+         y="772.39722"
+         x="179.41443"
+         style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.45385027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;fill-opacity:1;stroke-width:1.45385027px"
+           y="772.39722"
+           x="179.41443"
+           sodipodi:role="line"
+           id="tspan380870">D</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1.45385027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="377.41443"
+         y="665.39722"
+         id="text380876"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan380874"
+           sodipodi:role="line"
+           x="377.41443"
+           y="665.39722"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;stroke-width:1.45385027px">#fedora-hubs</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         sodipodi:linespacing="125%"
+         id="text380880"
+         y="726.39697"
+         x="171.41443"
+         style="font-style:normal;font-weight:normal;font-size:3.75000024px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1.45385027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#3c6eb4;stroke-width:1.45385027px"
+           y="726.39697"
+           x="171.41443"
+           sodipodi:role="line"
+           id="tspan380878">pagure.io/fedora-hubs/issue/99</tspan></text>
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         style="opacity:1;fill:#5bc0de;fill-opacity:1;stroke:none;stroke-width:5.81540108;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect380882"
+         width="125"
+         height="24"
+         x="162"
+         y="448.36218"
+         ry="11" />
+      <flowRoot
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         xml:space="preserve"
+         id="flowRoot380890"
+         style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125.69999695%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.45385027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(585,133.125)"><flowRegion
+           style="line-height:125.69999695%;stroke-width:1.45385027px"
+           id="flowRegion380886"><rect
+             id="rect380884"
+             width="298.58392"
+             height="42.784863"
+             x="-416.04245"
+             y="300.61685"
+             style="line-height:125.69999695%;fill:#ffffff;fill-opacity:1;stroke-width:1.45385027px" /></flowRegion><flowPara
+           id="flowPara380888"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.36159706px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;fill-opacity:1;stroke-width:1.45385027px">@designteam</flowPara></flowRoot>      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         ry="11"
+         y="650.36218"
+         x="162"
+         height="24"
+         width="125"
+         id="rect380892"
+         style="opacity:1;fill:#5bc0de;fill-opacity:1;stroke:none;stroke-width:5.81540108;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <flowRoot
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         transform="translate(585,335.125)"
+         style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125.69999695%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.45385027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot380900"
+         xml:space="preserve"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><flowRegion
+           style="line-height:125.69999695%;stroke-width:1.45385027px"
+           id="flowRegion380896"><rect
+             style="line-height:125.69999695%;fill:#ffffff;fill-opacity:1;stroke-width:1.45385027px"
+             y="300.61685"
+             x="-416.04245"
+             height="42.784863"
+             width="298.58392"
+             id="rect380894" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.36159706px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;fill-opacity:1;stroke-width:1.45385027px"
+           id="flowPara380898">@fedora-hubs</flowPara></flowRoot>      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         ry="2.8433251"
+         y="161.94351"
+         x="184.58131"
+         height="22.837372"
+         width="95.293213"
+         id="rect380902"
+         style="opacity:1;fill:#e7e8e8;fill-opacity:1;stroke:#dedede;stroke-width:1.69028819;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <flowRoot
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         xml:space="preserve"
+         id="flowRoot380910"
+         style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125.69999695%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1.45385027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(604.60053,-154.3505)"><flowRegion
+           style="line-height:125.69999695%;stroke-width:1.45385027px"
+           id="flowRegion380906"><rect
+             id="rect380904"
+             width="298.58392"
+             height="42.784863"
+             x="-416.04245"
+             y="300.61685"
+             style="line-height:125.69999695%;fill:#8c8c8c;fill-opacity:1;stroke-width:1.45385027px" /></flowRegion><flowPara
+           id="flowPara380908"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;fill-opacity:1;stroke-width:1.45385027px">@fedora-devel</flowPara></flowRoot>      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         style="opacity:1;fill:#e7e8e8;fill-opacity:1;stroke:#dedede;stroke-width:1.69028819;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect380912"
+         width="95.293213"
+         height="22.837372"
+         x="284.58133"
+         y="161.94351"
+         ry="2.8433251" />
+      <flowRoot
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         transform="translate(706.60053,-154.3505)"
+         style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125.69999695%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1.45385027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot380920"
+         xml:space="preserve"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><flowRegion
+           style="line-height:125.69999695%;stroke-width:1.45385027px"
+           id="flowRegion380916"><rect
+             style="line-height:125.69999695%;fill:#8c8c8c;fill-opacity:1;stroke-width:1.45385027px"
+             y="300.61685"
+             x="-416.04245"
+             height="42.784863"
+             width="298.58392"
+             id="rect380914" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;fill-opacity:1;stroke-width:1.45385027px"
+           id="flowPara380918">@designteam</flowPara></flowRoot>      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         ry="2.8433251"
+         y="161.94351"
+         x="384.58133"
+         height="22.837372"
+         width="95.293213"
+         id="rect380922"
+         style="opacity:1;fill:#e7e8e8;fill-opacity:1;stroke:#dedede;stroke-width:1.69028819;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <flowRoot
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         xml:space="preserve"
+         id="flowRoot380930"
+         style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125.69999695%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1.45385027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(806.60053,-154.3505)"><flowRegion
+           style="line-height:125.69999695%;stroke-width:1.45385027px"
+           id="flowRegion380926"><rect
+             id="rect380924"
+             width="298.58392"
+             height="42.784863"
+             x="-416.04245"
+             y="300.61685"
+             style="line-height:125.69999695%;fill:#8c8c8c;fill-opacity:1;stroke-width:1.45385027px" /></flowRegion><flowPara
+           id="flowPara380928"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;fill-opacity:1;stroke-width:1.45385027px">@fedora-hubs</flowPara></flowRoot>      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#dedede;stroke-width:1.54368496;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect380932"
+         width="79.130592"
+         height="22.93821"
+         x="156.5309"
+         y="191.8931"
+         ry="2.8558798" />
+      <flowRoot
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         transform="translate(576.60051,-124.35052)"
+         style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125.69999695%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1.45385027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot380940"
+         xml:space="preserve"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><flowRegion
+           style="line-height:125.69999695%;stroke-width:1.45385027px"
+           id="flowRegion380936"><rect
+             style="line-height:125.69999695%;fill:#8c8c8c;fill-opacity:1;stroke-width:1.45385027px"
+             y="300.61685"
+             x="-416.04245"
+             height="42.784863"
+             width="298.58392"
+             id="rect380934" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;fill-opacity:1;stroke-width:1.45385027px"
+           id="flowPara380938">@marketing</flowPara></flowRoot>      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         ry="2.8711505"
+         y="191.83177"
+         x="240.46957"
+         height="23.060863"
+         width="61.575577"
+         id="rect380942"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#dedede;stroke-width:1.36536491;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <flowRoot
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         xml:space="preserve"
+         id="flowRoot380950"
+         style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125.69999695%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1.45385027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(660.60051,-124.35052)"><flowRegion
+           style="line-height:125.69999695%;stroke-width:1.45385027px"
+           id="flowRegion380946"><rect
+             id="rect380944"
+             width="298.58392"
+             height="42.784863"
+             x="-416.04245"
+             y="300.61685"
+             style="line-height:125.69999695%;fill:#8c8c8c;fill-opacity:1;stroke-width:1.45385027px" /></flowRegion><flowPara
+           id="flowPara380948"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;fill-opacity:1;stroke-width:1.45385027px">@council</flowPara></flowRoot>      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#dedede;stroke-width:1.83556044;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect380952"
+         width="112.87096"
+         height="22.73745"
+         x="306.63129"
+         y="191.99348"
+         ry="2.8308845" />
+      <flowRoot
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         transform="translate(726.60051,-124.35052)"
+         style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125.69999695%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1.45385027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot380960"
+         xml:space="preserve"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><flowRegion
+           style="line-height:125.69999695%;stroke-width:1.45385027px"
+           id="flowRegion380956"><rect
+             style="line-height:125.69999695%;fill:#8c8c8c;fill-opacity:1;stroke-width:1.45385027px"
+             y="300.61685"
+             x="-416.04245"
+             height="42.784863"
+             width="298.58392"
+             id="rect380954" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;fill-opacity:1;stroke-width:1.45385027px"
+           id="flowPara380958">@fedora-websites</flowPara></flowRoot>      <use
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         style="fill:#8c8c8c;stroke-width:1.45385027"
+         transform="matrix(0.18081362,0,0,0.18081362,158.41439,163.85212)"
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#tags"
+         id="use380962" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         ry="2.8836014"
+         y="191.78177"
+         x="424.41959"
+         height="23.16087"
+         width="48.947659"
+         id="rect380964"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#dedede;stroke-width:1.21997261;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <flowRoot
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         xml:space="preserve"
+         id="flowRoot380972"
+         style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125.69999695%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1.45385027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(844.60051,-124.35052)"><flowRegion
+           style="line-height:125.69999695%;stroke-width:1.45385027px"
+           id="flowRegion380968"><rect
+             id="rect380966"
+             width="298.58392"
+             height="42.784863"
+             x="-416.04245"
+             y="300.61685"
+             style="line-height:125.69999695%;fill:#8c8c8c;fill-opacity:1;stroke-width:1.45385027px" /></flowRegion><flowPara
+           id="flowPara380970"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;fill-opacity:1;stroke-width:1.45385027px">@i18n</flowPara></flowRoot>      <flowRoot
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         xml:space="preserve"
+         id="flowRoot380980"
+         style="font-style:normal;font-weight:normal;font-size:36.41267395px;line-height:125.69999695%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1.45385027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(685.38446,493.00671)"
+         inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget.png"><flowRegion
+           id="flowRegion380976"
+           style="line-height:125.69999695%;fill:#8c8c8c;stroke-width:1.45385027px"><rect
+             id="rect380974"
+             width="298.58392"
+             height="42.784863"
+             x="-416.04245"
+             y="300.61685"
+             style="line-height:125.69999695%;fill:#8c8c8c;fill-opacity:1;stroke-width:1.45385027px" /></flowRegion><flowPara
+           id="flowPara380978"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c;fill-opacity:1;stroke-width:1.45385027px">View More</flowPara></flowRoot>      <use
+         style="fill:#f0f0f0;fill-opacity:1;stroke-width:30.34706688"
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         transform="matrix(0.04491322,0,0,0.04491322,414.5472,118.18042)"
+         xlink:href="#icon-cog"
+         id="use380982" />
+    </g>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-all_requests-modal.png"
+       y="-1537.3265"
+       x="1119.3799"
+       height="141.5625"
+       width="359.0625"
+       id="rect380986"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#dedede;stroke-width:0.93749988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       ry="0"
+       transform="scale(1,-1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.5px;line-height:4.71375036px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1127.2894"
+       y="1448.4595"
+       id="text380990"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan380988"
+         sodipodi:role="line"
+         x="1127.2894"
+         y="1448.4595"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#8c8c8c">@fedora-atomic</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+       id="text380994"
+       y="1478.4595"
+       x="1127.2894"
+       style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.5px;line-height:4.71375036px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#8c8c8c"
+         y="1478.4595"
+         x="1127.2894"
+         sodipodi:role="line"
+         id="tspan380992">@fedora-cloud</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.5px;line-height:4.71375036px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1127.2894"
+       y="1507.522"
+       id="text380998"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan380996"
+         sodipodi:role="line"
+         x="1127.2894"
+         y="1507.522"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#8c8c8c">@fedora-marketing</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+       id="text381002"
+       y="1535.647"
+       x="1127.2894"
+       style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.5px;line-height:4.71375036px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#8c8c8c"
+         y="1535.647"
+         x="1127.2894"
+         sodipodi:role="line"
+         id="tspan381000">@fedora-websites</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-request_modal.png"
+       id="text381006"
+       y="1419.397"
+       x="1127.2894"
+       style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.5px;line-height:4.71375036px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125.69999695%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#8c8c8c"
+         y="1419.397"
+         x="1127.2894"
+         sodipodi:role="line"
+         id="tspan381004">@fedora-arm</tspan></text>
+    <rect
+       transform="scale(1,-1)"
+       ry="0"
+       style="display:inline;fill:#efefef;fill-opacity:1;stroke:#dedede;stroke-width:0.93749982;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect381008"
+       width="18.750004"
+       height="141.5625"
+       x="1459.6924"
+       y="-1537.3265"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-all_requests-modal.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/help_widget-all_requests-modal.png"
+       y="-1464.2015"
+       x="1459.6924"
+       height="55.3125"
+       width="18.750004"
+       id="rect381010"
+       style="display:inline;fill:#d2d2d2;fill-opacity:1;stroke:#dedede;stroke-width:0.93749982;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       ry="0"
+       transform="scale(1,-1)" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:2.52765536;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path381012"
+       sodipodi:sides="3"
+       sodipodi:cx="1465.7863"
+       sodipodi:cy="1397.1704"
+       sodipodi:r1="10.481568"
+       sodipodi:r2="5.2407842"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.5707963"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 1474.8636,1402.4112 -9.0773,0 -9.0773,0 4.5386,-7.8612 4.5387,-7.8612 4.5386,7.8612 z"
+       inkscape:transform-center-y="-0.74536626"
+       transform="matrix(0.48360222,0,0,0.28445824,759.74128,1005.3588)"
+       inkscape:transform-center-x="-9.9846945e-06" />
+    <path
+       inkscape:transform-center-x="-9.9846945e-06"
+       transform="matrix(0.48360222,0,0,-0.28445824,759.74128,1926.2413)"
+       inkscape:transform-center-y="0.74537878"
+       d="m 1474.8636,1402.4112 -9.0773,0 -9.0773,0 4.5386,-7.8612 4.5387,-7.8612 4.5386,7.8612 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="1.5707963"
+       sodipodi:arg1="0.52359878"
+       sodipodi:r2="5.2407842"
+       sodipodi:r1="10.481568"
+       sodipodi:cy="1397.1704"
+       sodipodi:cx="1465.7863"
+       sodipodi:sides="3"
+       id="path381014"
+       style="opacity:1;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:2.52765536;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="star" />
   </g>
   <g
      inkscape:groupmode="layer"
