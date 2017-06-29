@@ -713,18 +713,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="81.725792"
+     inkscape:cx="-233.69536"
      inkscape:cy="762.11225"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-width="944"
+     inkscape:window-height="937"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
      inkscape:document-rotation="0"
-     inkscape:snap-global="false" />
+     inkscape:snap-global="false"
+     showguides="false" />
   <metadata
      id="metadata85888">
     <rdf:RDF>
@@ -865,7 +866,7 @@
        inkscape:connector-curvature="0"
        id="path35367"
        d="m 27.99068,193.7189 352,0"
-       style="fill:none;fill-rule:evenodd;stroke:#ececec;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;fill-rule:evenodd;stroke:#ececec;stroke-width:1.0003125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#ececec;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 27.99068,327.7189 352,0"
@@ -9830,12 +9831,12 @@
        x="20.718182"
        y="45.186069" />
     <rect
-       y="23.742558"
+       y="23.742975"
        x="-377.91318"
-       height="33.715111"
-       width="357.0181"
+       height="33.714699"
+       width="357.01373"
        id="rect34774-6"
-       style="display:inline;fill:#f3f3f3;fill-opacity:1;stroke:#e5e5e5;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:#f3f3f3;fill-opacity:1;stroke:#e5e5e5;stroke-width:0.99998778;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="/home/duffy/SparkleShare/fedora-hubs/_mockups_/widgets/PNG/my_next_badges.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
