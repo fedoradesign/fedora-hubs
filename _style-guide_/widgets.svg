@@ -328,15 +328,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="3286.5473"
-     inkscape:cy="1814.9225"
+     inkscape:cx="2950.5473"
+     inkscape:cy="1601.9225"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="2560"
-     inkscape:window-height="1403"
+     inkscape:window-height="1376"
      inkscape:window-x="2560"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:document-rotation="0"
      inkscape:snap-global="false"
@@ -784,7 +784,7 @@
        xml:space="preserve"
        id="flowRoot35559"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:23.4375px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(2481.6501,-1254.4723)"
+       transform="translate(2481.6501,-1260.0973)"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion35561"
@@ -797,7 +797,7 @@
            style="line-height:23.4375px;fill:#8c8c8c" /></flowRegion><flowPara
          id="flowPara35565"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c">bugzilla.redhat.com</flowPara></flowRoot>    <flowRoot
-       transform="translate(2549.6501,-1126.4723)"
+       transform="translate(2549.6501,-1132.0973)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:23.4375px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot35567"
        xml:space="preserve"
@@ -813,7 +813,7 @@
            id="rect35571" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c"
          id="flowPara35573">pagure.io</flowPara></flowRoot>    <image
-       y="-652.07709"
+       y="-650.20209"
        x="2712.915"
        id="image35583"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABHNCSVQICAgIfAhkiAAABC1JREFU SIntlV9s01UUx7/n3ra/tZWuW2EZoUHcAyhzY50YJUYkC+oiMRpZXSZEQyLqiyZq3FrWyS+Mjc5I jPGFFx8QYyJj6oOJJAYTEohEN5UByxxjDLd23datW6t0bX+/e3woQ6Dogq/6fbrJued8zr/kAP9r CdHfGfx+v/R6vbayspJ7leJSU9LUdGR6KBaLGd3d3ea/BnR2BleQdHYSqB4ELwAwc5qI7Pk3RgE+ nkkbbbqux+8IEA53bIPA1wyOWKSle4Wn/NOKigo2DMOradqFwcFzZTOJ2SZTqecItMpUZlNr4N3P AfCSgANd7fuIRFsmk3mleoMvp1k0nZnLFjO/pj8ARDOZTHv/hV5oNscnYBwLtLT6/xEQDu/bCSGP CIjd1dW+R5VSLy5VupTy2PnB84eyC+njIHwZbA413q4S6ujoWCksPKwUv1dTXfsCEa1dKviimDk2 MNS/w8ypE2xyQzAY6rn1jxBWPA3AtqHKN3G74EQEIQSEEAUAIiqvus+3M5PJvEySjum67i4AEPNu pUxdSlnQFqUUJqcmMDQ8iJHRS0inrxZAlFK7qiprkgDHNLulvQAAoo2xRPwwMz9yoyGbzWJg8Dyi E9HpZHJu/1wifmRoeBCjV0YK+my32zuFED0APeX3++XNAAAOyqRudbo8egmGmTu9ZXOd7wHfQ46N vk19dq3osfnkXHZqKgZBf7WMmStsNnspwOWVlZU3rb4FAOZNoSG/AQQAhmnAMHPQtKLDiURiSAjp MJSBtWvXnzr9w8knJiajJz2e5ZDSAiEkfhu7LBYWrjYRqx26rhs3AuTWrXWNToczvarc6wCwBgAY jPhMHMzcJ6VcNzJ6cZnHs5wEidUul/u7+bnEk07nMqthGnR5dBjJ1HyKmN8Byfq6x+tWlpZ4egcG BhgABIM/tgrLQSHEoetlSQuKXcUwjFxbJDJ2MZfLCdPIJ+bQHJtBMMcjV/jSyK+cXkj/aDLqmeh9 EBoE0Ye1D9b8tBiL9C7dW0TWMaX47Zrq2gYAm4D8es7OziD1exLFLje73SXEzJiMTz4fm4h8BkKE GW1EeIZA25lZAVggIkd+MBhnlaoWeos+rhTvF4IO9vZ+/yqAb68NDiUlpbh79T0oLnYTMzMRvRWN jj1LhHiwObRGAEECbUd+eN8EW0LOQHMrKVbbAR6HuGufAIA9gVCbAj6yFRX1nz338xmXy3U/ER1l ZsXMAMRXUsr1v5zrq5dCNhlZPJzPUjVenybRtnBXRw8A7Glp+yLQEtpEnArdtFIHujpaibAXgJHN 5j4wsukzSgiyW7Ut0mp9k8ERxeZLrS17Tyz6hMPtrzOJvUTw5CvHMDHvCgRCp4Db3ANdh9Ds+18j 4A0QrbvWrrOKVTi3oI7quq4KfXQLADeAbDQaTScSCXUnR+k/rj8BZsHow8wMJb8AAAAASUVORK5C YII= "
@@ -836,7 +836,7 @@
        xml:space="preserve"
        id="flowRoot35597"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:23.4375px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(2493.6501,-998.4723)"
+       transform="translate(2493.6501,-1002.2223)"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion35599"
@@ -849,7 +849,7 @@
            style="line-height:23.4375px;fill:#8c8c8c" /></flowRegion><flowPara
          id="flowPara35603"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#8c8c8c">fedorahosted.org</flowPara></flowRoot>    <image
-       y="-523.07709"
+       y="-521.20209"
        x="2712.915"
        id="image35613"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAABQxJREFU WIW1l19MU1ccx7+XdVwqWKCKQImrhWm0uGlxCxPmFttsIwESJWTzT4wP6sMmJiomWwjolhSyRZrt AXzQaGJCQnwAjaFqog2aCbNTpJkFujlkzPRSrLS1M7SHsJ49kF69vae1gPslTe759z2f8/v9zu/e Aos0h9lMF6uxYPPa7bR77VpqP3p0wRApiwEIOJ2IEAL3lSt4cu/ugiAWBbB882YoVCoAwOyz4GKk pBby+ejU/ftJnchrt9OR9vbXmwdOi4VeNhioYLMlJSzYbEnPjTVmCMjUFMKTk/itufmVG182GGj/ /v24c/AgbNu305DPNy8QJkBBZSVSc3KQWaxPuHiwsRHhyUkAQIQQTNnt+PXQofnszwbIKy/nPu7s hHrjRvxyqI6OdnTITuXp66PE70cKz78Q43lMDQzA09cnzvcPD9NEtSLuLRjv7sYDczPcPVYMNjVh oKFBIhKanESEENm6CCFwW61i2331Kh51dGBaEJgQTADBZqOPOjokfWOdnXg50RSpqZLTvwzwfHxc bAeGhhAhBOMXLzIPyga4cIF5uvFLL0QyCgvZgjyPtNxcsZ1VXDzXl5+fPIDf7WYCeG/3IZrl2Xo9 p1AqmaLLS0rE5/X19ZyhpQW6mhouaYDUrCym8EwggN9PnRLbOR+Wy0AVKhXyjUYAcwXt1u7ddLCh Ie4VZQKs2rFDLLGx5rZaRS8UHz4icXeEEOR+tAVLNBoOABwnjsPb348IIfA7HHCcOC7TEwGcFgu9 ZjRS//Aw1VZXc9qaGiZAyOOB5+ZNAICqqIh7p6kJKTyPCCFI12pRfPgIgLnrN3H9hmTtxPUbiL3S iujDc+8TBF0u2OvqAACbWlo4p8VC/zhzBrPBoCTjwxMT4rOupoYTbDbqczjw1rZtUBUVcQDg6e2V hSdCCLzOB2wPrP78C6Rrtfg3FBLv7Pr6em7L+fPI3bpVDEmGToeCigqJiMZk4tbX13PRzQEg4BqR eS+F57Fs9RpJn+iBZSUl3LQg0ODYGGZDITjMZpqp1yOntJQDgGlBoCQQQLZez6GoSCYeawo+jQmQ ueFdNgAAMXmuGY006HJBoVLhzjdf0w++/4GLjsXa454eOuVwQKFUonDnTlFjeVkZxru6JHOXFhZi xXvvS3Rkol67nf68d68kfm/v24eNjY2SucHRUdp/4ACej42Jfcq8PBitVijVai7k89FbtbXieArP Y9PJk9BWV0t0JB4AgODDh7Lk+fPsWTzu6aErq6rExUM//YigyyVJzpDHg9t79mBaEKhSreamBYGO tLWBPn2KZRUVss2ZAPHs7rFjCPl8VKlWcwDguzfAfBc8Gx7GjcpKjLS3U0nYTp9m6soKkTJOzQYA Gg4DAF710TETCGCotRWXDQbqtFgSzpUBaEwmLkOnk4WBz84WEyzs8YD4/Yl0RRBXWxsSfTMyS3Fp WxvStVpECBF/mevWieNDra2YDSb/FTztdscdYwJk6/Xc1q4u6HbtQrpWi7TcXKz56ksAcyXb09vL jH88yzeZ4o7FTcKou0M+H6XhMJZoNFxwdJTerK1NuFks2MqqKmhMJmYNSQgQtWjWA8Dfly5hJhBg brqirAw55WVYukqHNzMyQN9IQYamAPEKWNIAL9s/f40hQojklJl6PTZ89+1chTt3bj5yc/Dzmaz5 9DPx/Z+alYW1dXX4xGrlYsvr/2qCzUYdZjP12u2v5e/Yf+FBMlHUI8VdAAAAAElFTkSuQmCC "
@@ -1023,7 +1023,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
-       transform="translate(2493.6501,-848.47227)"
+       transform="translate(2493.6501,-852.22227)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:23.4375px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot36293"
        xml:space="preserve"
@@ -1045,7 +1045,7 @@
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAABQxJREFU WIW1l19MU1ccx7+XdVwqWKCKQImrhWm0uGlxCxPmFttsIwESJWTzT4wP6sMmJiomWwjolhSyRZrt AXzQaGJCQnwAjaFqog2aCbNTpJkFujlkzPRSrLS1M7SHsJ49kF69vae1gPslTe759z2f8/v9zu/e Aos0h9lMF6uxYPPa7bR77VpqP3p0wRApiwEIOJ2IEAL3lSt4cu/ugiAWBbB882YoVCoAwOyz4GKk pBby+ejU/ftJnchrt9OR9vbXmwdOi4VeNhioYLMlJSzYbEnPjTVmCMjUFMKTk/itufmVG182GGj/ /v24c/AgbNu305DPNy8QJkBBZSVSc3KQWaxPuHiwsRHhyUkAQIQQTNnt+PXQofnszwbIKy/nPu7s hHrjRvxyqI6OdnTITuXp66PE70cKz78Q43lMDQzA09cnzvcPD9NEtSLuLRjv7sYDczPcPVYMNjVh oKFBIhKanESEENm6CCFwW61i2331Kh51dGBaEJgQTADBZqOPOjokfWOdnXg50RSpqZLTvwzwfHxc bAeGhhAhBOMXLzIPyga4cIF5uvFLL0QyCgvZgjyPtNxcsZ1VXDzXl5+fPIDf7WYCeG/3IZrl2Xo9 p1AqmaLLS0rE5/X19ZyhpQW6mhouaYDUrCym8EwggN9PnRLbOR+Wy0AVKhXyjUYAcwXt1u7ddLCh Ie4VZQKs2rFDLLGx5rZaRS8UHz4icXeEEOR+tAVLNBoOABwnjsPb348IIfA7HHCcOC7TEwGcFgu9 ZjRS//Aw1VZXc9qaGiZAyOOB5+ZNAICqqIh7p6kJKTyPCCFI12pRfPgIgLnrN3H9hmTtxPUbiL3S iujDc+8TBF0u2OvqAACbWlo4p8VC/zhzBrPBoCTjwxMT4rOupoYTbDbqczjw1rZtUBUVcQDg6e2V hSdCCLzOB2wPrP78C6Rrtfg3FBLv7Pr6em7L+fPI3bpVDEmGToeCigqJiMZk4tbX13PRzQEg4BqR eS+F57Fs9RpJn+iBZSUl3LQg0ODYGGZDITjMZpqp1yOntJQDgGlBoCQQQLZez6GoSCYeawo+jQmQ ueFdNgAAMXmuGY006HJBoVLhzjdf0w++/4GLjsXa454eOuVwQKFUonDnTlFjeVkZxru6JHOXFhZi xXvvS3Rkol67nf68d68kfm/v24eNjY2SucHRUdp/4ACej42Jfcq8PBitVijVai7k89FbtbXieArP Y9PJk9BWV0t0JB4AgODDh7Lk+fPsWTzu6aErq6rExUM//YigyyVJzpDHg9t79mBaEKhSreamBYGO tLWBPn2KZRUVss2ZAPHs7rFjCPl8VKlWcwDguzfAfBc8Gx7GjcpKjLS3U0nYTp9m6soKkTJOzQYA Gg4DAF710TETCGCotRWXDQbqtFgSzpUBaEwmLkOnk4WBz84WEyzs8YD4/Yl0RRBXWxsSfTMyS3Fp WxvStVpECBF/mevWieNDra2YDSb/FTztdscdYwJk6/Xc1q4u6HbtQrpWi7TcXKz56ksAcyXb09vL jH88yzeZ4o7FTcKou0M+H6XhMJZoNFxwdJTerK1NuFks2MqqKmhMJmYNSQgQtWjWA8Dfly5hJhBg brqirAw55WVYukqHNzMyQN9IQYamAPEKWNIAL9s/f40hQojklJl6PTZ89+1chTt3bj5yc/Dzmaz5 9DPx/Z+alYW1dXX4xGrlYsvr/2qCzUYdZjP12u2v5e/Yf+FBMlHUI8VdAAAAAElFTkSuQmCC "
        id="image36301"
        x="2712.915"
-       y="-373.07709"
+       y="-371.20209"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -10701,7 +10701,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.45193577px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#58595b;stroke-width:0.26458332">TODAY</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#ececec;stroke-width:0.93750006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1604.0626,-775.3253 h 358.912"
+       d="m 1605.9376,-775.3253 h 357.037"
        id="path87110"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="90"
@@ -11270,7 +11270,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#ececec;stroke-width:0.93750006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1604.0626,-812.8253 h 358.912"
+       d="m 1605.9376,-812.8253 h 357.037"
        id="path87272"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="90"
@@ -11616,501 +11616,6 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-    <rect
-       y="-589.94421"
-       x="3522.2021"
-       height="63.470711"
-       width="311.25"
-       id="rect87898"
-       style="display:inline;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       inkscape:export-filename="/home/duffy/Desktop/_delete_/meeting-reminders.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-       transform="matrix(0.30756657,0,0,0.93749992,3520.5071,-682.7598)"
-       inkscape:connector-curvature="0"
-       id="path87900"
-       d="m -1,101.875 v 1 h 1025 v -1 z"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;filter:url(#filter10974-5-0);enable-background:accumulate" />
-    <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/Desktop/_delete_/meeting-reminders.png"
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       id="rect87902"
-       width="311.25"
-       height="286.72049"
-       x="3522.2021"
-       y="-876.41968" />
-    <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-       y="-876.41968"
-       x="3522.2021"
-       height="28.124998"
-       width="311.25"
-       id="rect87904"
-       style="display:inline;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:0.26458332" />
-    <text
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-       id="text87908"
-       y="-857.59119"
-       x="3529.0547"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.4076767px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.87690353px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
-         y="-857.59119"
-         x="3529.0547"
-         id="tspan87906"
-         sodipodi:role="line">Meetings</tspan></text>
-    <g
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/Desktop/_delete_/cancel-meeting-request.png"
-       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#ffffff"
-       transform="matrix(0.93749998,0,0,-0.68143098,3623.4524,-930.1874)"
-       id="g87916">
-      <g
-         style="fill:#ffffff;fill-opacity:0;stroke:#ffffff"
-         transform="matrix(0.76432249,0,0,0.76432249,42.62109,-21.784362)"
-         id="g87914">
-        <path
-           inkscape:connector-curvature="0"
-           id="path87910"
-           d="m 166.4303,-106.42679 10.58555,10.475053"
-           style="fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           style="fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 185.01585,-106.42679 174.4303,-95.951737"
-           id="path87912"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
-    <text
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-       id="text87920"
-       y="-825.43042"
-       x="3531.1665"
-       style="font-style:normal;font-weight:normal;font-size:19.41318321px;line-height:23.4375px;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         id="tspan87918"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.99999905px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#60605b;fill-opacity:1;stroke-width:0.26458332"
-         y="-825.43042"
-         x="3531.1665"
-         sodipodi:role="line">The Design Team meeting is in 3 days:</tspan></text>
-    <g
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/Desktop/_delete_/cancel-meeting-request.png"
-       id="g87926"
-       transform="matrix(0.20260885,0.1808147,-0.18081471,0.20260884,3708.2439,-1114.2135)"
-       style="display:inline;fill:#ffffff">
-      <path
-         inkscape:transform-center-y="-4.1374151"
-         transform="matrix(0.8660254,0.41687844,-0.5,0.72205464,401.02486,-374.34342)"
-         d="m 936.25983,556.49829 -14.88707,8.59506 -14.88708,8.59506 v -17.19012 -17.19011 l 14.88708,8.59505 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="1.0471976"
-         sodipodi:arg1="0"
-         sodipodi:r2="9.9247169"
-         sodipodi:r1="19.849434"
-         sodipodi:cy="556.49829"
-         sodipodi:cx="916.4104"
-         sodipodi:sides="3"
-         id="path87922"
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
-         sodipodi:type="star" />
-      <rect
-         transform="translate(0,-148.6377)"
-         y="562.15515"
-         x="911.46063"
-         height="42.072853"
-         width="9.8994951"
-         id="rect87924"
-         style="fill:#ffffff;fill-opacity:1;stroke:none" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80632973px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="3619.5786"
-       y="-798.78113"
-       id="text87930"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         x="3619.5786"
-         y="-798.78113"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.74629021px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:0.26458332"
-         id="tspan87928">@11:00 AM ET</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.82778549px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="3722.6128"
-       y="-747.18707"
-       id="text87934"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       transform="scale(0.94856196,1.0542274)"><tspan
-         sodipodi:role="line"
-         id="tspan87932"
-         x="3722.6128"
-         y="-747.18707"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.82778549px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:0.26458332">Nov 04</tspan></text>
-    <text
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-       id="text87938"
-       y="-785.92371"
-       x="3619.5786"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80632973px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         id="tspan87936"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.29631805px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3c6eb4;stroke-width:0.26458332"
-         y="-785.92371"
-         x="3619.5786"
-         sodipodi:role="line">#design-team</tspan></text>
-    <g
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/Desktop/_delete_/cancel-meeting-request.png"
-       transform="translate(2887.0247,-6081.8228)"
-       id="g87948">
-      <rect
-         transform="matrix(-0.78593376,0,0,-0.73182817,294.8898,4392.2857)"
-         style="display:inline;opacity:0.57142861;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:1.2361573;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter23292-4)"
-         id="rect87940"
-         width="130"
-         height="34"
-         x="-818.5"
-         y="-1235.8623"
-         ry="5"
-         rx="6.594203"
-         inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <rect
-         rx="5.1826067"
-         ry="3.6591408"
-         y="-5296.7251"
-         x="-938.17627"
-         height="24.882158"
-         width="102.17139"
-         id="rect87942"
-         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#d1d3d4;stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none"
-         transform="scale(-1)"
-         inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <text
-         id="text87946"
-         y="5289.2607"
-         x="844.82733"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.018713px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#a07cbc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"
-         inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.69161797px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#a07cbc;fill-opacity:1;stroke-width:0.26458332"
-           y="5289.2607"
-           x="844.82733"
-           id="tspan87944"
-           sodipodi:role="line">Add to Calendar</tspan></text>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:19.41318321px;line-height:23.4375px;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="3531.1665"
-       y="-745.43054"
-       id="text87954"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         x="3531.1665"
-         y="-745.43054"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.99999905px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#60605b;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan87950">The Fedora 23 Wallpaper Hackfest is in </tspan><tspan
-         sodipodi:role="line"
-         x="3531.1665"
-         y="-720.86591"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.99999905px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#60605b;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan87952">1 week:</tspan></text>
-    <text
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-       id="text87958"
-       y="-698.78113"
-       x="3617.5786"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80632973px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         id="tspan87956"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.74629021px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:0.26458332"
-         y="-698.78113"
-         x="3617.5786"
-         sodipodi:role="line">@11:00 AM ET</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80632973px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="3617.5786"
-       y="-687.79871"
-       id="text87962"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         x="3617.5786"
-         y="-687.79871"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.29631805px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3c6eb4;stroke-width:0.26458332"
-         id="tspan87960">#fedora-meeting-1</tspan></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#d1d3d4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 3520.5924,-772.6778 h 312.5412"
-       id="path87964"
-       inkscape:connector-curvature="0" />
-    <text
-       transform="scale(0.94856196,1.0542274)"
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-       id="text87968"
-       y="-652.33112"
-       x="3722.6128"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.82778549px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.82778549px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:0.26458332"
-         y="-652.33112"
-         x="3722.6128"
-         id="tspan87966"
-         sodipodi:role="line">Nov 12</tspan></text>
-    <g
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/Desktop/_delete_/cancel-meeting-request.png"
-       id="g87978"
-       transform="translate(2887.0247,-5981.8228)">
-      <rect
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-         rx="6.594203"
-         ry="5"
-         y="-1235.8623"
-         x="-818.5"
-         height="34"
-         width="130"
-         id="rect87970"
-         style="display:inline;opacity:0.57142861;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:1.2361573;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter23292-4)"
-         transform="matrix(-0.78593376,0,0,-0.73182817,294.8898,4392.2857)" />
-      <rect
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-         transform="scale(-1)"
-         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#d1d3d4;stroke-width:0.9375;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect87972"
-         width="102.17139"
-         height="24.882158"
-         x="-938.17627"
-         y="-5296.7251"
-         ry="3.6591408"
-         rx="5.1826067" />
-      <text
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.018713px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#a07cbc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="844.82733"
-         y="5289.2607"
-         id="text87976"><tspan
-           sodipodi:role="line"
-           id="tspan87974"
-           x="844.82733"
-           y="5289.2607"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.69161797px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#a07cbc;fill-opacity:1;stroke-width:0.26458332">Add to Calendar</tspan></text>
-    </g>
-    <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-       rx="6.594203"
-       ry="5"
-       y="-1235.8623"
-       x="-818.5"
-       height="34"
-       width="130"
-       id="rect87980"
-       style="display:inline;opacity:0.57142861;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:0.74684954;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter23292-4)"
-       transform="matrix(-1.6807573,0,0,-0.93749992,2411.8624,-1702.25)" />
-    <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-       transform="scale(-1)"
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#d1d3d4;stroke-width:0.93749994;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect87982"
-       width="218.49844"
-       height="31.874998"
-       x="-3787.562"
-       y="543.6283"
-       ry="4.6874995"
-       rx="4.7192907" />
-    <text
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.4076767px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#a07cbc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="3597.8242"
-       y="-554.91248"
-       id="text87986"><tspan
-         sodipodi:role="line"
-         id="tspan87984"
-         x="3597.8242"
-         y="-554.91248"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.87690353px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#a07cbc;fill-opacity:1;stroke-width:0.26458332">Request A New Meeting</tspan></text>
-    <path
-       inkscape:connector-curvature="0"
-       id="path87988"
-       d="m 3520.5924,-670.6778 h 312.5412"
-       style="fill:none;fill-rule:evenodd;stroke:#d1d3d4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <text
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-       id="text87992"
-       y="-647.43054"
-       x="3531.1665"
-       style="font-style:normal;font-weight:normal;font-size:19.41318321px;line-height:23.4375px;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         id="tspan87990"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.99999905px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#60605b;fill-opacity:1;stroke-width:0.26458332"
-         y="-647.43054"
-         x="3531.1665"
-         sodipodi:role="line">Fedora Hubs Demo</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.82778549px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="3720.5044"
-       y="-577.3952"
-       id="text87996"
-       inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       transform="scale(0.94856196,1.0542274)"><tspan
-         sodipodi:role="line"
-         id="tspan87994"
-         x="3720.5044"
-         y="-577.3952"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.82778549px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:0.26458332">Requested</tspan></text>
-    <g
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/Desktop/_delete_/cancel-meeting-request.png"
-       transform="matrix(0.92370116,0,0,1,-832.8659,-4956.1088)"
-       id="g88002">
-      <rect
-         transform="matrix(-0.78593376,0,0,-0.73182817,4400.1946,3450.5717)"
-         style="display:inline;opacity:0.57142861;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:1.2861985;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter23292-4)"
-         id="rect87998"
-         width="130"
-         height="34"
-         x="-818.5"
-         y="-1235.8623"
-         ry="5"
-         rx="6.594203"
-         inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <rect
-         rx="5.1826067"
-         ry="3.6591408"
-         y="-4355.0112"
-         x="-5043.481"
-         height="24.882158"
-         width="102.17139"
-         id="rect88000"
-         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#d1d3d4;stroke-width:0.97545117;stroke-miterlimit:4;stroke-dasharray:none"
-         transform="scale(-1)"
-         inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-    </g>
-    <text
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/Desktop/_delete_/cancel-meeting-request.png"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.018713px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#a07cbc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="3741.8521"
-       y="-608.56189"
-       id="text88006"><tspan
-         sodipodi:role="line"
-         id="tspan88004"
-         x="3741.8521"
-         y="-608.56189"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.69161797px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#a07cbc;fill-opacity:1;stroke-width:0.26458332">View Request</tspan></text>
-    <g
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/duffy/Desktop/_delete_/cancel-meeting-request.png"
-       id="g88012"
-       transform="matrix(0.55800241,0,0,1,911.34684,-4956.1088)">
-      <rect
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-         rx="6.594203"
-         ry="5"
-         y="-1235.8623"
-         x="-818.5"
-         height="34"
-         width="130"
-         id="rect88008"
-         style="display:inline;opacity:0.57142861;fill:#ffffff;fill-opacity:1;stroke:#a7a9ac;stroke-width:1.6548388;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter23292-4)"
-         transform="matrix(-0.78593376,0,0,-0.73182817,4400.1946,3450.5717)" />
-      <rect
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
-         transform="scale(-1)"
-         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#d1d3d4;stroke-width:1.25502753;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect88010"
-         width="102.17139"
-         height="24.882158"
-         x="-5043.481"
-         y="-4355.0112"
-         ry="3.6591408"
-         rx="5.1826067" />
-    </g>
-    <text
-       id="text88016"
-       y="-608.56189"
-       x="3687.8521"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.018713px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#a07cbc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"
-       inkscape:export-filename="/home/duffy/Desktop/_delete_/cancel-meeting-request.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.69161797px;line-height:23.4375px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#a07cbc;fill-opacity:1;stroke-width:0.26458332"
-         y="-608.56189"
-         x="3687.8521"
-         id="tspan88014"
-         sodipodi:role="line">Edit</tspan></text>
     <text
        id="text88034"
        y="-1007.5614"
@@ -12558,7 +12063,7 @@
          id="tspan88472"
          sodipodi:role="line">Request A New Meeting</tspan></text>
     <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.94275717;marker:none;filter:url(#filter10974-5-0);enable-background:accumulate;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.1"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.94275719;stroke-miterlimit:4;stroke-dasharray:none;marker:none;filter:url(#filter10974-5-0);enable-background:accumulate"
        d="m -1,101.875 v 1 h 1025 v -1 z"
        id="path88476"
        inkscape:connector-curvature="0"
